@@ -1,0 +1,4 @@
+Breast cancer dataset:
+    + Removed ID
+    + Made malignant = 1, benign = 0
+    + Randomly chose attribute value from all complete instances
