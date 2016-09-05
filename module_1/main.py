@@ -1,4 +1,5 @@
 from winnow_model import *
+from naive_bayes_model import *
 import sys
 import os.path
 import numpy as np
@@ -18,7 +19,7 @@ except ValueError:
     sys.exit()
 
 model = WinnowModel(2, 0.5, num_of_attrs, 1) # alpha, theta, number of weights, initial val of weights
-
+naive_bayes = NaiveBayes()
 
 # Read in processed data
 data_instances = []
@@ -27,8 +28,10 @@ for line in data_file:
     line_split = line.split(',')
     data_instances.append(map(int, line_split))
 
+naive_bayes.build_model(data_instances)
+print naive_bayes.predict([1,1,0,1,0])
 # 10-fold cross-validation
-ave_success_rate = 0.0
+'''ave_success_rate = 0.0
 split_data_instances = np.array_split(data_instances, 10)
 for fold in range(0, 10):
     training_data = np.concatenate((np.delete(split_data_instances, fold, 0)), 0)
@@ -47,5 +50,5 @@ for fold in range(0, 10):
             successes += 1
 
     ave_success_rate += successes/float(trials)
-print "Ave success rate = %f" % (ave_success_rate/10)
+print "Ave success rate = %f" % (ave_success_rate/10)'''
 #print model.output_model()
