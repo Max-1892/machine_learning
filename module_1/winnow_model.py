@@ -32,8 +32,11 @@ class WinnowModel:
         prediction = 1 if weight_instance_sum > self.theta else 0
         return prediction
 
-    def output_model(self):
-        print self.weights
-        return "Weights: [%s], alpha: %f, theta: %f" % \
-            (",".join([str(weight) for weight in self.weights]), \
-            self.alpha , self.theta)
+    def print_model(self):
+        model = "Alpha: %f, theta: %f\n" % (self.alpha, self.theta)
+        for weight_index in xrange(len(self.weights)):
+            #model += "Weight_%d = %f", (weight_index, self.weights[weight_index])
+            model += "Weight_{} = {}".format(weight_index, self.weights[weight_index])
+            if weight_index != (len(self.weights) - 1):
+                model += ", "
+        return model

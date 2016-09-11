@@ -1,7 +1,11 @@
 import numpy as np
 
 class NaiveBayes:
-    """This class encapsulates the naive Bayes algorithm."""
+    """
+        This class encapsulates the naive Bayes algorithm.
+        Note: if a probability of 0 comes up during the prediction stage
+        a very small number is used for the calculation in it's place.
+    """
     def __init__(self):
         self.class_priors = {0: 0, 1: 0}
         # Represents table of conditional probabilities,
@@ -28,21 +32,42 @@ class NaiveBayes:
        # Calculate feature given class
        for class_value in range(2):
            for feature_value in range(2):
-               for feature_idx in range(positive_instances.shape[1]):
+               for feature_idx in range(len(instance[:-1])):
                    if class_value == 0:
-                       self.feature_given_class_prob[class_value][feature_value][feature_idx] = \
-                           float((negative_instances[:,feature_idx] == feature_value).sum()) / len(negative_instances)
+                       if len(negative_instances) > 0:
+                           self.feature_given_class_prob[class_value][feature_value][feature_idx] = \
+                               float((negative_instances[:,feature_idx] == feature_value).sum()) / len(negative_instances)
+                       else:
+                           self.feature_given_class_prob[class_value][feature_value][feature_idx] = 0.0
                    if class_value == 1:
-                       self.feature_given_class_prob[class_value][feature_value][feature_idx] = \
-                           float((positive_instances[:,feature_idx] == feature_value).sum()) / len(positive_instances)
+                       if len(positive_instances) > 0:
+                           self.feature_given_class_prob[class_value][feature_value][feature_idx] = \
+                               float((positive_instances[:,feature_idx] == feature_value).sum()) / len(positive_instances)
+                       else:
+                           self.feature_given_class_prob[class_value][feature_value][feature_idx] = 0.0
 
     def predict(self, data_instance):
-        argmax_class_probability = 0
+        argmax_class_probability = -1.0
         argmax_class = -1
         for class_value in range(2):
             probability_of_belonging_to_class_value = self.class_priors[class_value]
             for attr_idx, instance_attr in enumerate(data_instance): 
-                probability_of_belonging_to_class_value *= self.feature_given_class_prob[class_value][instance_attr][attr_idx]
+                if self.feature_given_class_prob[class_value][instance_attr][attr_idx] == 0:
+                    probability_of_belonging_to_class_value *= 0.00000000000000000000001
+                else:
+                    probability_of_belonging_to_class_value *= \
+                        self.feature_given_class_prob[class_value][instance_attr][attr_idx]
             if probability_of_belonging_to_class_value > argmax_class_probability:
+                argmax_class_probability = probability_of_belonging_to_class_value
                 argmax_class = class_value
         return argmax_class
+
+    def print_model(self):
+        model = "P(class value = {}) = {}\n".format(0, self.class_priors[0])
+        model += "P(class value = {}) = {}\n".format(1, self.class_priors[1])
+        for class_key, inst_val_map in self.feature_given_class_prob.iteritems():
+            for instance_val_key, value in inst_val_map.iteritems():
+                for attr_key, probability in value.iteritems():
+                    model += "P(f_{} = {} | Class value = {}) = {}\n".format(  \
+                        attr_key, instance_val_key, class_key, probability)
+        return model
