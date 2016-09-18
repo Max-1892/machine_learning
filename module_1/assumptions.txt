@@ -1,4 +1,0 @@
-Breast cancer dataset:
-    + Removed ID
-    + Made malignant = 1, benign = 0
-    + Used conditional probability given class to determine incomplete data instance values
