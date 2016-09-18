@@ -1,0 +1,364 @@
+Running with data_sets/encoded/glass_data_1_encoded.txt
+best performance = -inf
+Modeling with [0]
+model performance = 0.694444
+best performance updated to 0.694444
+Modeling with [1]
+model performance = 0.694444
+Modeling with [2]
+model performance = 0.694444
+Modeling with [3]
+model performance = 0.694444
+Modeling with [4]
+model performance = 0.694444
+Modeling with [5]
+model performance = 0.694444
+Modeling with [6]
+model performance = 0.666667
+Modeling with [7]
+model performance = 0.694444
+Modeling with [8]
+model performance = 0.694444
+Modeling with [9]
+model performance = 0.694444
+Modeling with [10]
+model performance = 0.694444
+Modeling with [11]
+model performance = 0.694444
+Modeling with [12]
+model performance = 0.694444
+Modeling with [13]
+model performance = 0.694444
+Modeling with [14]
+model performance = 0.694444
+Modeling with [15]
+model performance = 0.694444
+Modeling with [16]
+model performance = 0.694444
+Modeling with [17]
+model performance = 0.694444
+Modeling with [18]
+model performance = 0.694444
+Modeling with [19]
+model performance = 0.694444
+Modeling with [20]
+model performance = 0.694444
+Modeling with [21]
+model performance = 0.694444
+Modeling with [22]
+model performance = 0.694444
+Modeling with [23]
+model performance = 0.694444
+Modeling with [24]
+model performance = 0.694444
+Modeling with [25]
+model performance = 0.694444
+Modeling with [26]
+model performance = 0.694444
+Modeling with [27]
+model performance = 0.694444
+Modeling with [28]
+model performance = 0.694444
+Modeling with [29]
+model performance = 0.694444
+Modeling with [30]
+model performance = 0.694444
+Modeling with [31]
+model performance = 0.694444
+Modeling with [32]
+model performance = 0.694444
+Modeling with [33]
+model performance = 0.694444
+Modeling with [34]
+model performance = 0.694444
+Modeling with [35]
+model performance = 0.694444
+Modeling with [36]
+model performance = 0.694444
+Modeling with [37]
+model performance = 0.694444
+Modeling with [38]
+model performance = 0.694444
+Modeling with [39]
+model performance = 0.694444
+Modeling with [40]
+model performance = 0.694444
+Modeling with [41]
+model performance = 0.694444
+Modeling with [42]
+model performance = 0.652778
+Modeling with [43]
+model performance = 0.694444
+Modeling with [44]
+model performance = 0.694444
+Modeling with [45]
+model performance = 0.694444
+Modeling with [46]
+model performance = 0.694444
+Modeling with [47]
+model performance = 0.694444
+Modeling with [48]
+model performance = 0.694444
+Modeling with [49]
+model performance = 0.694444
+Modeling with [50]
+model performance = 0.694444
+Modeling with [51]
+model performance = 0.694444
+Modeling with [52]
+model performance = 0.694444
+Modeling with [53]
+model performance = 0.694444
+Modeling with [54]
+model performance = 0.694444
+Modeling with [55]
+model performance = 0.694444
+Modeling with [56]
+model performance = 0.694444
+Modeling with [57]
+model performance = 0.694444
+Modeling with [58]
+model performance = 0.694444
+Modeling with [59]
+model performance = 0.694444
+Modeling with [60]
+model performance = 0.694444
+Modeling with [61]
+model performance = 0.694444
+Modeling with [62]
+model performance = 0.694444
+Modeling with [63]
+model performance = 0.694444
+Modeling with [64]
+model performance = 0.694444
+Modeling with [65]
+model performance = 0.694444
+Modeling with [66]
+model performance = 0.694444
+Modeling with [67]
+model performance = 0.694444
+Modeling with [68]
+model performance = 0.694444
+Modeling with [69]
+model performance = 0.694444
+Modeling with [70]
+model performance = 0.694444
+Modeling with [71]
+model performance = 0.694444
+Modeling with [72]
+model performance = 0.694444
+Modeling with [73]
+model performance = 0.694444
+Modeling with [74]
+model performance = 0.694444
+Modeling with [75]
+model performance = 0.694444
+Modeling with [76]
+model performance = 0.694444
+Modeling with [77]
+model performance = 0.694444
+Modeling with [78]
+model performance = 0.694444
+Modeling with [79]
+model performance = 0.694444
+Modeling with [80]
+model performance = 0.694444
+Modeling with [81]
+model performance = 0.694444
+Modeling with [82]
+model performance = 0.694444
+Modeling with [83]
+model performance = 0.694444
+Modeling with [84]
+model performance = 0.694444
+Modeling with [85]
+model performance = 0.694444
+Modeling with [86]
+model performance = 0.694444
+Modeling with [87]
+model performance = 0.694444
+Modeling with [88]
+model performance = 0.694444
+Modeling with [89]
+model performance = 0.694444
+base performance = 0.694444
+best performance = -inf
+Modeling with [0, 1]
+model performance = 0.694444
+best performance updated to 0.694444
+Modeling with [0, 2]
+model performance = 0.694444
+Modeling with [0, 3]
+model performance = 0.694444
+Modeling with [0, 4]
+model performance = 0.694444
+Modeling with [0, 5]
+model performance = 0.694444
+Modeling with [0, 6]
+model performance = 0.666667
+Modeling with [0, 7]
+model performance = 0.694444
+Modeling with [0, 8]
+model performance = 0.694444
+Modeling with [0, 9]
+model performance = 0.694444
+Modeling with [0, 10]
+model performance = 0.694444
+Modeling with [0, 11]
+model performance = 0.694444
+Modeling with [0, 12]
+model performance = 0.694444
+Modeling with [0, 13]
+model performance = 0.694444
+Modeling with [0, 14]
+model performance = 0.694444
+Modeling with [0, 15]
+model performance = 0.694444
+Modeling with [0, 16]
+model performance = 0.694444
+Modeling with [0, 17]
+model performance = 0.694444
+Modeling with [0, 18]
+model performance = 0.694444
+Modeling with [0, 19]
+model performance = 0.694444
+Modeling with [0, 20]
+model performance = 0.694444
+Modeling with [0, 21]
+model performance = 0.694444
+Modeling with [0, 22]
+model performance = 0.694444
+Modeling with [0, 23]
+model performance = 0.694444
+Modeling with [0, 24]
+model performance = 0.694444
+Modeling with [0, 25]
+model performance = 0.694444
+Modeling with [0, 26]
+model performance = 0.694444
+Modeling with [0, 27]
+model performance = 0.694444
+Modeling with [0, 28]
+model performance = 0.694444
+Modeling with [0, 29]
+model performance = 0.694444
+Modeling with [0, 30]
+model performance = 0.694444
+Modeling with [0, 31]
+model performance = 0.694444
+Modeling with [0, 32]
+model performance = 0.694444
+Modeling with [0, 33]
+model performance = 0.694444
+Modeling with [0, 34]
+model performance = 0.694444
+Modeling with [0, 35]
+model performance = 0.694444
+Modeling with [0, 36]
+model performance = 0.694444
+Modeling with [0, 37]
+model performance = 0.694444
+Modeling with [0, 38]
+model performance = 0.694444
+Modeling with [0, 39]
+model performance = 0.694444
+Modeling with [0, 40]
+model performance = 0.694444
+Modeling with [0, 41]
+model performance = 0.694444
+Modeling with [0, 42]
+model performance = 0.652778
+Modeling with [0, 43]
+model performance = 0.694444
+Modeling with [0, 44]
+model performance = 0.694444
+Modeling with [0, 45]
+model performance = 0.694444
+Modeling with [0, 46]
+model performance = 0.694444
+Modeling with [0, 47]
+model performance = 0.694444
+Modeling with [0, 48]
+model performance = 0.694444
+Modeling with [0, 49]
+model performance = 0.694444
+Modeling with [0, 50]
+model performance = 0.694444
+Modeling with [0, 51]
+model performance = 0.694444
+Modeling with [0, 52]
+model performance = 0.694444
+Modeling with [0, 53]
+model performance = 0.694444
+Modeling with [0, 54]
+model performance = 0.694444
+Modeling with [0, 55]
+model performance = 0.694444
+Modeling with [0, 56]
+model performance = 0.694444
+Modeling with [0, 57]
+model performance = 0.694444
+Modeling with [0, 58]
+model performance = 0.694444
+Modeling with [0, 59]
+model performance = 0.694444
+Modeling with [0, 60]
+model performance = 0.694444
+Modeling with [0, 61]
+model performance = 0.694444
+Modeling with [0, 62]
+model performance = 0.694444
+Modeling with [0, 63]
+model performance = 0.694444
+Modeling with [0, 64]
+model performance = 0.694444
+Modeling with [0, 65]
+model performance = 0.694444
+Modeling with [0, 66]
+model performance = 0.694444
+Modeling with [0, 67]
+model performance = 0.694444
+Modeling with [0, 68]
+model performance = 0.694444
+Modeling with [0, 69]
+model performance = 0.694444
+Modeling with [0, 70]
+model performance = 0.694444
+Modeling with [0, 71]
+model performance = 0.694444
+Modeling with [0, 72]
+model performance = 0.694444
+Modeling with [0, 73]
+model performance = 0.694444
+Modeling with [0, 74]
+model performance = 0.694444
+Modeling with [0, 75]
+model performance = 0.694444
+Modeling with [0, 76]
+model performance = 0.694444
+Modeling with [0, 77]
+model performance = 0.694444
+Modeling with [0, 78]
+model performance = 0.694444
+Modeling with [0, 79]
+model performance = 0.694444
+Modeling with [0, 80]
+model performance = 0.694444
+Modeling with [0, 81]
+model performance = 0.694444
+Modeling with [0, 82]
+model performance = 0.694444
+Modeling with [0, 83]
+model performance = 0.694444
+Modeling with [0, 84]
+model performance = 0.694444
+Modeling with [0, 85]
+model performance = 0.694444
+Modeling with [0, 86]
+model performance = 0.694444
+Modeling with [0, 87]
+model performance = 0.694444
+Modeling with [0, 88]
+model performance = 0.694444
+Modeling with [0, 89]
+model performance = 0.694444
