@@ -18,7 +18,7 @@ class KMeans:
         self.means = []
         for mean_idx in xrange(self.num_of_means):
             mean = []
-            for col_idx in xrange(data.shape[1]):
+            for col_idx in xrange(data.shape[1] - 1):
                 mean.append(random.uniform(np.min(data[:,col_idx]), np.max(data[:,col_idx])))
             self.means.append(mean)
 
@@ -26,7 +26,7 @@ class KMeans:
         continue running.'''
         means_updating = True
         loops = 0
-        while means_updating '''and loops < 1000''':
+        while means_updating:
             '''Initialize clusters for the new run'''
             self.clusters = {}
             for init in xrange(self.num_of_means):
@@ -50,7 +50,7 @@ class KMeans:
             cluster and averaging their values for each attribute.'''
             means_updating = False
             for mean_idx in xrange(len(self.means)):
-                for attr_idx in xrange(data.shape[1]):
+                for attr_idx in xrange(data.shape[1] - 1):
                     old_mean = self.means[mean_idx][attr_idx]
                     if len(self.clusters[mean_idx]) > 0:
                         self.means[mean_idx][attr_idx] = \
@@ -76,7 +76,7 @@ class KMeans:
         for mean_1 in self.means:
             for mean_2 in self.means:
                 if not mean_1 == mean_2:
-                    euclidean_dist = sqrt(sum((mean1 - mean2)**2)))
+                    euclidean_dist = sqrt(sum((mean1 - mean2)**2))
                     total += euclidean_dist ** 2
         return total 
 
@@ -87,6 +87,6 @@ class KMeans:
         total = 0.0
         for mean_idx in xrange(len(self.means)):
             for instance in self.clusters[mean_idx]:
-                euclidean_dist = sqrt(sum((instance - self.means[mean_idx])**2)))
+                euclidean_dist = sqrt(sum((instance - self.means[mean_idx])**2))
                 total += euclidean_dist ** 2
         return total
