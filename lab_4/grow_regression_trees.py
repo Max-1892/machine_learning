@@ -1,20 +1,16 @@
 import numpy as np
 import pdb
-from classification_decision_tree import ClassificationDecisionTree
+from regression_decision_tree import RegressionDecisionTree
 
-# Data sets to use
-tests = ['data_sets/abalone_data.txt', 'data_sets/car_data.txt', 'data_sets/image_data.txt']
+tests = ['data_sets/cpu_data.txt']
+#tests = ['data_sets/cpu_data.txt', 
+          #'data_sets/fire_data.txt', 
+          #'data_sets/red_wine_data.txt', 
+          #'data_sets/white_wine_data.txt']
 
-# Attribute information map
-#   stores the number of attributes in each data set,
-#   their type and possible values.
-attr_info_map = {'data_sets/test_data.txt':
-                     [("DISCRETE", [0, 1, 2]),
-                      ("DISCRETE", [0, 1, 2]),
-                      ("DISCRETE", [0, 1]),
-                      ("DISCRETE", [0, 1])],
-                 'data_sets/abalone_data.txt':
-                     [("DISCRETE", [0, 1, 2]),
+attr_info_map = {
+                 'data_sets/cpu_data.txt':
+                     [("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
@@ -22,14 +18,7 @@ attr_info_map = {'data_sets/test_data.txt':
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", [])],
-                 'data_sets/car_data.txt':
-                     [("DISCRETE", [0, 1, 2, 3, 4]),
-                      ("DISCRETE", [0, 1, 2, 3, 4]),
-                      ("DISCRETE", [2, 3, 4, 5]),
-                      ("DISCRETE", [2, 4, 5]),
-                      ("DISCRETE", [0, 1, 2]),
-                      ("DISCRETE", [0, 1, 2])],
-                 'data_sets/image_data.txt':
+                 'data_sets/fire_data.txt':
                      [("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
@@ -39,6 +28,22 @@ attr_info_map = {'data_sets/test_data.txt':
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", [])],
+                 'data_sets/white_wine_data.txt':
+                     [("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", []),
+                      ("CONTINUOUS", [])],
+                 'data_sets/red_wine_data.txt':
+                     [("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
                       ("CONTINUOUS", []),
@@ -51,23 +56,15 @@ attr_info_map = {'data_sets/test_data.txt':
                       ("CONTINUOUS", [])],
                 }
 
-# Class labels for each data set
-class_labels_map = {
-                    'data_sets/abalone_data.txt': [i for i in xrange(0,29)],
-                    'data_sets/car_data.txt': [0, 1, 2, 3],
-                    'data_sets/image_data.txt': [0, 1, 2, 3, 4, 5, 6]
-                   }
 # Read in data
 for test in tests:
     data_instances = []
     data_file = open(test)
     print "Running with %s" % test
-    # Digest read data
     for line in data_file:
         line_split = line.split(',')
         data_instances.append(map(float, line_split))
     data_instances = np.array(data_instances)
-    # Shuffle data instances
     np.random.shuffle(data_instances)
 
     # Construct validation set
@@ -81,24 +78,22 @@ for test in tests:
     fold_size = (data_instances.shape[0]) / 5
     total_performance = 0.0
     for holdout_fold_idx in xrange(5):
-        # training_indices = data_indices - holdout_fold indices
         training_indices = np.array(
             np.setdiff1d(
                 data_indices, 
                 data_indices[fold_size * holdout_fold_idx : fold_size * holdout_fold_idx + fold_size]))
-        # test_indices = holdout_fold indices
         test_indices = np.array([i for i in xrange(
             fold_size * holdout_fold_idx, fold_size * holdout_fold_idx + fold_size)])
-
-        # Initialize decision tree
-        tree = ClassificationDecisionTree(attr_info_map[test], class_labels=class_labels_map[test])
-        # Train the tree
+        tree = RegressionDecisionTree(
+            attr_info = attr_info_map[test], stopping_threshold = 0.0)
+        '''TODO pruned_tree = RegressionDecisionTree(
+            attr_info = attr_info_map[test], stopping_threshold = 0.0)'''
         tree.train(training_data = data_instances[training_indices],
                    attributes = [i for i in xrange(data_instances[:,:-1].shape[1])])
-        # Perform reduced-error pruning with the validation set
-        tree.prune(validation_instances)
-        # Test performance on test set
         predictions = tree.predict(data_instances[test_indices, :-1])
         total_performance += \
-            (100 * (sum(data_instances[test_indices,-1] == predictions) / float(data_instances.shape[0])))
-    print "Average accuracy: %f" % (total_performance / 5)
+            (sum(data_instances[test_indices,-1] - predictions) ** 2) / \
+                float(test_indices.shape[0])
+        print (sum(data_instances[test_indices,-1] - predictions) ** 2) / \
+                float(test_indices.shape[0])
+    print "Average mean squared error: %f" % (total_performance / 5)

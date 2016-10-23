@@ -1,0 +1,545 @@
+Running with data_sets/abalone_data.txt
+Learned tree:  
+node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.144, split branches length: 2, split number of instances: 3008
+branches(
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.22, split branches length: 2, split number of instances: 860
+    branches(
+        node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.0135, split branches length: 2, split number of instances: 158
+        branches(
+            node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.0715, split branches length: 2, split number of instances: 61
+            branches(
+                node(class label: 4)
+                node(class label: 7)))
+            node(class label: 5)))
+        node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 702
+        branches(
+            node(class label: 9)
+            node(class label: 9)
+            node(class label: 7)))))
+    node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.16, split branches length: 2, split number of instances: 2148
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 0.535, split branches length: 2, split number of instances: 1278
+        branches(
+            node(class label: 8)
+            node(class label: 9)))
+        node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.44525, split branches length: 2, split number of instances: 870
+        branches(
+            node(class label: 13)
+            node(class label: 10)))))))
+Learned tree:  
+node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.14375, split branches length: 2, split number of instances: 3008
+branches(
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.22, split branches length: 2, split number of instances: 852
+    branches(
+        node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.01, split branches length: 2, split number of instances: 153
+        branches(
+            node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.02325, split branches length: 2, split number of instances: 39
+            branches(
+                node(class label: 3)
+                node(class label: 4)))
+            node(class label: 5)))
+        node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 699
+        branches(
+            node(class label: 8)
+            node(class label: 8)
+            node(class label: 7)))))
+    node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.16, split branches length: 2, split number of instances: 2156
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 0.56, split branches length: 2, split number of instances: 1297
+        branches(
+            node(class label: 8)
+            node(class label: 9)))
+        node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.6465, split branches length: 2, split number of instances: 859
+        branches(
+            node(class label: 10)
+            node(class label: 11)))))))
+Learned tree:  
+node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.144, split branches length: 2, split number of instances: 3008
+branches(
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.22, split branches length: 2, split number of instances: 870
+    branches(
+        node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.011, split branches length: 2, split number of instances: 161
+        branches(
+            node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.02325, split branches length: 2, split number of instances: 52
+            branches(
+                node(class label: 3)
+                node(class label: 4)))
+            node(class label: 5)))
+        node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 709
+        branches(
+            node(class label: 8)
+            node(class label: 7)
+            node(class label: 7)))))
+    node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.16, split branches length: 2, split number of instances: 2138
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 0.535, split branches length: 2, split number of instances: 1283
+        branches(
+            node(class label: 8)
+            node(class label: 9)))
+        node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.44475, split branches length: 2, split number of instances: 855
+        branches(
+            node(class label: 13)
+            node(class label: 11)))))))
+Learned tree:  
+node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.14375, split branches length: 2, split number of instances: 3008
+branches(
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.22, split branches length: 2, split number of instances: 835
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 0.255, split branches length: 2, split number of instances: 155
+        branches(
+            node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.0225, split branches length: 2, split number of instances: 83
+            branches(
+                node(class label: 3)
+                node(class label: 4)))
+            node(class label: 5)))
+        node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 680
+        branches(
+            node(class label: 9)
+            node(class label: 7)
+            node(class label: 7)))))
+    node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.15, split branches length: 2, split number of instances: 2173
+    branches(
+        node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.1605, split branches length: 2, split number of instances: 989
+        branches(
+            node(class label: 8)
+            node(class label: 9)))
+        node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.44475, split branches length: 2, split number of instances: 1184
+        branches(
+            node(class label: 10)
+            node(class label: 10)))))))
+Learned tree:  
+node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.1535, split branches length: 2, split number of instances: 3008
+branches(
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.235, split branches length: 2, split number of instances: 920
+    branches(
+        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.05675, split branches length: 2, split number of instances: 191
+        branches(
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.011, split branches length: 2, split number of instances: 52
+            branches(
+                node(class label: 4)
+                node(class label: 4)))
+            node(class label: 5)))
+        node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 729
+        branches(
+            node(class label: 8)
+            node(class label: 9)
+            node(class label: 7)))))
+    node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.16, split branches length: 2, split number of instances: 2088
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 0.525, split branches length: 2, split number of instances: 1233
+        branches(
+            node(class label: 8)
+            node(class label: 9)))
+        node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.65025, split branches length: 2, split number of instances: 855
+        branches(
+            node(class label: 10)
+            node(class label: 11)))))))
+Average accuracy: 5.021277
+Running with data_sets/car_data.txt
+Learned tree:  
+node(split attribute: 5, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 1245
+branches(
+    node(class label: 0)
+    node(split attribute: 3, split attribute type: DISCRETE, split values: [ 2.  4.  5.], split branches length: 3, split number of instances: 416
+    branches(
+        node(class label: 0)
+        node(split attribute: 4, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 131
+        branches(
+            node(class label: 0)
+            node(class label: 1)
+            node(class label: 1)))
+        node(split attribute: 1, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 140
+        branches(
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 0)))))
+    node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 413
+    branches(
+        node(split attribute: 2, split attribute type: DISCRETE, split values: [ 2.  3.  4.  5.], split branches length: 4, split number of instances: 108
+        branches(
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 3)))
+        node(class label: 0)
+        node(class label: 0)
+        node(class label: 0)))))
+Learned tree:  
+node(split attribute: 5, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 1245
+branches(
+    node(class label: 0)
+    node(split attribute: 3, split attribute type: DISCRETE, split values: [ 2.  4.  5.], split branches length: 3, split number of instances: 422
+    branches(
+        node(class label: 0)
+        node(split attribute: 4, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 143
+        branches(
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 1)))
+        node(split attribute: 1, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 139
+        branches(
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 0)))))
+    node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 395
+    branches(
+        node(split attribute: 2, split attribute type: DISCRETE, split values: [ 2.  3.  4.  5.], split branches length: 4, split number of instances: 100
+        branches(
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 3)
+            node(class label: 0)))
+        node(class label: 1)
+        node(class label: 0)
+        node(class label: 0)))))
+Learned tree:  
+node(split attribute: 5, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 1245
+branches(
+    node(class label: 0)
+    node(split attribute: 3, split attribute type: DISCRETE, split values: [ 2.  4.  5.], split branches length: 3, split number of instances: 421
+    branches(
+        node(class label: 0)
+        node(split attribute: 4, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 140
+        branches(
+            node(class label: 0)
+            node(class label: 1)
+            node(class label: 1)))
+        node(split attribute: 1, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 139
+        branches(
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 0)))))
+    node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 407
+    branches(
+        node(split attribute: 2, split attribute type: DISCRETE, split values: [ 2.  3.  4.  5.], split branches length: 4, split number of instances: 109
+        branches(
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 3)
+            node(class label: 3)))
+        node(class label: 0)
+        node(class label: 1)
+        node(class label: 0)))))
+Learned tree:  
+node(split attribute: 5, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 1245
+branches(
+    node(class label: 0)
+    node(split attribute: 3, split attribute type: DISCRETE, split values: [ 2.  4.  5.], split branches length: 3, split number of instances: 410
+    branches(
+        node(class label: 0)
+        node(split attribute: 4, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 139
+        branches(
+            node(class label: 0)
+            node(class label: 1)
+            node(class label: 1)))
+        node(split attribute: 1, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 133
+        branches(
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 0)
+            node(class label: 0)))))
+    node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 425
+    branches(
+        node(split attribute: 2, split attribute type: DISCRETE, split values: [ 2.  3.  4.  5.], split branches length: 4, split number of instances: 108
+        branches(
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 3)
+            node(class label: 0)))
+        node(class label: 0)
+        node(class label: 0)
+        node(class label: 0)))))
+Learned tree:  
+node(split attribute: 5, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 1245
+branches(
+    node(class label: 0)
+    node(split attribute: 3, split attribute type: DISCRETE, split values: [ 2.  4.  5.], split branches length: 3, split number of instances: 415
+    branches(
+        node(class label: 0)
+        node(split attribute: 4, split attribute type: DISCRETE, split values: [ 0.  1.  2.], split branches length: 3, split number of instances: 139
+        branches(
+            node(class label: 0)
+            node(class label: 1)
+            node(class label: 1)))
+        node(split attribute: 1, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 137
+        branches(
+            node(class label: 1)
+            node(class label: 1)
+            node(class label: 0)
+            node(class label: 0)))))
+    node(split attribute: 0, split attribute type: DISCRETE, split values: [ 0.  1.  2.  3.], split branches length: 4, split number of instances: 401
+    branches(
+        node(split attribute: 2, split attribute type: DISCRETE, split values: [ 2.  3.  4.  5.], split branches length: 4, split number of instances: 103
+        branches(
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 0)
+            node(class label: 0)))
+        node(class label: 0)
+        node(class label: 0)
+        node(class label: 0)))))
+Average accuracy: 14.177378
+Running with data_sets/image_data.txt
+Learned tree:  
+node(split attribute: 1, split attribute type: CONTINUOUS, split values: 161.0, split branches length: 2, split number of instances: 152
+branches(
+    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 31.6666665, split branches length: 2, split number of instances: 110
+    branches(
+        node(split attribute: 18, split attribute type: CONTINUOUS, split values: -1.99942315, split branches length: 2, split number of instances: 65
+        branches(
+            node(split attribute: 15, split attribute type: CONTINUOUS, split values: -7.0555555, split branches length: 2, split number of instances: 39
+            branches(
+                node(split attribute: 13, split attribute type: CONTINUOUS, split values: -16.555555, split branches length: 2, split number of instances: 16
+                branches(
+                    node(class label: 2)
+                    node(split attribute: 0, split attribute type: CONTINUOUS, split values: 130.0, split branches length: 2, split number of instances: 14
+                    branches(
+                        node(split attribute: 14, split attribute type: CONTINUOUS, split values: 23.5, split branches length: 2, split number of instances: 3
+                        branches(
+                            node(class label: 4)
+                            node(class label: 3)))
+                        node(class label: 4)))))
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 0.3740655, split branches length: 2, split number of instances: 23
+                branches(
+                    node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.58333335, split branches length: 2, split number of instances: 9
+                    branches(
+                        node(class label: 2)
+                        node(class label: 4)))
+                    node(split attribute: 16, split attribute type: CONTINUOUS, split values: 9.7222225, split branches length: 2, split number of instances: 14
+                    branches(
+                        node(class label: 2)
+                        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.0, split branches length: 2, split number of instances: 3
+                        branches(
+                            node(class label: 2)
+                            node(class label: 2)))))))))
+            node(split attribute: 12, split attribute type: CONTINUOUS, split values: 1.4444445, split branches length: 2, split number of instances: 26
+            branches(
+                node(class label: 4)
+                node(split attribute: 17, split attribute type: CONTINUOUS, split values: 0.387684135, split branches length: 2, split number of instances: 19
+                branches(
+                    node(split attribute: 6, split attribute type: CONTINUOUS, split values: 1.3667913, split branches length: 2, split number of instances: 2
+                    branches(
+                        node(class label: 3)
+                        node(class label: 2)))
+                    node(class label: 0)))))))
+        node(split attribute: 11, split attribute type: CONTINUOUS, split values: 99.166668, split branches length: 2, split number of instances: 45
+        branches(
+            node(split attribute: 7, split attribute type: CONTINUOUS, split values: 26.527779, split branches length: 2, split number of instances: 23
+            branches(
+                node(class label: 3)
+                node(class label: 2)))
+            node(class label: 1)))))
+    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 24.6666655, split branches length: 2, split number of instances: 42
+    branches(
+        node(class label: 6)
+        node(class label: 5)))))
+Learned tree:  
+node(split attribute: 1, split attribute type: CONTINUOUS, split values: 160.5, split branches length: 2, split number of instances: 152
+branches(
+    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 80.425925, split branches length: 2, split number of instances: 109
+    branches(
+        node(split attribute: 18, split attribute type: CONTINUOUS, split values: -1.77813985, split branches length: 2, split number of instances: 85
+        branches(
+            node(split attribute: 15, split attribute type: CONTINUOUS, split values: -13.611111, split branches length: 2, split number of instances: 61
+            branches(
+                node(split attribute: 11, split attribute type: CONTINUOUS, split values: 37.3333335, split branches length: 2, split number of instances: 18
+                branches(
+                    node(class label: 2)
+                    node(class label: 3)))
+                node(split attribute: 7, split attribute type: CONTINUOUS, split values: 1.08333325, split branches length: 2, split number of instances: 43
+                branches(
+                    node(split attribute: 12, split attribute type: CONTINUOUS, split values: 0.055555555, split branches length: 2, split number of instances: 22
+                    branches(
+                        node(class label: 2)
+                        node(split attribute: 14, split attribute type: CONTINUOUS, split values: 10.388889, split branches length: 2, split number of instances: 18
+                        branches(
+                            node(split attribute: 13, split attribute type: CONTINUOUS, split values: -3.4444444, split branches length: 2, split number of instances: 7
+                            branches(
+                                node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.638888935, split branches length: 2, split number of instances: 2
+                                branches(
+                                    node(class label: 0)
+                                    node(class label: 2)))
+                                node(class label: 4)))
+                            node(class label: 4)))))
+                    node(split attribute: 8, split attribute type: CONTINUOUS, split values: 0.81446733, split branches length: 2, split number of instances: 21
+                    branches(
+                        node(class label: 3)
+                        node(split attribute: 6, split attribute type: CONTINUOUS, split values: 1.63464575, split branches length: 2, split number of instances: 18
+                        branches(
+                            node(split attribute: 16, split attribute type: CONTINUOUS, split values: 9.7222225, split branches length: 2, split number of instances: 10
+                            branches(
+                                node(class label: 2)
+                                node(class label: 4)))
+                            node(class label: 2)))))))))
+            node(split attribute: 17, split attribute type: CONTINUOUS, split values: 0.387684135, split branches length: 2, split number of instances: 24
+            branches(
+                node(split attribute: 0, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 5
+                branches(
+                    node(class label: 2)
+                    node(class label: 4)))
+                node(class label: 0)))))
+        node(class label: 1)))
+    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 20.8888895, split branches length: 2, split number of instances: 43
+    branches(
+        node(class label: 6)
+        node(class label: 5)))))
+Learned tree:  
+node(split attribute: 1, split attribute type: CONTINUOUS, split values: 160.5, split branches length: 2, split number of instances: 152
+branches(
+    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 80.425925, split branches length: 2, split number of instances: 111
+    branches(
+        node(split attribute: 18, split attribute type: CONTINUOUS, split values: -1.84342395, split branches length: 2, split number of instances: 87
+        branches(
+            node(split attribute: 15, split attribute type: CONTINUOUS, split values: -10.9444445, split branches length: 2, split number of instances: 64
+            branches(
+                node(split attribute: 12, split attribute type: CONTINUOUS, split values: 16.3888895, split branches length: 2, split number of instances: 19
+                branches(
+                    node(split attribute: 6, split attribute type: CONTINUOUS, split values: 1.135624385, split branches length: 2, split number of instances: 2
+                    branches(
+                        node(class label: 4)
+                        node(class label: 2)))
+                    node(class label: 3)))
+                node(split attribute: 0, split attribute type: CONTINUOUS, split values: 141.0, split branches length: 2, split number of instances: 45
+                branches(
+                    node(split attribute: 8, split attribute type: CONTINUOUS, split values: 0.39668426, split branches length: 2, split number of instances: 30
+                    branches(
+                        node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.500000015, split branches length: 2, split number of instances: 9
+                        branches(
+                            node(class label: 2)
+                            node(split attribute: 14, split attribute type: CONTINUOUS, split values: 10.055556, split branches length: 2, split number of instances: 6
+                            branches(
+                                node(class label: 0)
+                                node(class label: 4)))))
+                        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.0, split branches length: 2, split number of instances: 21
+                        branches(
+                            node(split attribute: 16, split attribute type: CONTINUOUS, split values: 24.9444445, split branches length: 2, split number of instances: 19
+                            branches(
+                                node(class label: 2)
+                                node(class label: 2)))
+                            node(class label: 2)))))
+                    node(split attribute: 13, split attribute type: CONTINUOUS, split values: -5.77777775, split branches length: 2, split number of instances: 15
+                    branches(
+                        node(class label: 4)
+                        node(split attribute: 11, split attribute type: CONTINUOUS, split values: 8.33333335, split branches length: 2, split number of instances: 7
+                        branches(
+                            node(class label: 4)
+                            node(class label: 3)))))))))
+            node(split attribute: 17, split attribute type: CONTINUOUS, split values: 0.388523875, split branches length: 2, split number of instances: 23
+            branches(
+                node(split attribute: 5, split attribute type: CONTINUOUS, split values: 1.4166664, split branches length: 2, split number of instances: 4
+                branches(
+                    node(class label: 4)
+                    node(class label: 2)))
+                node(class label: 0)))))
+        node(class label: 1)))
+    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 21.7777775, split branches length: 2, split number of instances: 41
+    branches(
+        node(class label: 6)
+        node(class label: 5)))))
+Learned tree:  
+node(split attribute: 1, split attribute type: CONTINUOUS, split values: 160.5, split branches length: 2, split number of instances: 152
+branches(
+    node(split attribute: 11, split attribute type: CONTINUOUS, split values: 40.166668, split branches length: 2, split number of instances: 108
+    branches(
+        node(split attribute: 18, split attribute type: CONTINUOUS, split values: -1.99665455, split branches length: 2, split number of instances: 64
+        branches(
+            node(split attribute: 17, split attribute type: CONTINUOUS, split values: 0.50712685, split branches length: 2, split number of instances: 35
+            branches(
+                node(split attribute: 13, split attribute type: CONTINUOUS, split values: -13.2777775, split branches length: 2, split number of instances: 9
+                branches(
+                    node(class label: 3)
+                    node(split attribute: 3, split attribute type: CONTINUOUS, split values: 0.055555555, split branches length: 2, split number of instances: 7
+                    branches(
+                        node(class label: 4)
+                        node(class label: 3)))))
+                node(split attribute: 0, split attribute type: CONTINUOUS, split values: 163.0, split branches length: 2, split number of instances: 26
+                branches(
+                    node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.1037037445, split branches length: 2, split number of instances: 16
+                    branches(
+                        node(class label: 4)
+                        node(class label: 2)))
+                    node(split attribute: 14, split attribute type: CONTINUOUS, split values: 11.8333335, split branches length: 2, split number of instances: 10
+                    branches(
+                        node(split attribute: 8, split attribute type: CONTINUOUS, split values: 0.0925925865, split branches length: 2, split number of instances: 6
+                        branches(
+                            node(class label: 4)
+                            node(split attribute: 15, split attribute type: CONTINUOUS, split values: -1.9444444, split branches length: 2, split number of instances: 4
+                            branches(
+                                node(class label: 2)
+                                node(class label: 4)))))
+                        node(class label: 4)))))))
+            node(split attribute: 12, split attribute type: CONTINUOUS, split values: 1.88888895, split branches length: 2, split number of instances: 29
+            branches(
+                node(class label: 4)
+                node(split attribute: 5, split attribute type: CONTINUOUS, split values: 1.9999997, split branches length: 2, split number of instances: 21
+                branches(
+                    node(class label: 0)
+                    node(split attribute: 7, split attribute type: CONTINUOUS, split values: 2.55555565, split branches length: 2, split number of instances: 3
+                    branches(
+                        node(class label: 3)
+                        node(class label: 0)))))))))
+        node(split attribute: 10, split attribute type: CONTINUOUS, split values: 69.2222215, split branches length: 2, split number of instances: 44
+        branches(
+            node(class label: 3)
+            node(class label: 1)))))
+    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 25.944445, split branches length: 2, split number of instances: 44
+    branches(
+        node(class label: 6)
+        node(class label: 5)))))
+Learned tree:  
+node(split attribute: 1, split attribute type: CONTINUOUS, split values: 160.5, split branches length: 2, split number of instances: 152
+branches(
+    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 28.907407, split branches length: 2, split number of instances: 105
+    branches(
+        node(split attribute: 18, split attribute type: CONTINUOUS, split values: -1.7893336, split branches length: 2, split number of instances: 66
+        branches(
+            node(split attribute: 15, split attribute type: CONTINUOUS, split values: -6.5555555, split branches length: 2, split number of instances: 41
+            branches(
+                node(split attribute: 7, split attribute type: CONTINUOUS, split values: 1.08333335, split branches length: 2, split number of instances: 17
+                branches(
+                    node(class label: 4)
+                    node(split attribute: 5, split attribute type: CONTINUOUS, split values: 0.583333275, split branches length: 2, split number of instances: 8
+                    branches(
+                        node(class label: 4)
+                        node(split attribute: 14, split attribute type: CONTINUOUS, split values: 34.11111, split branches length: 2, split number of instances: 6
+                        branches(
+                            node(class label: 3)
+                            node(class label: 2)))))))
+                node(split attribute: 13, split attribute type: CONTINUOUS, split values: -6.22222215, split branches length: 2, split number of instances: 24
+                branches(
+                    node(class label: 2)
+                    node(split attribute: 12, split attribute type: CONTINUOUS, split values: 0.055555555, split branches length: 2, split number of instances: 16
+                    branches(
+                        node(class label: 2)
+                        node(split attribute: 8, split attribute type: CONTINUOUS, split values: 0.19162184, split branches length: 2, split number of instances: 13
+                        branches(
+                            node(class label: 4)
+                            node(split attribute: 16, split attribute type: CONTINUOUS, split values: 7.4444445, split branches length: 2, split number of instances: 10
+                            branches(
+                                node(split attribute: 6, split attribute type: CONTINUOUS, split values: 0.47400885, split branches length: 2, split number of instances: 8
+                                branches(
+                                    node(class label: 2)
+                                    node(class label: 2)))
+                                node(class label: 4)))))))))))
+            node(split attribute: 17, split attribute type: CONTINUOUS, split values: 0.387684135, split branches length: 2, split number of instances: 25
+            branches(
+                node(split attribute: 0, split attribute type: CONTINUOUS, split values: 96.0, split branches length: 2, split number of instances: 5
+                branches(
+                    node(class label: 2)
+                    node(class label: 4)))
+                node(class label: 0)))))
+        node(split attribute: 11, split attribute type: CONTINUOUS, split values: 99.166668, split branches length: 2, split number of instances: 39
+        branches(
+            node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.055555555, split branches length: 2, split number of instances: 21
+            branches(
+                node(class label: 3)
+                node(class label: 2)))
+            node(class label: 1)))))
+    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 21.7777775, split branches length: 2, split number of instances: 47
+    branches(
+        node(class label: 6)
+        node(class label: 5)))))
+Average accuracy: 16.190476
