@@ -1,0 +1,312 @@
+Running with data_sets/fire_data.txt
+Starting training
+Learned tree:  
+node(split attribute: 5, split attribute type: CONTINUOUS, split values: 25.05, split branches length: 2, split number of instances: 80
+branches(
+    node(split attribute: 0, split attribute type: CONTINUOUS, split values: 6.0, split branches length: 2, split number of instances: 5
+    branches(
+        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 2.0, split branches length: 2, split number of instances: 4
+        branches(
+            node(class label: 0)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 43.5, split branches length: 2, split number of instances: 3
+            branches(
+                node(class label: 6)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 5.8, split branches length: 2, split number of instances: 2
+                branches(
+                    node(class label: 10)
+                    node(class label: 0)))))))
+        node(class label: 4)))
+    node(class label: 6)))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 8.0, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 6)
+    node(class label: 1)))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 6, split attribute type: CONTINUOUS, split values: 74.2, split branches length: 2, split number of instances: 80
+branches(
+    node(split attribute: 0, split attribute type: CONTINUOUS, split values: 4.0, split branches length: 2, split number of instances: 4
+    branches(
+        node(class label: 0)
+        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 3.0, split branches length: 2, split number of instances: 3
+        branches(
+            node(class label: 0)
+            node(split attribute: 5, split attribute type: CONTINUOUS, split values: 3.2, split branches length: 2, split number of instances: 2
+            branches(
+                node(class label: 4)
+                node(class label: 10)))))))
+    node(class label: 7)))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 5, split attribute type: CONTINUOUS, split values: 25.55, split branches length: 2, split number of instances: 80
+branches(
+    node(split attribute: 4, split attribute type: CONTINUOUS, split values: 83.05, split branches length: 2, split number of instances: 6
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 5.0, split branches length: 2, split number of instances: 2
+        branches(
+            node(class label: 10)
+            node(class label: 0)))
+        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 2.0, split branches length: 2, split number of instances: 4
+        branches(
+            node(class label: 4)
+            node(split attribute: 10, split attribute type: CONTINUOUS, split values: 3.1, split branches length: 2, split number of instances: 3
+            branches(
+                node(class label: 0)
+                node(class label: 3)))))))
+    node(split attribute: 0, split attribute type: CONTINUOUS, split values: 8.0, split branches length: 2, split number of instances: 74
+    branches(
+        node(class label: 8)
+        node(class label: 1)))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 5, split attribute type: CONTINUOUS, split values: 25.05, split branches length: 2, split number of instances: 80
+branches(
+    node(split attribute: 4, split attribute type: CONTINUOUS, split values: 83.05, split branches length: 2, split number of instances: 6
+    branches(
+        node(split attribute: 1, split attribute type: CONTINUOUS, split values: 5.0, split branches length: 2, split number of instances: 2
+        branches(
+            node(class label: 10)
+            node(class label: 0)))
+        node(split attribute: 2, split attribute type: CONTINUOUS, split values: 2.0, split branches length: 2, split number of instances: 4
+        branches(
+            node(class label: 4)
+            node(split attribute: 8, split attribute type: CONTINUOUS, split values: 13.3, split branches length: 2, split number of instances: 3
+            branches(
+                node(class label: 6)
+                node(split attribute: 10, split attribute type: CONTINUOUS, split values: 3.1, split branches length: 2, split number of instances: 2
+                branches(
+                    node(class label: 0)
+                    node(class label: 0)))))))))
+    node(class label: 7)))
+Finished training
+Average mean squared error: 359.216736
+Running with data_sets/red_wine_data.txt
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.2, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 6)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.75, split branches length: 2, split number of instances: 79
+    branches(
+        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 1.4, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 6)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 150.5, split branches length: 2, split number of instances: 77
+            branches(
+                node(split attribute: 7, split attribute type: CONTINUOUS, split values: 0.9922, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 6)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 8.4, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 3)
+                        node(class label: 5)))))
+                node(class label: 5)))))
+        node(class label: 5)))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.2, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 6)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.715, split branches length: 2, split number of instances: 79
+    branches(
+        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 6.9, split branches length: 2, split number of instances: 78
+        branches(
+            node(split attribute: 5, split attribute type: CONTINUOUS, split values: 3.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 3.0, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 5)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 13.1833333333, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 5)
+                        node(class label: 7)))))))
+            node(class label: 5)))
+        node(class label: 5)))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.3, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 7)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.75, split branches length: 2, split number of instances: 79
+    branches(
+        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 1.4, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 6)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 8.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 7)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 2.94, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 6)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 8.4, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 3)
+                        node(class label: 5)))))))))
+        node(class label: 5)))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.2, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 6)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.75, split branches length: 2, split number of instances: 79
+    branches(
+        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 6.9, split branches length: 2, split number of instances: 78
+        branches(
+            node(split attribute: 5, split attribute type: CONTINUOUS, split values: 3.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 2.94, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 6)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 8.4, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 3)
+                        node(class label: 5)))))))
+            node(class label: 5)))
+        node(class label: 5)))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.2, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 6)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.725, split branches length: 2, split number of instances: 79
+    branches(
+        node(split attribute: 3, split attribute type: CONTINUOUS, split values: 5.85, split branches length: 2, split number of instances: 78
+        branches(
+            node(split attribute: 5, split attribute type: CONTINUOUS, split values: 3.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 2.94, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 6)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 8.4, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 3)
+                        node(class label: 5)))))))
+            node(class label: 5)))
+        node(class label: 5)))))
+Finished training
+Average mean squared error: 0.963492
+Running with data_sets/white_wine_data.txt
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.3, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 6)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.02, split branches length: 2, split number of instances: 79
+    branches(
+        node(class label: 5)
+        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.024, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 7)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 48.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 3.535, split branches length: 2, split number of instances: 76
+                branches(
+                    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 0.28, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 5)
+                        node(class label: 5)))
+                    node(class label: 7)))))))))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 4.9, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 8)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.1, split branches length: 2, split number of instances: 79
+    branches(
+        node(class label: 5)
+        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.026, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 8)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 48.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 3.585, split branches length: 2, split number of instances: 76
+                branches(
+                    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 0.3, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 7)
+                        node(class label: 5)))
+                    node(class label: 6)))))))))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 4.9, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 8)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.02, split branches length: 2, split number of instances: 79
+    branches(
+        node(class label: 5)
+        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.024, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 7)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 48.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 3.53, split branches length: 2, split number of instances: 76
+                branches(
+                    node(split attribute: 9, split attribute type: CONTINUOUS, split values: 0.28, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 5)
+                        node(class label: 5)))
+                    node(class label: 6)))))))))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 4.9, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 8)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.02, split branches length: 2, split number of instances: 79
+    branches(
+        node(class label: 5)
+        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.024, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 7)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 54.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 6)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 2.85, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 5)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 13.25, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 5)
+                        node(class label: 7)))))))))))))
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 4.9, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 8)
+    node(split attribute: 2, split attribute type: CONTINUOUS, split values: 0.02, split branches length: 2, split number of instances: 79
+    branches(
+        node(class label: 5)
+        node(split attribute: 4, split attribute type: CONTINUOUS, split values: 0.024, split branches length: 2, split number of instances: 78
+        branches(
+            node(class label: 7)
+            node(split attribute: 6, split attribute type: CONTINUOUS, split values: 48.0, split branches length: 2, split number of instances: 77
+            branches(
+                node(class label: 5)
+                node(split attribute: 8, split attribute type: CONTINUOUS, split values: 2.85, split branches length: 2, split number of instances: 76
+                branches(
+                    node(class label: 6)
+                    node(split attribute: 10, split attribute type: CONTINUOUS, split values: 13.2, split branches length: 2, split number of instances: 75
+                    branches(
+                        node(class label: 5)
+                        node(class label: 7)))))))))))))
+Finished training
+Average mean squared error: 1.186357

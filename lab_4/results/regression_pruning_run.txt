@@ -1,0 +1,72 @@
+Running with data_sets/fire_data.txt
+Starting training
+Learned tree:  
+node(split attribute: 6, split attribute type: CONTINUOUS, split values: 89.3, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 1)
+    node(class label: 17)))
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 15)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 15)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 12)
+Finished training
+Average mean squared error: 7023.803298
+Running with data_sets/red_wine_data.txt
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Average mean squared error: 0.875000
+Running with data_sets/white_wine_data.txt
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(split attribute: 0, split attribute type: CONTINUOUS, split values: 5.1, split branches length: 2, split number of instances: 80
+branches(
+    node(class label: 7)
+    node(class label: 5)))
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Starting training
+Learned tree:  
+node(class label: 5)
+Finished training
+Average mean squared error: 1.686212
