@@ -1,0 +1,768 @@
+Running with data_sets/encoded/cancer_data_encoded_NB_log.txt
+Cross validation fold 1
+Learned adaline weights: [ -2.41689029e+01  -2.40234558e+01  -2.41582275e+01  -2.40913857e+01
+  -2.40709348e+01  -2.40540699e+01  -2.38807969e+01  -2.39892589e+01
+  -2.36383243e+01  -2.37680644e+01  -2.42805539e+01  -2.39706815e+01
+  -2.39226952e+01  -2.39316474e+01  -2.36255118e+01  -2.43115085e+01
+  -2.39340323e+01  -2.40413543e+01  -2.40180944e+01  -2.38448034e+01
+  -2.41080431e+01  -2.42957699e+01  -2.42067365e+01  -2.39790844e+01
+  -2.41175158e+01  -2.40612108e+01  -2.37576953e+01  -2.39740182e+01
+  -2.33265528e+01  -2.40417717e+01  -2.41640971e+01  -2.40530763e+01
+  -2.38335234e+01  -2.36623406e+01  -2.36277909e+01  -2.40120903e+01
+  -2.44205835e+01  -2.34705772e+01  -2.47400268e+01  -2.38554918e+01
+  -2.46987558e+01  -2.45284785e+01  -2.43032049e+01  -2.42050114e+01
+  -2.43671205e+01  -2.41643853e+01  -2.49538033e+01  -2.41984053e+01
+  -2.03412683e+01  -2.40843956e+01  -3.50562339e+00  -3.93154303e+00
+  -3.89416509e+00  -3.77020714e+00  -4.00458805e+00  -4.55140910e+00
+  -5.36733580e+00  -4.18786265e+00  -4.46869880e+00  -4.00963887e+00
+  -2.41380909e+01  -2.41386189e+01  -2.40641358e+01  -2.39921967e+01
+  -2.37231622e+01  -2.40956301e+01  -2.40336224e+01  -2.43121013e+01
+  -2.33543746e+01  -2.40027577e+01  -2.40318657e+01  -2.40312470e+01
+  -2.39968373e+01  -2.40300401e+01  -2.36774076e+01  -2.36193918e+01
+  -2.39816101e+01  -2.41615648e+01  -2.41298777e+01  -2.41803810e+01
+  -2.72389995e+01  -2.68128162e+01  -2.70427080e+01  -2.68369346e+01
+  -2.68502398e+01  -2.41340242e+01  -2.69213917e+01  -2.67304956e+01
+   3.91096425e-05  -2.72648135e+01]
+Cross validation fold 2
+Learned adaline weights: [ -2.42161595e+01  -2.40656020e+01  -2.41786172e+01  -2.41243620e+01
+  -2.41282778e+01  -2.40705352e+01  -2.37361253e+01  -2.38598016e+01
+  -2.36414265e+01  -2.35276522e+01  -2.40846395e+01  -2.38396837e+01
+  -2.37357044e+01  -2.41245436e+01  -2.34206466e+01  -2.41148050e+01
+  -2.38654961e+01  -2.38580347e+01  -2.49009685e+01  -2.36407560e+01
+  -2.40970385e+01  -2.42651752e+01  -2.42368345e+01  -2.39349727e+01
+  -2.42305537e+01  -2.40681539e+01  -2.36606657e+01  -2.37065234e+01
+  -2.31287148e+01  -2.42286341e+01  -2.41014989e+01  -2.39699010e+01
+  -2.38878089e+01  -2.36528988e+01  -2.35051448e+01  -2.40190962e+01
+  -2.42370742e+01  -2.34304034e+01  -2.51338830e+01  -2.36071593e+01
+  -2.47471453e+01  -2.45388072e+01  -2.43495216e+01  -2.41417370e+01
+  -2.42849282e+01  -2.42708629e+01  -2.47571563e+01  -2.42176155e+01
+  -2.02690255e+01  -2.40124470e+01  -3.77531095e+00  -4.21928985e+00
+  -4.12639718e+00  -4.14648370e+00  -4.48401199e+00  -5.11859287e+00
+  -5.65350777e+00  -4.75324522e+00  -4.77000023e+00  -4.47183044e+00
+  -2.41772754e+01  -2.42478480e+01  -2.40962503e+01  -2.38863669e+01
+  -2.37955088e+01  -2.36034717e+01  -2.39719709e+01  -2.43459049e+01
+  -2.36037690e+01  -2.38482585e+01  -2.40328205e+01  -2.40740878e+01
+  -2.39449575e+01  -2.38553824e+01  -2.37287964e+01  -2.35577417e+01
+  -2.39870936e+01  -2.41918504e+01  -2.40182017e+01  -2.41640751e+01
+  -2.70967395e+01  -2.67280540e+01  -2.68827197e+01  -2.67837157e+01
+  -2.70093442e+01  -2.40148677e+01  -2.69029605e+01  -2.68419387e+01
+   5.89935478e-03  -2.73063482e+01]
+Cross validation fold 3
+Learned adaline weights: [ -2.41106028e+01  -2.39551701e+01  -2.41259560e+01  -2.39978922e+01
+  -2.40628067e+01  -2.40304785e+01  -2.38179710e+01  -2.40486920e+01
+  -2.36216406e+01  -2.37085330e+01  -2.39318184e+01  -2.37190545e+01
+  -2.37148694e+01  -2.38731707e+01  -2.35351968e+01  -2.41798712e+01
+  -2.38341035e+01  -2.40774285e+01  -2.49266230e+01  -2.37359269e+01
+  -2.43270219e+01  -2.43634229e+01  -2.43099094e+01  -2.39922954e+01
+  -2.41610071e+01  -2.41251924e+01  -2.36986647e+01  -2.40232681e+01
+  -2.23679010e+01  -2.41350063e+01  -2.41168006e+01  -2.39652381e+01
+  -2.38096131e+01  -2.36630606e+01  -2.34972927e+01  -2.41283080e+01
+  -2.45985504e+01  -2.34721492e+01  -2.45616226e+01  -2.36943931e+01
+  -2.48003622e+01  -2.46179589e+01  -2.43024463e+01  -2.41240118e+01
+  -2.42719292e+01  -2.41691078e+01  -2.49078287e+01  -2.41404513e+01
+  -2.02376767e+01  -2.39674468e+01  -3.91774421e+00  -4.22776115e+00
+  -4.20836500e+00  -4.23401193e+00  -4.46538222e+00  -6.24938212e+00
+  -5.73241060e+00  -4.65185776e+00  -4.67239606e+00  -4.43135224e+00
+  -2.40386778e+01  -2.41023498e+01  -2.40355402e+01  -2.38493890e+01
+  -2.37515511e+01  -2.41701832e+01  -2.39105159e+01  -2.40782032e+01
+  -2.35138615e+01  -2.40758879e+01  -2.39399388e+01  -2.39586079e+01
+  -2.40239445e+01  -2.39729863e+01  -2.37349135e+01  -2.35567152e+01
+  -2.37049031e+01  -2.42736603e+01  -2.41898040e+01  -2.41415785e+01
+  -2.71219349e+01  -2.66764485e+01  -2.68996121e+01  -2.65985273e+01
+  -2.64868536e+01  -2.53999707e+01  -2.67340469e+01  -2.64387388e+01
+   1.03185401e-03  -2.71651110e+01]
+Cross validation fold 4
+Learned adaline weights: [ -2.41582590e+01  -2.40233234e+01  -2.41416039e+01  -2.40656504e+01
+  -2.40949028e+01  -2.40593753e+01  -2.38419220e+01  -2.39321937e+01
+  -2.37358435e+01  -2.37951463e+01  -2.41092400e+01  -2.39122963e+01
+  -2.38257331e+01  -2.39707096e+01  -2.34643745e+01  -2.42014371e+01
+  -2.38735197e+01  -2.39555623e+01  -2.47396042e+01  -2.37723198e+01
+  -2.41658527e+01  -2.42649399e+01  -2.41776046e+01  -2.39894943e+01
+  -2.41416438e+01  -2.41241153e+01  -2.38295075e+01  -2.40584229e+01
+  -2.30746269e+01  -2.40311202e+01  -2.41757669e+01  -2.40627189e+01
+  -2.38677158e+01  -2.37402979e+01  -2.36745494e+01  -2.40688833e+01
+  -2.45217325e+01  -2.35571935e+01  -2.44958830e+01  -2.36900445e+01
+  -2.50619482e+01  -2.49140841e+01  -2.46282501e+01  -2.44918818e+01
+  -2.46085824e+01  -2.44486985e+01  -2.53780265e+01  -2.47352746e+01
+  -1.72509156e+01  -2.42842810e+01  -3.39287547e+00  -3.71034463e+00
+  -3.75262581e+00  -3.69601934e+00  -3.81525508e+00  -4.50724454e+00
+  -4.99506123e+00  -4.20004298e+00  -4.19392844e+00  -4.01269298e+00
+  -2.41483253e+01  -2.41634618e+01  -2.40944774e+01  -2.39264925e+01
+  -2.37364167e+01  -2.41562948e+01  -2.40198696e+01  -2.41019317e+01
+  -2.34398170e+01  -2.40538699e+01  -2.40328836e+01  -2.40170846e+01
+  -2.40437304e+01  -2.39996134e+01  -2.38988250e+01  -2.34586454e+01
+  -2.38153054e+01  -2.42706341e+01  -2.40964617e+01  -2.41977530e+01
+  -2.70554708e+01  -2.65939359e+01  -2.66691636e+01  -2.65831066e+01
+  -2.66792282e+01  -2.53415285e+01  -2.65690618e+01  -2.67183263e+01
+   7.26423475e-03  -2.76316309e+01]
+Cross validation fold 5
+Learned adaline weights: [ -2.40671443e+01  -2.39055927e+01  -2.40564375e+01  -2.39679573e+01
+  -2.39079458e+01  -2.39335012e+01  -2.37630155e+01  -2.37635217e+01
+  -2.35326722e+01  -2.35373187e+01  -2.38581281e+01  -2.35855913e+01
+  -2.35631531e+01  -2.36830598e+01  -2.34745150e+01  -2.41106490e+01
+  -2.37234205e+01  -2.39882717e+01  -2.47388049e+01  -2.37220590e+01
+  -2.39996005e+01  -2.42563573e+01  -2.42825269e+01  -2.38792977e+01
+  -2.39928208e+01  -2.40220024e+01  -2.35037121e+01  -2.38266675e+01
+  -2.28514651e+01  -2.38639878e+01  -2.40471804e+01  -2.38944161e+01
+  -2.36231896e+01  -2.35482996e+01  -2.35048541e+01  -2.39645372e+01
+  -2.40996359e+01  -2.34207620e+01  -2.47341759e+01  -2.36351516e+01
+  -2.45616269e+01  -2.43904958e+01  -2.41502183e+01  -2.38982315e+01
+  -2.40921995e+01  -2.39446525e+01  -2.50276176e+01  -2.39379897e+01
+  -2.05250562e+01  -2.39125335e+01  -4.79935370e+00  -5.21461706e+00
+  -5.11972210e+00  -5.13296246e+00  -5.34560265e+00  -5.95526899e+00
+  -6.80999122e+00  -5.63640969e+00  -5.96273361e+00  -5.44958263e+00
+  -2.41513353e+01  -2.41841904e+01  -2.40019475e+01  -2.37752174e+01
+  -2.36154977e+01  -2.40108824e+01  -2.37409034e+01  -2.40123210e+01
+  -2.31517155e+01  -2.38337836e+01  -2.38705837e+01  -2.38517262e+01
+  -2.38335236e+01  -2.37815452e+01  -2.35706845e+01  -2.34242946e+01
+  -2.38160723e+01  -2.41180563e+01  -2.40205480e+01  -2.41585880e+01
+  -2.69927538e+01  -2.65565320e+01  -2.66828923e+01  -2.64691378e+01
+  -2.64536573e+01  -2.51246932e+01  -2.66236040e+01  -2.66623725e+01
+   8.99207037e-03  -2.69088168e+01]
+Cross validation fold 6
+Learned adaline weights: [ -2.40756484e+01  -2.39523471e+01  -2.41342107e+01  -2.40442665e+01
+  -2.40116460e+01  -2.40112207e+01  -2.39593861e+01  -2.38473076e+01
+  -2.38186970e+01  -2.36479345e+01  -2.40177161e+01  -2.37177044e+01
+  -2.37581416e+01  -2.38974987e+01  -2.35108775e+01  -2.43262471e+01
+  -2.37722229e+01  -2.40325370e+01  -2.48608737e+01  -2.36165526e+01
+  -2.41889821e+01  -2.43706976e+01  -2.43001500e+01  -2.39529167e+01
+  -2.40457385e+01  -2.40532841e+01  -2.37744327e+01  -2.38775424e+01
+  -2.28295583e+01  -2.40800286e+01  -2.42017405e+01  -2.40630947e+01
+  -2.39257404e+01  -2.37196049e+01  -2.36980311e+01  -2.41136046e+01
+  -2.41442616e+01  -2.34902638e+01  -2.45011073e+01  -2.36564208e+01
+  -2.46316662e+01  -2.45022243e+01  -2.42487206e+01  -2.41010938e+01
+  -2.42584114e+01  -2.42195464e+01  -2.53343971e+01  -2.40945082e+01
+  -2.01772075e+01  -2.39652777e+01  -3.80520447e+00  -4.11231803e+00
+  -4.01873318e+00  -4.05011025e+00  -4.24982148e+00  -5.80425850e+00
+  -6.33628193e+00  -4.42475038e+00  -4.91791219e+00  -4.35226779e+00
+  -2.40740542e+01  -2.40756920e+01  -2.40025005e+01  -2.38244195e+01
+  -2.37897142e+01  -2.40774383e+01  -2.40606378e+01  -2.41459758e+01
+  -2.33578520e+01  -2.41216308e+01  -2.40178628e+01  -2.40367380e+01
+  -2.41340703e+01  -2.39876578e+01  -2.36713810e+01  -2.34544771e+01
+  -2.39758094e+01  -2.40784432e+01  -2.38484567e+01  -2.42741824e+01
+  -2.72393160e+01  -2.67766712e+01  -2.69594314e+01  -2.66107935e+01
+  -2.68624583e+01  -2.35907785e+01  -2.68501090e+01  -2.72700952e+01
+  -7.21459088e-03  -2.73412151e+01]
+Cross validation fold 7
+Learned adaline weights: [ -2.41406955e+01  -2.40074755e+01  -2.41853668e+01  -2.39919419e+01
+  -2.40764733e+01  -2.39963111e+01  -2.38179272e+01  -2.39096727e+01
+  -2.36851656e+01  -2.37020737e+01  -2.41108767e+01  -2.38367798e+01
+  -2.38401967e+01  -2.40136678e+01  -2.36212546e+01  -2.39385064e+01
+  -2.38829426e+01  -2.39510828e+01  -2.45764410e+01  -2.37524167e+01
+  -2.40595420e+01  -2.41969375e+01  -2.41573752e+01  -2.39880589e+01
+  -2.40515319e+01  -2.40793490e+01  -2.38058081e+01  -2.40123687e+01
+  -2.31117015e+01  -2.40614671e+01  -2.41959188e+01  -2.40329185e+01
+  -2.38930579e+01  -2.36621993e+01  -2.35762697e+01  -2.38951829e+01
+  -2.42438309e+01  -2.36179002e+01  -2.46557781e+01  -2.37578526e+01
+  -2.46413612e+01  -2.45690083e+01  -2.43366276e+01  -2.41957440e+01
+  -2.42634317e+01  -2.41495840e+01  -2.45235019e+01  -2.42462936e+01
+  -2.04919319e+01  -2.41008725e+01  -3.86425627e+00  -4.19288449e+00
+  -4.26123280e+00  -4.17747710e+00  -4.42787035e+00  -5.62546734e+00
+  -5.58951737e+00  -4.67449038e+00  -4.79435580e+00  -4.45267990e+00
+  -2.41144197e+01  -2.41945555e+01  -2.40855099e+01  -2.36924070e+01
+  -2.36327788e+01  -2.40455200e+01  -2.39775200e+01  -2.42365950e+01
+  -2.34935916e+01  -2.40091751e+01  -2.40302210e+01  -2.40462689e+01
+  -2.40768816e+01  -2.39285796e+01  -2.37751267e+01  -2.35933953e+01
+  -2.39648937e+01  -2.42519377e+01  -2.36416361e+01  -2.41942832e+01
+  -2.70413600e+01  -2.66254116e+01  -2.67646158e+01  -2.68873670e+01
+  -2.65335862e+01  -2.54008898e+01  -2.66215443e+01  -2.65590914e+01
+   2.63778366e-03  -2.70718414e+01]
+Cross validation fold 8
+Learned adaline weights: [ -2.41388938e+01  -2.39991841e+01  -2.41479211e+01  -2.40514858e+01
+  -2.40734536e+01  -2.40582772e+01  -2.38693310e+01  -2.39479883e+01
+  -2.37870513e+01  -2.36042732e+01  -2.40215747e+01  -2.37437995e+01
+  -2.37494905e+01  -2.40545683e+01  -2.34642707e+01  -2.41807912e+01
+  -2.39620900e+01  -2.40381580e+01  -2.47797427e+01  -2.36748790e+01
+  -2.41843687e+01  -2.43615715e+01  -2.42950283e+01  -2.39462184e+01
+  -2.41083252e+01  -2.42852307e+01  -2.36293043e+01  -2.38747793e+01
+  -2.30678834e+01  -2.39516824e+01  -2.41781268e+01  -2.40357967e+01
+  -2.38235973e+01  -2.36244784e+01  -2.36008890e+01  -2.40437970e+01
+  -2.43721114e+01  -2.36526571e+01  -2.45373949e+01  -2.38515150e+01
+  -2.52301319e+01  -2.50696386e+01  -2.48503019e+01  -2.46610444e+01
+  -2.46979366e+01  -2.46205505e+01  -2.55614072e+01  -2.48443093e+01
+  -1.55109570e+01  -2.46475393e+01  -3.22977913e+00  -3.63102543e+00
+  -3.49605165e+00  -3.50536128e+00  -3.82635313e+00  -4.55479772e+00
+  -5.84064764e+00  -3.97909621e+00  -4.47199052e+00  -3.80829768e+00
+  -2.40987891e+01  -2.41378089e+01  -2.40449150e+01  -2.38680529e+01
+  -2.36874472e+01  -2.40790311e+01  -2.38835784e+01  -2.44613243e+01
+  -2.34126712e+01  -2.40238012e+01  -2.40530492e+01  -2.40340692e+01
+  -2.40794281e+01  -2.39741282e+01  -2.37138143e+01  -2.34603677e+01
+  -2.39368423e+01  -2.42107193e+01  -2.39899592e+01  -2.42604643e+01
+  -2.71582967e+01  -2.66787906e+01  -2.68619418e+01  -2.65259166e+01
+  -2.67419989e+01  -2.53949216e+01  -2.68837275e+01  -2.66025257e+01
+  -9.09807487e-03  -2.68509147e+01]
+Cross validation fold 9
+Learned adaline weights: [ -2.41633190e+01  -2.40037411e+01  -2.41836130e+01  -2.40615613e+01
+  -2.40935936e+01  -2.39227161e+01  -2.37368522e+01  -2.39689007e+01
+  -2.40019133e+01  -2.36485639e+01  -2.39957637e+01  -2.37652146e+01
+  -2.37642699e+01  -2.39653930e+01  -2.34219690e+01  -2.41268695e+01
+  -2.38587698e+01  -2.41671957e+01  -2.49712612e+01  -2.37485296e+01
+  -2.42691499e+01  -2.44314091e+01  -2.43381624e+01  -2.41344499e+01
+  -2.41219587e+01  -2.37302443e+01  -2.36390995e+01  -2.40132812e+01
+  -2.29946899e+01  -2.41077039e+01  -2.43727824e+01  -2.42030761e+01
+  -2.41190272e+01  -2.38299267e+01  -2.37138193e+01  -2.41834401e+01
+  -2.44731433e+01  -2.38368298e+01  -2.32745023e+01  -2.38082356e+01
+  -2.47346506e+01  -2.45783197e+01  -2.43333672e+01  -2.42203052e+01
+  -2.41760525e+01  -2.39660761e+01  -2.51349036e+01  -2.41676127e+01
+  -2.04584723e+01  -2.40028593e+01  -3.46824151e+00  -3.83688900e+00
+  -3.77495212e+00  -3.87240761e+00  -4.00390915e+00  -5.45723391e+00
+  -5.48270869e+00  -4.42275493e+00  -4.52306200e+00  -4.20278908e+00
+  -2.41188898e+01  -2.41629370e+01  -2.40694227e+01  -2.39960541e+01
+  -2.37116289e+01  -2.40707720e+01  -2.39413935e+01  -2.43509755e+01
+  -2.33680614e+01  -2.40130731e+01  -2.40819949e+01  -2.40574168e+01
+  -2.40625447e+01  -2.40214400e+01  -2.38627346e+01  -2.37249868e+01
+  -2.36788922e+01  -2.40781575e+01  -2.39277691e+01  -2.42886287e+01
+  -2.70845384e+01  -2.67357392e+01  -2.68197892e+01  -2.65498038e+01
+  -2.68967539e+01  -2.50014096e+01  -2.68463054e+01  -2.67308274e+01
+   6.15136583e-03  -2.71664805e+01]
+Cross validation fold 10
+Learned adaline weights: [ -2.41842707e+01  -2.40442058e+01  -2.41343479e+01  -2.40909928e+01
+  -2.41010226e+01  -2.40908606e+01  -2.39327590e+01  -2.40284077e+01
+  -2.35302171e+01  -2.37003480e+01  -2.40438245e+01  -2.38767113e+01
+  -2.38075501e+01  -2.38460090e+01  -2.33793197e+01  -2.42684154e+01
+  -2.40081982e+01  -2.40508313e+01  -2.48700727e+01  -2.37275715e+01
+  -2.43468004e+01  -2.44416335e+01  -2.44157707e+01  -2.38938884e+01
+  -2.41960143e+01  -2.40394811e+01  -2.35722725e+01  -2.39453848e+01
+  -2.29935371e+01  -2.40111183e+01  -2.41268725e+01  -2.39675868e+01
+  -2.38457716e+01  -2.37151113e+01  -2.34675339e+01  -2.39433625e+01
+  -2.44287789e+01  -2.35484714e+01  -2.51379870e+01  -2.37066963e+01
+  -2.47276290e+01  -2.45732197e+01  -2.44052367e+01  -2.42404774e+01
+  -2.43984270e+01  -2.41703298e+01  -2.50835867e+01  -2.42760607e+01
+  -1.99426708e+01  -2.40661208e+01  -3.51274402e+00  -3.81965468e+00
+  -3.83277910e+00  -3.81578145e+00  -4.02355891e+00  -4.82564840e+00
+  -6.73761743e+00  -4.49206098e+00  -4.83408884e+00  -4.24165332e+00
+  -2.41840880e+01  -2.42488929e+01  -2.41185374e+01  -2.38938805e+01
+  -2.37051021e+01  -2.40444201e+01  -2.39517534e+01  -2.42687106e+01
+  -2.32680468e+01  -2.42050627e+01  -2.39884283e+01  -2.40119303e+01
+  -2.41323872e+01  -2.39233095e+01  -2.40068141e+01  -2.35093782e+01
+  -2.39747801e+01  -2.40805195e+01  -2.40956772e+01  -2.41605132e+01
+  -2.71854159e+01  -2.66658445e+01  -2.69584404e+01  -2.65790430e+01
+  -2.65819813e+01  -2.53068157e+01  -2.68877944e+01  -2.63147661e+01
+   5.62703489e-04  -2.73990700e+01]
+Average overall classification rate: 0.743478
+Running with data_sets/encoded/iris_data_encoded_normalized_1.txt
+Cross validation fold 1
+Learned adaline weights: [ 0.09981141  0.22839602 -0.22478937 -0.09269566]
+Cross validation fold 2
+Learned adaline weights: [ 0.10228882  0.22833853 -0.22672311 -0.08710541]
+Cross validation fold 3
+Learned adaline weights: [ 0.09904722  0.23043501 -0.22515562 -0.08706027]
+Cross validation fold 4
+Learned adaline weights: [ 0.09883597  0.23490227 -0.22745199 -0.090043  ]
+Cross validation fold 5
+Learned adaline weights: [ 0.10820019  0.22202664 -0.23528544 -0.07917005]
+Cross validation fold 6
+Learned adaline weights: [ 0.08734717  0.24842655 -0.22254267 -0.07714457]
+Cross validation fold 7
+Learned adaline weights: [ 0.10352087  0.22831159 -0.22948437 -0.0919539 ]
+Cross validation fold 8
+Learned adaline weights: [ 0.09898193  0.23120534 -0.22393883 -0.09533127]
+Cross validation fold 9
+Learned adaline weights: [ 0.09786421  0.23279252 -0.2247087  -0.08618687]
+Cross validation fold 10
+Learned adaline weights: [ 0.11554672  0.21236177 -0.23083554 -0.1016658 ]
+Average overall classification rate: 0.640000
+Running with data_sets/encoded/iris_data_encoded_normalized_2.txt
+Cross validation fold 1
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 2
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 3
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 4
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 5
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 6
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 7
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 8
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 9
+Learned adaline weights: [ nan  nan  nan  nan]
+Cross validation fold 10
+Learned adaline weights: [ nan  nan  nan  nan]
+Average overall classification rate: 0.666667
+Running with data_sets/encoded/iris_data_encoded_normalized_3.txt
+Cross validation fold 1
+Learned adaline weights: [ 2.01926339  1.1778595   1.01665749  0.28527548]
+Cross validation fold 2
+Learned adaline weights: [ 2.04985219  1.21326878  0.98987667  0.27658545]
+Cross validation fold 3
+Learned adaline weights: [ 2.03946623  1.21679339  0.99108212  0.27591398]
+Cross validation fold 4
+Learned adaline weights: [ 2.03928649  1.21168338  1.01330208  0.27982068]
+Cross validation fold 5
+Learned adaline weights: [ 2.03505495  1.19795899  1.00715649  0.28205685]
+Cross validation fold 6
+Learned adaline weights: [ 2.0401221   1.19732747  1.00130541  0.28091716]
+Cross validation fold 7
+Learned adaline weights: [ 2.02656486  1.1862796   1.00255141  0.28785877]
+Cross validation fold 8
+Learned adaline weights: [ 2.05344108  1.21573052  0.98863198  0.27002719]
+Cross validation fold 9
+Learned adaline weights: [ 2.04589726  1.20610021  1.00698927  0.27690062]
+Cross validation fold 10
+Learned adaline weights: [ 2.01429009  1.1613907   1.02490936  0.28735353]
+Average overall classification rate: 0.820000
+Running with data_sets/encoded/soybean_data_encoded_NB_1.txt
+Cross validation fold 1
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 2
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 3
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 4
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 5
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 6
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 7
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 8
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 9
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 10
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Average overall classification rate: 0.800000
+Running with data_sets/encoded/soybean_data_encoded_NB_2.txt
+Cross validation fold 1
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 2
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 3
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 4
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 5
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 6
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 7
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 8
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 9
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 10
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Average overall classification rate: 0.775000
+Running with data_sets/encoded/soybean_data_encoded_NB_3.txt
+Cross validation fold 1
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 2
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 3
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 4
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 5
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 6
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 7
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 8
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 9
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Cross validation fold 10
+Learned adaline weights: [ nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan  nan
+  nan]
+Average overall classification rate: 0.800000
+Running with data_sets/encoded/soybean_data_encoded_NB_4.txt
+Cross validation fold 1
+Learned adaline weights: [  2.79066830e-01   1.26669381e-01   2.35055274e-01   3.81785754e-01
+   1.64224799e-01   2.08675408e-01   3.09446268e-01   7.63107101e-01
+   5.61693765e-01   1.35788874e-01   9.94382873e-01   6.47030555e-01
+   6.07529565e-01   4.34359802e-01   5.55144813e-01   3.38901547e-01
+   4.71052442e-01   3.63869877e-01   5.03283813e-01   2.26512688e-01
+   8.85343409e-01   3.51834302e-01   2.28453532e-01  -7.24526339e-03
+   1.03425464e+00   6.40027766e-01   7.03790190e-01   4.98089231e-01
+   5.16098068e-01   6.55281924e-01   1.67426709e+00   1.30936245e+00
+   6.35477986e-03   3.83747627e-03   3.27364385e-04   1.67347999e+00
+  -7.90346491e-03   2.87183482e-03   1.67532795e+00   7.00945438e-03
+  -3.90297676e-03   1.67465043e+00  -7.63608982e-03  -3.41289148e-03
+   1.67803265e+00   4.11514171e-01   5.63662415e-01   5.91518189e-01
+   2.64620245e-01   2.56144456e-01   1.02413126e-01   5.57933037e-01
+   4.60273801e-01   5.45710746e-01   2.62382270e-01   7.19689957e-01
+   1.39525058e+00   2.63472113e-01   1.95234362e-03  -6.93354655e-03
+   1.11146265e+00   5.61606527e-01  -8.05368230e-04  -6.95734247e-03
+  -5.57625545e-03  -3.68218294e-03  -4.04327550e-03   3.62685137e-03
+   5.39305741e-03   1.67943259e+00   8.15469099e-03  -4.41692902e-03
+  -7.72913771e-03  -5.75868028e-03   5.47438671e-04   4.88289898e-01]
+Cross validation fold 2
+Learned adaline weights: [  2.82414588e-01   1.27091009e-01   2.31119065e-01   3.41773358e-01
+   2.14851542e-01   2.33082841e-01   2.69082718e-01   7.23926677e-01
+   6.14835543e-01   1.76063905e-01   9.06498309e-01   6.34017325e-01
+   6.91832193e-01   3.70047682e-01   4.75354330e-01   2.61691667e-01
+   4.90631296e-01   3.55331364e-01   5.86430259e-01   2.02735635e-01
+   8.77428850e-01   3.09090615e-01   3.00794685e-01   6.34107323e-04
+   1.01077928e+00   6.67872214e-01   7.38711587e-01   5.02262430e-01
+   4.93401645e-01   6.74674945e-01   1.69247390e+00   1.35646398e+00
+   9.22166391e-03  -5.13950333e-04   7.83818041e-03   1.68899774e+00
+   9.66488356e-04  -6.05581522e-04   1.68632155e+00   4.04246556e-03
+   5.31459695e-03   1.68167296e+00   4.68322091e-03   8.06280082e-03
+   1.68122947e+00   3.89544607e-01   6.11989802e-01   6.06525588e-01
+   2.21835199e-01   2.43211326e-01   9.54865315e-02   5.15479394e-01
+   4.57293656e-01   6.05527503e-01   2.44471545e-01   6.57998160e-01
+   1.45545335e+00   2.33347399e-01   7.79033953e-03  -2.64267991e-03
+   1.08398394e+00   6.16370446e-01   3.75710404e-03   1.34779878e-03
+   5.12832246e-03  -4.62020566e-03  -6.04737120e-03  -7.75333800e-03
+   2.65009317e-03   1.69836001e+00   4.99140060e-03   6.64544391e-03
+   1.08280362e-03   5.65500148e-03   8.49180675e-04   4.80720064e-01]
+Cross validation fold 3
+Learned adaline weights: [  2.19564389e-01   1.34070633e-01   2.89974532e-01   4.04003174e-01
+   2.14037794e-01   2.16620760e-01   2.30891851e-01   7.13585782e-01
+   6.30156781e-01   1.73143541e-01   8.99032342e-01   6.20792146e-01
+   6.61017432e-01   4.08411299e-01   5.27515624e-01   3.28462364e-01
+   4.62932214e-01   3.68210446e-01   5.45730125e-01   1.93527427e-01
+   8.63944634e-01   3.47496880e-01   3.02627425e-01  -8.38601331e-03
+   1.03086586e+00   6.71597305e-01   6.48532940e-01   5.18300518e-01
+   4.52036011e-01   7.21997295e-01   1.70569303e+00   1.36794498e+00
+   1.89498464e-03  -8.27143803e-03   1.19086164e-03   1.69645083e+00
+  -2.51214358e-03   5.52807737e-03   1.70670385e+00  -8.79758959e-03
+   7.92792776e-03   1.69174940e+00  -5.97307953e-04   9.88750225e-04
+   1.69117593e+00   3.66671741e-01   6.38601240e-01   6.04132463e-01
+   2.24236162e-01   2.38618971e-01   9.81454601e-02   5.12195284e-01
+   4.54376220e-01   6.41365715e-01   2.42726407e-01   6.60826380e-01
+   1.46317502e+00   2.35537922e-01   4.28392254e-03  -2.77231735e-04
+   1.06408255e+00   6.25645201e-01  -7.84102263e-03  -7.18554875e-03
+  -9.07006059e-04  -1.78719781e-03   1.32087520e-03  -4.33773187e-04
+  -4.42939603e-03   1.70653477e+00   6.74631828e-03   2.21821150e-03
+  -9.84522666e-03  -5.32652376e-03  -3.69735222e-03   4.83777720e-01]
+Cross validation fold 4
+Learned adaline weights: [  2.43779599e-01   1.29645077e-01   2.83993204e-01   4.02932165e-01
+   2.32753832e-01   1.61032940e-01   2.47135563e-01   7.60533253e-01
+   6.06020359e-01   1.77718316e-01   8.98363476e-01   6.78276428e-01
+   6.44379974e-01   3.65561001e-01   5.72676979e-01   3.13834516e-01
+   4.90264744e-01   3.84130589e-01   4.90381152e-01   1.62923138e-01
+   8.87394833e-01   3.04444274e-01   3.10779829e-01   4.20268695e-03
+   1.03534521e+00   6.48878756e-01   7.56832552e-01   5.14262978e-01
+   5.33030846e-01   6.43795049e-01   1.68847930e+00   1.31504986e+00
+   5.84744322e-04   6.51116565e-03  -7.74709120e-04   1.67880060e+00
+  -1.39022617e-04  -9.30379249e-03   1.69273891e+00   1.87722120e-03
+  -9.18858522e-04   1.69240831e+00  -4.02086446e-03  -2.47784105e-03
+   1.69454221e+00   3.90891877e-01   6.17809959e-01   6.17434492e-01
+   2.44574027e-01   2.11813589e-01   7.77770462e-02   5.54821475e-01
+   4.60399449e-01   6.09788168e-01   2.22717761e-01   6.70508022e-01
+   1.41345860e+00   2.63291854e-01   7.56842044e-03   8.03058463e-03
+   1.07839995e+00   6.05295777e-01   7.53797341e-03  -7.11007030e-03
+  -8.27094311e-03   5.71628851e-03  -2.23630927e-03   7.40117323e-03
+  -1.46648578e-04   1.68477124e+00  -9.45187289e-03  -5.58585183e-03
+  -8.68464012e-03   1.19306387e-03  -6.41028526e-03   4.80433685e-01]
+Cross validation fold 5
+Learned adaline weights: [  2.85021115e-01   1.23554590e-01   2.00867936e-01   4.36346411e-01
+   1.86693979e-01   2.23496374e-01   2.41616395e-01   7.08678101e-01
+   6.33469706e-01   1.68609915e-01   8.90763947e-01   6.32007310e-01
+   6.41736238e-01   4.10681057e-01   5.56376874e-01   3.28239372e-01
+   5.05808181e-01   4.10044219e-01   4.52793502e-01   1.95205664e-01
+   8.67609121e-01   3.62296115e-01   2.85203527e-01  -8.97999092e-03
+   1.11786510e+00   5.81105106e-01   7.70237308e-01   5.00783224e-01
+   5.38153700e-01   6.57226474e-01   1.67982730e+00   1.38429924e+00
+   1.23153778e-03  -7.28572318e-03   2.91836209e-03   1.67749926e+00
+   7.38031390e-03   9.19123819e-03   1.68978932e+00   6.54188874e-04
+  -7.17198509e-03   1.67910438e+00  -8.94107727e-03  -9.74081321e-03
+   1.67795062e+00   3.59891864e-01   6.31111356e-01   5.98345618e-01
+   2.45721177e-01   2.27268038e-01   1.11588162e-01   4.58403599e-01
+   4.91006411e-01   6.28942114e-01   2.23929382e-01   6.18626383e-01
+   1.44423552e+00   2.40917215e-01  -1.06875072e-03   5.10938356e-03
+   1.06322858e+00   6.18963337e-01   6.77812626e-03  -3.91779271e-03
+   5.17869760e-03   3.63680756e-03   3.85844949e-03   4.14493988e-03
+  -6.58368050e-03   1.69580103e+00  -3.87002378e-03  -4.60637757e-03
+  -3.78795571e-03   1.87874171e-03  -6.37908253e-03   5.30582974e-01]
+Cross validation fold 6
+Learned adaline weights: [  2.36187514e-01   1.27446617e-01   2.75712649e-01   3.69100262e-01
+   2.06904301e-01   2.20925086e-01   2.62595302e-01   7.45600747e-01
+   6.34983733e-01   1.63169784e-01   8.98050489e-01   6.59866748e-01
+   6.31571009e-01   4.12966984e-01   5.21089400e-01   2.79452856e-01
+   4.81175501e-01   3.87751957e-01   5.66808054e-01   1.88447354e-01
+   8.68202563e-01   3.68185970e-01   2.81130435e-01   7.16213437e-03
+   1.05776094e+00   6.44945935e-01   7.15737745e-01   5.15510009e-01
+   5.21958619e-01   6.86749896e-01   1.69840428e+00   1.36162839e+00
+  -7.15609333e-03   2.75443874e-03  -4.33785881e-03   1.70817178e+00
+   6.61054972e-03   3.17284977e-03   1.70298999e+00  -5.91856499e-03
+   3.22985123e-03   1.69644998e+00  -8.34268748e-03   8.48273033e-03
+   1.69772774e+00   3.53926189e-01   6.30875073e-01   6.10187342e-01
+   2.47011409e-01   2.18909730e-01   4.56528160e-02   5.55968048e-01
+   4.71461594e-01   6.35646140e-01   2.12868649e-01   6.42497342e-01
+   1.42727131e+00   2.74185113e-01  -7.24555067e-03   9.65422038e-03
+   1.07600356e+00   6.22045278e-01  -7.81993403e-03  -5.19918368e-04
+   2.69569250e-03  -7.71758823e-03  -8.89036257e-03  -3.88296244e-03
+   5.23571118e-03   1.70117562e+00   1.77485009e-03  -8.89145243e-03
+  -3.88569583e-03  -3.04881332e-03  -2.54377591e-03   4.68573882e-01]
+Cross validation fold 7
+Learned adaline weights: [  2.36966678e-01   1.03993868e-01   2.75084439e-01   4.49425883e-01
+   2.27403637e-01   2.47677931e-01   1.44679040e-01   7.38159146e-01
+   5.93571431e-01   1.35586043e-01   9.55461123e-01   7.02299363e-01
+   6.68239891e-01   3.18589385e-01   5.30293911e-01   2.31993405e-01
+   4.29965901e-01   4.23155960e-01   5.95723673e-01   1.98794326e-01
+   8.66119467e-01   3.40659029e-01   2.59574959e-01  -3.67199475e-03
+   1.03564064e+00   6.49763148e-01   7.02208143e-01   3.89532070e-01
+   5.47284135e-01   7.35798375e-01   1.68239213e+00   1.32143871e+00
+   8.36118538e-03   3.77359549e-04   9.69186547e-03   1.67699906e+00
+  -4.37726394e-03  -6.01825890e-03   1.67456858e+00  -1.48437094e-03
+  -3.57267898e-03   1.67561699e+00   2.53432731e-03   7.96434315e-03
+   1.68128048e+00   3.18527144e-01   5.90179647e-01   5.95400138e-01
+   2.36710086e-01   2.55924607e-01   9.00158737e-02   5.49748663e-01
+   4.38897618e-01   5.87311764e-01   2.55309087e-01   7.21091603e-01
+   1.41650594e+00   2.64050658e-01   6.81586067e-03   5.81175614e-03
+   1.08308199e+00   5.85405935e-01   5.64162281e-03   6.79116405e-03
+  -9.60511624e-03   5.93782709e-03   8.20750525e-03   5.97711305e-04
+  -3.79007940e-03   1.68124248e+00  -5.22323790e-03  -2.24497374e-04
+  -9.14877771e-03  -8.54897499e-03  -2.41428800e-03   4.73151714e-01]
+Cross validation fold 8
+Learned adaline weights: [  2.55059471e-01   1.04039505e-01   3.09847320e-01   3.78875669e-01
+   1.72932798e-01   2.20273790e-01   2.45551181e-01   7.50877309e-01
+   6.40208201e-01   1.23772137e-01   9.23606388e-01   6.02602625e-01
+   6.78315929e-01   4.18428820e-01   4.99950397e-01   2.88038002e-01
+   4.93087066e-01   3.58766286e-01   5.69628687e-01   2.02020012e-01
+   8.41377751e-01   3.68356147e-01   2.91209577e-01  -8.91199607e-03
+   1.07530317e+00   6.14914586e-01   6.88325405e-01   5.17032602e-01
+   5.73108684e-01   6.07349882e-01   1.69381126e+00   1.33495691e+00
+   9.83672602e-03   5.82987004e-03   2.16632636e-03   1.69825506e+00
+   8.30757515e-03  -8.21371935e-03   1.70235830e+00   2.92101553e-03
+   2.68243485e-03   1.70082890e+00  -5.38134275e-03   5.30438765e-03
+   1.69872103e+00   3.25699241e-01   6.28273626e-01   6.15871397e-01
+   1.98130069e-01   2.39766695e-01   9.61521146e-02   5.22135485e-01
+   4.45033075e-01   6.32992203e-01   2.38817306e-01   6.79883171e-01
+   1.45494669e+00   2.50512128e-01   3.71485114e-03  -1.16583120e-03
+   1.06650277e+00   6.25661393e-01   9.55346876e-03   6.68877723e-03
+   8.26438982e-03   1.47099623e-03  -9.10940727e-03  -1.60833763e-03
+  -9.01331785e-03   1.68692090e+00   8.27412896e-03  -8.03119450e-03
+   1.76800875e-03   4.92438965e-03  -6.33067512e-03   4.78892011e-01]
+Cross validation fold 9
+Learned adaline weights: [  2.35619244e-01   1.23696482e-01   2.69342067e-01   4.27877422e-01
+   1.59145798e-01   2.05141861e-01   2.72872329e-01   7.35244338e-01
+   6.29628482e-01   1.63651028e-01   9.05660114e-01   6.59421100e-01
+   6.04490909e-01   4.25404249e-01   4.82658748e-01   3.11931608e-01
+   4.42710150e-01   3.97189351e-01   5.51822004e-01   1.80282204e-01
+   8.81623331e-01   3.83151572e-01   2.69442848e-01   4.75048563e-03
+   1.04075752e+00   6.71032236e-01   7.06898761e-01   5.22307428e-01
+   5.21780083e-01   6.78883145e-01   1.70083059e+00   1.34222699e+00
+   2.23988816e-03   1.92688652e-03   7.15430221e-04   1.70051960e+00
+   6.93728452e-04   2.43845891e-03   1.70818907e+00   3.84720548e-03
+   6.17170435e-03   1.71087393e+00  -1.30200513e-03  -4.17246625e-03
+   1.69708820e+00   3.18088160e-01   6.31415307e-01   6.06069159e-01
+   2.41132798e-01   2.36996421e-01   9.73392229e-02   5.26161711e-01
+   4.47485436e-01   6.23944843e-01   2.29388518e-01   6.94544849e-01
+   1.43378552e+00   2.78797666e-01   6.29046020e-03   6.97912093e-03
+   1.07700073e+00   6.32739482e-01   6.46556412e-03  -9.92581182e-04
+  -8.02889833e-03   1.71637050e-03  -2.07749541e-03  -6.56778602e-03
+   3.73988349e-03   1.70077155e+00   4.83884123e-03   9.18595794e-03
+   8.16897640e-03  -3.89983631e-03   1.30751257e-04   4.68863053e-01]
+Cross validation fold 10
+Learned adaline weights: [  2.66194975e-01   1.33745508e-01   2.61012302e-01   3.57836023e-01
+   2.22241532e-01   2.20957733e-01   2.59299703e-01   7.68490575e-01
+   6.19755127e-01   1.77790229e-01   8.91190057e-01   6.12640120e-01
+   6.65673580e-01   3.98369196e-01   4.83774536e-01   3.25067308e-01
+   4.56394302e-01   4.05442505e-01   5.17858893e-01   1.96615714e-01
+   8.46041887e-01   3.59831843e-01   2.82748876e-01  -1.16032389e-03
+   1.08888949e+00   6.05440498e-01   7.49232394e-01   4.71185744e-01
+   4.93978715e-01   7.22135517e-01   1.70218917e+00   1.37295782e+00
+  -8.54412002e-03  -1.73128361e-03   7.70431456e-03   1.69305075e+00
+  -8.81658231e-03   5.07560096e-03   1.69322808e+00  -5.71429315e-03
+  -6.81581737e-03   1.69732588e+00   1.95239768e-03   1.12740237e-04
+   1.69698511e+00   3.05503565e-01   6.22107582e-01   5.71256283e-01
+   2.49034366e-01   2.36150544e-01   9.56509589e-02   5.12216664e-01
+   4.47160495e-01   6.36070318e-01   2.52368420e-01   6.74349149e-01
+   1.47246505e+00   2.17922177e-01  -6.65503941e-03  -9.33631334e-03
+   1.06659277e+00   6.22124165e-01   2.61890058e-03  -9.61740493e-03
+  -7.96970860e-03  -1.29529121e-03  -4.60396442e-04   3.65320975e-03
+  -5.05186637e-03   1.69871202e+00  -2.11675108e-03  -8.55170766e-03
+   1.92634711e-03   4.92458393e-04  -3.56785772e-03   4.84259237e-01]
+Average overall classification rate: 0.700000
+Running with data_sets/encoded/vote_data_encoded_NB_log.txt
+Cross validation fold 1
+Learned adaline weights: [ 1.87132754  2.04986113  2.41002635  1.67192672  2.03781921  2.52629035
+  2.22720557  2.22600749  2.03826478  1.96272579  1.40509569  1.66798946
+  2.06070293  2.3526356   1.7060412   3.25572623]
+Cross validation fold 2
+Learned adaline weights: [ 1.73126928  1.95511622  2.34048493  1.79534735  2.06216458  2.60828599
+  2.2090331   2.20947414  2.01072292  2.08642799  1.36995279  1.75428009
+  2.08266904  2.3921299   1.65280081  3.2596304 ]
+Cross validation fold 3
+Learned adaline weights: [ 1.82197172  1.95398791  2.37625827  1.65146392  2.00228606  2.56875513
+  2.26265577  2.31104818  2.06072282  2.04487263  1.43855531  1.67512104
+  2.04801689  2.35638942  1.65038043  3.26663659]
+Cross validation fold 4
+Learned adaline weights: [ 1.82596966  1.98111225  2.36786556  1.67804764  2.02197226  2.53411522
+  2.30069421  2.23918957  2.0595399   2.09484385  1.43181435  1.68628565
+  2.05768203  2.40127928  1.69204307  3.29035994]
+Cross validation fold 5
+Learned adaline weights: [ 1.7158177   1.95185787  2.32634143  1.74616927  2.05534207  2.61079031
+  2.26754263  2.23362986  2.06812959  2.00305486  1.44360474  1.73820367
+  2.08673683  2.42515871  1.67196496  3.23776116]
+Cross validation fold 6
+Learned adaline weights: [ 1.77219152  1.99793269  2.37681762  1.72655998  2.06113595  2.62266719
+  2.21756542  2.2047351   1.97205976  2.03842891  1.43399583  1.74413935
+  2.13808504  2.41170441  1.60768168  3.27501992]
+Cross validation fold 7
+Learned adaline weights: [ 1.71380971  1.93458766  2.37514994  1.70283505  2.04588028  2.58116856
+  2.2271836   2.26978764  2.06460494  2.0000307   1.40943831  1.69012517
+  2.07420523  2.3763752   1.73230587  3.28841756]
+Cross validation fold 8
+Learned adaline weights: [ 1.76084129  2.00475331  2.33988084  1.69019947  2.05940832  2.63108305
+  2.2035537   2.24281652  2.03763372  2.03677162  1.43672821  1.7042253
+  2.1007751   2.45160163  1.65064185  3.26336124]
+Cross validation fold 9
+Learned adaline weights: [ 1.77659866  1.96228854  2.41183106  1.66259259  2.00905929  2.54179004
+  2.28974474  2.30207993  2.06375204  2.0635976   1.43793697  1.71624406
+  2.0364321   2.3783701   1.71848414  3.25887862]
+Cross validation fold 10
+Learned adaline weights: [ 1.77379103  1.9314303   2.39339047  1.74081076  2.00520302  2.52015721
+  2.28264975  2.27450977  2.02150797  2.0383184   1.43283278  1.70081144
+  2.08507399  2.35354885  1.69311248  3.31420867]
+Average overall classification rate: 0.616279
