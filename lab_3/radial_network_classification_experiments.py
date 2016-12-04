@@ -71,6 +71,7 @@ for test in tests:
                         data_indices[
                             fold_size * holdout_fold_idx : 
                             fold_size * holdout_fold_idx + fold_size])])
+            pdb.set_trace()
             if learner_type == "REGRESSION":
                 total_performance += \
                         sum((data_instances[np.array(

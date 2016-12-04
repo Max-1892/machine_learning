@@ -1,0 +1,98 @@
+import random
+import pdb
+import numpy as np
+from math import sqrt
+from math import exp 
+
+class RadialBasisNetwork:
+    def __init__(self, learning_rate, spread):
+        self.input_nodes = []
+        self.weights = []
+        self.hidden_nodes = []
+        self.learning_rate = learning_rate
+        self.spread = spread
+        '''One option: one spread for all radial functions but different radial functions for each           point'''
+        '''Second option: cluster data and make basis node = cluster centroids, use centroid to              figure out spread'''
+        '''Linear combiner: Gradient descent
+               *Want to learn: f(x) = w_0 + sum over dimensions w_i * x_i
+               *Minimize g(x) = Err(x) = (w_vector * instance - f(x)) ** 2
+               *gradient of error with respect to w_i = 2(w_vector * instance - f(x))x_i
+               *Update weights as: w_t+1 = w_t - learning rate * gradient of error
+               *Initialize weight vector randomly
+               *Define learning rate
+               *Batch update: 
+                   *compute updates for every example
+                   *apply average of updates
+        '''
+        '''Input later - one node per-feature'''
+        '''Hidden layer - k <= n nodes'''
+        '''Output layer - single node'''
+        '''radial basis function = exp[(-1/(2 * spread **2)) (x - centroid)**2]'''
+        '''Linear combiner: f(x) = 
+            sum over basis functions weight_j * radial_j(instance, centroid_j)'''
+    def train(self, training_data):
+       # Randomized 10% subset of training data will serve as hidden node centers
+       random_centers_for_hidden_nodes = []
+       indices = []
+       while len(indices) < (training_data.shape[0] * 0.1):
+           random_idx = np.random.randint(0, training_data.shape[0])
+           if not random_idx in indices:
+               indices.append(random_idx)
+       random_centers_for_hidden_nodes = training_data[indices]
+
+       # Organize hidden nodes
+       for inst_1_idx, inst_1_val in enumerate(random_centers_for_hidden_nodes):
+           self.hidden_nodes.append((inst_1_val[:-1], self.spread))
+
+       # Initial weights for gradient descent
+       self.weights = \
+           np.array([np.random.randint(-1, 1) for weight in xrange(len(self.hidden_nodes))])
+
+       # Learn weights to determine hidden node influence on output
+       trials = 0
+       while trials < 10:
+           # Batch updating of weights, store individual updates in new_weights
+           # then divide by number of training_instances and set as new weights
+           new_weights = np.array([0.0 for i in xrange(len(self.weights))])
+           for instance in training_data:
+               # Determine Gaussian outputs
+               gaussian_outputs = []
+               for node in self.hidden_nodes:
+                   # radial basis function = exp[(-1/(2 * spread **2)) (x - Gaussian center)**2]
+                   # Note: Euclidean distance is used to determine difference between x
+                   # Gaussian center
+                   gaussian_outputs.append( 
+                       exp((-1/float(2 * (node[1]**2))) * (sqrt(sum((instance[:-1] - node[0])**2))**2)))
+
+               # Determine error gradient (implies a vector)
+               gradient = []
+               for gaussian_output in gaussian_outputs:
+                   activation_score = 1 / (1 + exp(-np.dot(self.weights, gaussian_outputs)))
+                   gradient.append(
+                       (activation_score - instance[-1]) * 
+                       (activation_score * (1 - activation_score)) * gaussian_output)
+
+               # Calculate weight update
+               # Update weights with w_t+1 = w_t - learning rate * gradient
+               new_weights += (self.weights - (self.learning_rate * np.array(gradient)))
+           new_weights = (new_weights / training_data.shape[0])
+           self.weights = new_weights
+           trials += 1
+       #print "Learned weights: %s" % self.weights
+
+    def predict(self, test_set):
+        predictions = []
+        for instance in test_set:
+            gaussian_outputs = []
+            for node in self.hidden_nodes:
+                # radial basis function = exp[(-1/(2 * spread **2)) (x - Gaussian center)**2]
+                # Note: Euclidean distance is used to determine difference between x
+                # Gaussian center
+                gaussian_outputs.append( 
+                    exp((-1/float(2 * (node[1]**2))) * (sqrt(sum((instance - node[0])**2))**2)))
+            activation_value = (1 / (1 + exp(-np.dot(self.weights, gaussian_outputs))))
+            if activation_value < 0.5:
+                predictions.append(0)
+            else:
+                predictions.append(1)
+        return predictions

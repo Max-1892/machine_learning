@@ -1,0 +1,35 @@
+Running with data_sets/cancer_data.txt
+Cross validation fold 1
+Cross validation fold 2
+Cross validation fold 3
+Cross validation fold 4
+Cross validation fold 5
+Average overall classification rate: 0.886331
+Running with data_sets/glass_data.txt
+Cross validation fold 1
+Cross validation fold 2
+Cross validation fold 3
+Cross validation fold 4
+Cross validation fold 5
+Average overall classification rate: 0.280952
+Running with data_sets/iris_data.txt
+Cross validation fold 1
+Cross validation fold 2
+Cross validation fold 3
+Cross validation fold 4
+Cross validation fold 5
+Average overall classification rate: 0.820000
+Running with data_sets/soybean_data.txt
+Cross validation fold 1
+Cross validation fold 2
+Cross validation fold 3
+Cross validation fold 4
+Cross validation fold 5
+Average overall classification rate: 0.377778
+Running with data_sets/vote_data.txt
+Cross validation fold 1
+Cross validation fold 2
+Cross validation fold 3
+Cross validation fold 4
+Cross validation fold 5
+Average overall classification rate: 0.429885
