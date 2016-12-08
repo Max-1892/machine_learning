@@ -14,15 +14,16 @@ def value_iteration(grid_map, map_height, map_width,
     policy_map = dict()
     value_function_map = dict()
     for row in xrange(map_height):
-        policy_map[row] = dict()
-        value_function_map[row] = dict()
+        policy_map.setdefault(row, {})
+        value_function_map.setdefault(row, {})
         for col in xrange(map_width):
-            policy_map[row][col] = dict()
-            value_function_map[row][col] = dict()
+            policy_map[row].setdefault(col, {})
+            value_function_map[row].setdefault(col, {})
             for velocity in possible_velocities:
-                policy_map[row][col][velocity[0]] = dict()
-                policy_map[row][col][velocity[0]][velocity[1]] = list()
-                value_function_map[row][col][velocity[0]] = dict()
+                policy_map[row][col].setdefault(velocity[0], {})
+                policy_map[row][col][velocity[0]].setdefault(velocity[1], [])
+                value_function_map[row][col].setdefault(velocity[0], {})
+                value_function_map[row][col][velocity[0]].setdefault(velocity[1], 0.0)
 
     # Calculate all possible states
     # which will be stored in a list of tuples, each tuple containing a tuple for position and velocity
@@ -44,7 +45,9 @@ def value_iteration(grid_map, map_height, map_width,
     # Continue until the successive largest differences in V drop 
     # below the Bellman error magnitude (epsilon)
     max_value_increase = epsilon
+    iterations = 1
     while max_value_increase >= epsilon:
+        print "Training iteration %d" % iterations
         max_value_increase = float("-inf")
         # old_value_map = value function map from t-1
         old_value_map = deepcopy(value_function_map)
@@ -93,6 +96,7 @@ def value_iteration(grid_map, map_height, map_width,
             if value_difference > max_value_increase:
                 max_value_increase = value_difference
             value_function_map[row][col][vel_row][vel_col] = q_values[0][1]
+        iterations += 1
     return policy_map, value_function_map
  
 '''This method performs the kinematic updates given an old state and an action to
@@ -120,8 +124,18 @@ def calculate_successor_states(grid_map, old_state, action, crash_type, start_lo
         vel_col_accepted = -5
     pos_row_accepted = vel_row_accepted + old_state[0][0]
     pos_col_accepted = vel_col_accepted + old_state[0][1]
+    # Check to see if we finished the race or crashed
+    # Returns a tuple of (boolean crashed?, boolean finished?, finished coordinates)
+    crashed_or_finished = \
+        determine_if_crashed_or_finished(grid_map, old_state[0], (vel_row_accepted,vel_col_accepted))
+    crashed = crashed_or_finished[0]
+    finished = crashed_or_finished[1]
+    finished_coors = crashed_or_finished[2]
     # Check to make sure it didn't cross any walls
-    if determine_if_crashed(grid_map, old_state[0], (vel_row_accepted,vel_col_accepted)):
+    if finished:
+        pos_row_accepted = finished_coors[0]
+        pos_col_accepted = finished_coors[1]
+    elif crashed:
         vel_row_accepted = 0; vel_col_accepted = 0;
         if crash_type == 'soft':
             pos_row_accepted = old_state[0][0]
@@ -136,8 +150,17 @@ def calculate_successor_states(grid_map, old_state, action, crash_type, start_lo
     vel_col_ignored = old_state[1][1]
     pos_row_ignored = vel_row_ignored + old_state[0][0]
     pos_col_ignored = vel_col_ignored + old_state[0][1]
-    # Check to make sure it didn't cross any walls
-    if determine_if_crashed(grid_map, old_state[0], (vel_row_ignored,vel_col_ignored)):
+    # Check to make sure it didn't cross any walls or finish the race
+    # Returns a tuple of (boolean crashed?, boolean finished?, finished coordinates)
+    crashed_or_finished = \
+        determine_if_crashed_or_finished(grid_map, old_state[0], (vel_row_ignored,vel_col_ignored))
+    crashed = crashed_or_finished[0]
+    finished = crashed_or_finished[1]
+    finished_coors = crashed_or_finished[2]
+    if finished:
+        pos_row_ignored = finished_coors[0]
+        pos_col_ignored = finished_coors[1]
+    elif crashed:
         vel_row_ignored = 0; vel_col_ignored = 0;
         if crash_type == 'soft':
             pos_row_ignored = old_state[0][0]
@@ -152,7 +175,7 @@ def calculate_successor_states(grid_map, old_state, action, crash_type, start_lo
     return [(pos_row_accepted,pos_col_accepted,vel_row_accepted,vel_col_accepted),
         (pos_row_ignored,pos_col_ignored,vel_row_ignored,vel_col_ignored)]
 
-def determine_if_crashed(grid_map, start_position, velocity):
+def determine_if_crashed_or_finished(grid_map, start_position, velocity):
     # To determine if the racer crashed into the wall, we'll 
     # move the racer first by velocity_row then by velocity_col starting at the
     # start_position, one step at a time. 
@@ -160,6 +183,8 @@ def determine_if_crashed(grid_map, start_position, velocity):
     # velocity_row starting at the start_position, one step at a time. 
     # If at least one wall is encountered in each walk, we consider it a crash.
 
+    finished = False
+    finished_loc = (float("-inf"), float("-inf"))
     # First walk: velocity_row then velocity_col
     first_walk_crash = False
     velocity_row = velocity[0]; velocity_col = velocity[1]
@@ -176,6 +201,11 @@ def determine_if_crashed(grid_map, start_position, velocity):
         if grid_map[current_position_row, current_position_col] == '#':
             first_walk_crash = True
             break
+        elif grid_map[current_position_row, current_position_col] == 'F':
+            finished = True
+            finished_loc = (current_position_row, current_position_col)
+            first_walk_crash = False
+            break
     # velocity_col
     while velocity_col != 0:
         # Update velocity differently if it is negative
@@ -188,10 +218,15 @@ def determine_if_crashed(grid_map, start_position, velocity):
         if grid_map[current_position_row, current_position_col] == '#':
             first_walk_crash = True
             break
+        elif grid_map[current_position_row, current_position_col] == 'F':
+            finished = True
+            finished_loc = (current_position_row, current_position_col)
+            first_walk_crash = False
+            break
 
     # Second walk: velocity_col then velocity_row
     second_walk_crash = False
-    if first_walk_crash:
+    if first_walk_crash and not finished:
         velocity_row = velocity[0]; velocity_col = velocity[1]
         current_position_row = start_position[0]; current_position_col = start_position[1]
         # velocity_col
@@ -206,6 +241,11 @@ def determine_if_crashed(grid_map, start_position, velocity):
             if grid_map[current_position_row, current_position_col] == '#':
                 second_walk_crash = True
                 break
+            elif grid_map[current_position_row, current_position_col] == 'F':
+                finished = True
+                finished_loc = (current_position_row, current_position_col)
+                second_walk_crash = False
+                break
         # velocity_row
         while velocity_row != 0:
             # Update velocity differently if it is negative
@@ -218,5 +258,10 @@ def determine_if_crashed(grid_map, start_position, velocity):
             if grid_map[current_position_row, current_position_col] == '#':
                 second_walk_crash = True
                 break
+            elif grid_map[current_position_row, current_position_col] == 'F':
+                finished = True
+                finished_loc = (current_position_row, current_position_col)
+                second_walk_crash = False
+                break
 
-    return first_walk_crash and second_walk_crash
+    return (first_walk_crash and second_walk_crash, finished, finished_loc)

@@ -83,7 +83,15 @@ while grid_map[curr_row_pos, curr_col_pos] != 'F':
         curr_col_pos = curr_col_vel + curr_col_pos
 
     # Determine if crash happened
-    if determine_if_crashed(grid_map, (old_row_pos,old_col_pos), (curr_row_vel,curr_col_vel)):
+    crashed_or_finished = \
+        determine_if_crashed_or_finished(grid_map, (old_row_pos,old_col_pos), (curr_row_vel,curr_col_vel))
+    crashed = crashed_or_finished[0]
+    finished = crashed_or_finished[1]
+    finished_coors = crashed_or_finished[2]
+    if finished:
+        curr_row_pos = finished_coors[0]
+        curr_col_pos = finished_coors[1]
+    elif crashed:
         print "CRASH!"
         curr_row_vel = 0; curr_col_vel = 0;
         # Are we running with a soft or hard crash?
