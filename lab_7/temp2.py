@@ -56,7 +56,7 @@ possible_actions = [(acc_x,acc_y) for acc_x in xrange(-1,2) for acc_y in xrange(
 np.random.seed(314)
 iterations = 0
 # while we haven't reached the finish line, loop
-state = ((3,34),(-1,0))
+state = ((5,33),(0,0))
 curr_row_pos = state[0][0]
 curr_col_pos = state[0][1]
 curr_row_vel = state[1][0]
@@ -73,13 +73,6 @@ while grid_map[curr_row_pos, curr_col_pos] != 'F':
             grid_map, q_value_map, state, possible_actions, crash_type, start_locs)
     # Choose an action using epsilon-greedy method
     accl = reachable_state_values[0][0]
-    '''if np.random.choice(['greedy','random'], [1.0-epsilon, epsilon]) == 'greedy':
-        # Choose the best action
-        accl = reachable_state_values[action_idx][0]
-    else:
-        # Choose a random action
-        action_idx = np.random.choice(xrange(len(reachable_state_values)))
-        accl = reachable_state_values[action_idx][0]'''
     old_row_pos = curr_row_pos
     old_col_pos = curr_col_pos
     # Determine if the acceleration update will be applied or ignored

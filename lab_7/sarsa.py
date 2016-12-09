@@ -20,7 +20,7 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
                q_value_map[row][col][velocity[0]].setdefault(velocity[1], {})
                for action in possible_actions:
                    q_value_map[row][col][velocity[0]][velocity[1]].setdefault(action[0], {})
-                   q_value_map[row][col][velocity[0]][velocity[1]][action[0]].setdefault(action[1], -1)
+                   q_value_map[row][col][velocity[0]][velocity[1]][action[0]].setdefault(action[1], 0)
                    if grid_map[row,col] != '#':
                        possible_states.append(((row,col),velocity))
 
@@ -28,7 +28,8 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
    # Loop over episodes, one episode per state?
    episode_count = 1
    for state_to_visit in states_to_visit:
-       print "Starting from %s" % str(state_to_visit)
+       print "Episode %d of %d" % (episode_count, len(states_to_visit))
+
        # Choose a starting position
        state = state_to_visit
        #print_map(grid_map, state)
@@ -38,8 +39,12 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
            calculate_reachable_state_values(
                grid_map, q_value_map, state, possible_actions, crash_type, start_locs)
        # Choose an action using epsilon-greedy method
+       # First update epsilon
+       if epsilon - 0.01 > 0:
+           epsilon -= 0.01
+       else:
+           epsilon = 0
        action_idx = 0
-       epsilon = epsilon / episode_count
        if np.random.choice(['greedy','random'], [1.0-epsilon, epsilon]) == 'greedy':
            # Choose the best action
            action = reachable_state_values[action_idx][0]
@@ -65,7 +70,7 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
                successor_action = reachable_state_values[0][0]
            else:
                # Choose a random action
-               action_idx = np.random.choice(xrange(len(reachable_state_values)))
+               successor_action_idx = np.random.choice(xrange(len(reachable_state_values)))
                successor_action = reachable_state_values[successor_action_idx][0]
 
            # Cache q values because accessing them is ugly
@@ -80,7 +85,7 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
            # Q_t+1(s,a) = Q(s,a) + learning_rate * (reward + discount_factor * Q(s',a')-Q(s,a))
            q_value_map[state[0][0]][state[0][1]][state[1][0]][state[1][1]][action[0]][action[1]] = \
                q_value + learning_rate * \
-                   (get_reward(grid_map, state) + discount_factor * successor_q_value - q_value)
+                   (get_reward(grid_map, successor_state) + discount_factor * successor_q_value - q_value)
                
            # s = s', a = a'
            state = successor_state
@@ -88,7 +93,7 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
            action = successor_action
            #print_map(grid_map, state)
            itr += 1
-           if itr == 250:
+           if itr == 1000:
                break;
        episode_count += 1
    return q_value_map
@@ -162,35 +167,23 @@ def print_map(grid_map, state):
 def get_states_to_visit(track_name, possible_velocities):
     states_to_visit = list()
     if track_name == 'L-track.txt':
-        for row_idx in xrange(2, 6):
-            for col_idx in xrange(32, 36):
-                for velocity in possible_velocities:
+        for _ in xrange(0, 1):
+            for row_idx in xrange(2, 10):
+                for col_idx in xrange(32, 36):
+                    for velocity in possible_velocities:
                         states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(6, 10):
+                for col_idx in reversed(xrange(24, 32)):
+                    for velocity in possible_velocities:
+                            states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(6, 9):
+                for col_idx in reversed(xrange(12, 24)):
+                    for velocity in possible_velocities:
                         states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(6, 9):
+                for col_idx in reversed(xrange(0, 12)):
+                    for velocity in possible_velocities:
                         states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-        '''for row_idx in xrange(6, 10):
-            for col_idx in reversed(xrange(24, 32)):
-                for velocity in possible_velocities:
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-        for row_idx in xrange(6, 9):
-            #for col_idx in reversed(xrange(12, 24)):
-            for col_idx in xrange(12, 24):
-                for velocity in possible_velocities:
-                        states_to_visit.append(((row_idx,col_idx), velocity))
-        for row_idx in xrange(6, 9):
-            #for col_idx in reversed(xrange(0, 12)):
-            for col_idx in xrange(0, 12):
-                for velocity in possible_velocities:
-                        states_to_visit.append(((row_idx,col_idx), velocity))'''
     return states_to_visit
 
 
