@@ -10,6 +10,9 @@ learning_rate = float(sys.argv[2])
 discount_factor = float(sys.argv[3])
 epsilon = float(sys.argv[4])
 crash_type = sys.argv[5]
+q_value_map_init_filename = None
+if len(sys.argv) > 6:
+    q_value_map_init_filename = sys.argv[6]
 
 # Read in racetrack file
 racetrack_tokens = list()
@@ -42,9 +45,13 @@ indices = np.where(grid_map == 'F')
 for row,col in zip(indices[0], indices[1]):
     goal_locs.append((row,col))
 
+# Unpickle passed in q_value_map
+afile = open(q_value_map_init_filename, 'rb')
+q_value_map_init = pickle.load(afile)
+afile.close()
+
 # Run SARSA
-print "q_value_map_racetrack_%s_learning_rate_%f_discount_factor_%f_epsilon_%f_crash_type_%s.pkl" % (racetrack_file[:-4], learning_rate, discount_factor, epsilon, crash_type)
-q_value_map = sarsa(grid_map, racetrack_height, racetrack_width, start_locs, learning_rate, discount_factor, epsilon, crash_type, racetrack_file)
+q_value_map = sarsa(grid_map, racetrack_height, racetrack_width, start_locs, learning_rate, discount_factor, epsilon, crash_type, racetrack_file, q_value_map_init)
 filename = "q_value_map_racetrack_%s_learning_rate_%f_discount_factor_%f_epsilon_%f_crash_type_%s.pkl" % (racetrack_file, learning_rate, discount_factor, epsilon, crash_type)
 afile = open(filename, 'wb')
 pickle.dump(q_value_map, afile)

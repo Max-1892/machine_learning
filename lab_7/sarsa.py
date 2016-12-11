@@ -1,10 +1,11 @@
 import numpy as np
+from random import randrange
 import pdb
 from value_iteration import calculate_successor_states
 from value_iteration import determine_if_crashed_or_finished
 from copy import deepcopy
 
-def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_factor, epsilon, crash_type, track_name):
+def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_factor, epsilon, crash_type, track_name, q_value_map_init=None):
    # Initialize q values for all state-action pairs randomly and
    # determine possible states the racecar can have
    possible_actions = [(acc_x,acc_y) for acc_x in xrange(-1,2) for acc_y in xrange(-1,2)]
@@ -23,9 +24,12 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
                    q_value_map[row][col][velocity[0]][velocity[1]][action[0]].setdefault(action[1], 0)
                    if grid_map[row,col] != '#':
                        possible_states.append(((row,col),velocity))
+   if q_value_map_init != None:
+       q_value_map = q_value_map_init
 
    states_to_visit = get_states_to_visit(track_name, possible_velocities)
    # Loop over episodes, one episode per state?
+   epsilon_update = float(epsilon) / len(states_to_visit)
    episode_count = 1
    for state_to_visit in states_to_visit:
        print "Episode %d of %d" % (episode_count, len(states_to_visit))
@@ -40,8 +44,8 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
                grid_map, q_value_map, state, possible_actions, crash_type, start_locs)
        # Choose an action using epsilon-greedy method
        # First update epsilon
-       if epsilon - 0.01 > 0:
-           epsilon -= 0.01
+       if epsilon - epsilon_update > 0:
+           epsilon -= epsilon_update
        else:
            epsilon = 0
        action_idx = 0
@@ -93,7 +97,7 @@ def sarsa(grid_map, map_height, map_width, start_locs, learning_rate, discount_f
            action = successor_action
            #print_map(grid_map, state)
            itr += 1
-           if itr == 1000:
+           if itr == 500:
                break;
        episode_count += 1
    return q_value_map
@@ -167,23 +171,188 @@ def print_map(grid_map, state):
 def get_states_to_visit(track_name, possible_velocities):
     states_to_visit = list()
     if track_name == 'L-track.txt':
-        for _ in xrange(0, 1):
-            for row_idx in xrange(2, 10):
+        for _ in xrange(0, 30):
+            '''for row_idx in xrange(2, 10):
                 for col_idx in xrange(32, 36):
                     for velocity in possible_velocities:
                         states_to_visit.append(((row_idx,col_idx), velocity))
             for row_idx in xrange(6, 10):
-                for col_idx in reversed(xrange(24, 32)):
+                for col_idx in reversed(xrange(26, 32)):
                     for velocity in possible_velocities:
-                            states_to_visit.append(((row_idx,col_idx), velocity))
-            for row_idx in xrange(6, 9):
-                for col_idx in reversed(xrange(12, 24)):
+                            states_to_visit.append(((row_idx,col_idx), velocity))'''
+            '''for row_idx in xrange(6, 10):
+                for col_idx in reversed(xrange(20, 26)):
+                    for velocity in possible_velocities:
+                            states_to_visit.append(((row_idx,col_idx), velocity))'''
+            '''for row_idx in xrange(6, 10):
+                for col_idx in reversed(xrange(12, 20)):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))'''
+            for row_idx in xrange(6, 10):
+                for col_idx in reversed(xrange(6, 12)):
                     for velocity in possible_velocities:
                         states_to_visit.append(((row_idx,col_idx), velocity))
-            for row_idx in xrange(6, 9):
-                for col_idx in reversed(xrange(0, 12)):
+            '''for row_idx in xrange(6, 10):
+                for col_idx in reversed(xrange(1, 6)):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))'''
+    elif track_name == 'O-track.txt':
+        for _ in xrange(0, 10):
+            for row_idx in xrange(13, 20):
+                for col_idx in xrange(1, 5):
                     for velocity in possible_velocities:
                         states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [20]:
+                for col_idx in [2,3,4,5]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [21]:
+                for col_idx in [3,4,5,6]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [22]:
+                for col_idx in xrange(3,22):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [23]:
+                for col_idx in xrange(4,21):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [21]:
+                for col_idx in [18,19,20,21]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [20]:
+                for col_idx in [19,20,21,22]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [19,18,17,16,15,14,13,12,11,10,9,8,7,6,5]:
+                for col_idx in [20,21,22,23]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [4]:
+                for col_idx in [19,20,21,22]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [3]:
+                for col_idx in [18,19,20,21]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [2]:
+                for col_idx in [21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [1]:
+                for col_idx in [20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [3]:
+                for col_idx in [3,4,5,6]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [4]:
+                for col_idx in [2,3,4,5]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [5,6,7,8,9,10]:
+                for col_idx in [2,3,4,5]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+    else:
+        for _ in xrange(0, 10):
+            for row_idx in [25,26]:
+                for col_idx in [24,25,26,27,28]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [23,22,21,20,19,18,17]:
+                for col_idx in [23,24,25,26,27]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [16]:
+                for col_idx in [21,22,23,24,25,26,27]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [15]:
+                for col_idx in [19,20,21,22,23]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [14]:
+                for col_idx in [16,17,18,19,20]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [13]:
+                for col_idx in [14,15,16,17,18]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [12]:
+                for col_idx in [13,14,15,16,17]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [11]:
+                for col_idx in [12,13,14,15,16]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [10]:
+                for col_idx in [10,11,12,13,14]:
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [9]:
+                for col_idx in xrange(12,16):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [8]:
+                for col_idx in xrange(14,18):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [7]:
+                for col_idx in xrange(15,19):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [6]:
+                for col_idx in xrange(17,22):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [5]:
+                for col_idx in xrange(19,24):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [4]:
+                for col_idx in xrange(18,25):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [3]:
+                for col_idx in xrange(3,27):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [2]:
+                for col_idx in xrange(5,26):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [1]:
+                for col_idx in xrange(9,22):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in [4]:
+                for col_idx in xrange(2,8):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(5,12):
+                for col_idx in xrange(2,7):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(12,16):
+                for col_idx in xrange(1,5):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(16,21):
+                for col_idx in xrange(2,7):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+            for row_idx in xrange(21,27):
+                for col_idx in xrange(1,6):
+                    for velocity in possible_velocities:
+                        states_to_visit.append(((row_idx,col_idx), velocity))
+
     return states_to_visit
 
 
