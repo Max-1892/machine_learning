@@ -1,0 +1,158 @@
+Martin Pusic,17
+Mads  Hvilsom,16
+Duncan,13
+Mikael Ishak,11
+Anders Jacobsen,10
+Rasmus Festersen,10
+Uffe Bech,10
+Nicolai Jörgensen,10
+Sly,9
+Marvin Pourié,9
+Djiby Fall,9
+Teemu Pukki,9
+Nicklas Helenius,8
+Pione Sisto,8
+Nicolaj Agger,8
+Viktor Lundberg,7
+Martin Thomsen,6
+Emil Scheel,6
+Andreas Cornelius,6
+Joshua John,5
+Quincy Antipas,5
+Silas Songani,5
+Morten Beck,5
+Rasmus Falk Jensen,5
+Jakob Ankersen,5
+Mick van Buren,5
+Tommy Bechmann,5
+Martin Spelmann,5
+Emiliano Marcondes,5
+Jakob Poulsen,4
+Andrew Hjulsager,4
+David Moberg Karlsson,4
+Mikkel Vestergaard,4
+Björn Paulsen,4
+Petter Andersson,4
+Thomas Enevoldsen,4
+Nicolai Brock-Madsen,4
+Kasper Lorentzen,4
+Robin Söder,4
+Mohammed Fellah,3
+Emil Larsen,3
+Marcos Urena,3
+Riza Durmisi,3
+Dennis Sörensen,3
+Rilwan Hassan,3
+Johan Larsson,3
+Kasper Risgaard,3
+Kristian Bach Bak,3
+Elmar Bjarnason,3
+Christian Nörgaard,3
+Jim Larsen,3
+Ferhan Hasani,3
+Daniel Amartey,3
+Emil Berggreen,3
+Simon Makienok,3
+Daniel Höegh,3
+Apostolos Vellios,3
+José Núñez,3
+Ari Freyr Skúlason,2
+Martin Mikkelsen,2
+Anders Due,2
+Thomas Kahlenberg,2
+Emil Lyng,2
+Elbasan Rashani,2
+Hans Henrik Andreasen,2
+Johan Absalonsen,2
+Steve de Ridder,2
+Thomas Delaney,2
+Anders Egholm,2
+Lasse Kryger,2
+Daniel Larsson,2
+Osama Akharraz,2
+Bashkim Kadrii,2
+Kasper Larsen,2
+Jonas Knudsen,2
+Andreas Bruhn,2
+Anders Kure,2
+Kenneth Emil Petersen,2
+Vladimer Dvalishvili,2
+Kim Aabech,2
+Alexander Kacaniklic,2
+Lasse Rise,2
+Adama Guira,2
+Lasse Nielsen,2
+Kenneth Zohore,2
+Youssef Toutouh,2
+Marcus Ingvartsen,2
+Brandur Hendriksson Olsen,2
+Alexander Szymanowski,1
+Ludwig Augustinsson,1
+Kasper Fisker,1
+Danny Amankwaa,1
+Jesper Lauridsen,1
+Henrik Dalsgaard,1
+Ryan Laursen,1
+Jonas Kamper,1
+Martin Vingaard,1
+Tom Högli,1
+Ade Runsewe,1
+Casper Nielsen,1
+Robert Skov,1
+Peter Nymann,1
+Mads Jessen,1
+Mathias Wichmann,1
+Mads Justesen,1
+Marc Dal Hende,1
+André Römer,1
+Mikkel Thygesen,1
+Daniel Agger,1
+Patrick Kristensen,1
+Thomas Dalgaard,1
+Rasmus Christensen,1
+Erik Sviatchenko,1
+Erik Friberg,1
+Alexander Fischer,1
+Björn Sigurdarson,1
+Nicolaj Ritter,1
+Thomas Mikkelsen,1
+Marco Larsen,1
+Oliver Thychosen,1
+Daniel A. Pedersen,1
+Paul Onuachu,1
+Frederik Börsting,1
+Christian Poulsen,1
+Johan Elmander,1
+Thomas Hansen,1
+Rúrik Gíslason,1
+Jan Kristiansen,1
+Jonas Borring,1
+Niels Lodberg,1
+Danni König,1
+Bojan Golubovic,1
+Darko Bodul,1
+Magnus Lekven,1
+Thorbjörn Holst Rasmussen,1
+Zanka,1
+Nicolaj Madsen,1
+Claudemir,1
+Kevin Niclas Mensah,1
+Oliver Lund,1
+Rasmus Jönsson,1
+Sören Frederiksen,1
+Gudjón Baldvinsson,1
+Fredrik Berge,1
+Ivan Runje,1
+Kristian Lindberg,1
+Holmbert Aron Fridjonsson,1
+Eddi Gomes,1
+Marc Rochester Sörensen,1
+Sören Mussmann,1
+Patrick Banggaard,1
+Jean-Claude Bozga,1
+Andreas Oggesen,1
+Mathias Greve,1
+Lebogang Phiri,1
+Jeppe Tverskov,1
+Kasper Pedersen,1
+Nikolai Laursen,1

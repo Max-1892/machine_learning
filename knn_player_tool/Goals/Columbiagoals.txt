@@ -1,0 +1,155 @@
+Harold Preciado,10
+Robin Ramírez,7
+Fernando Uribe,7
+Santos Borré,7
+Jonathan Copete,6
+Wilson Morelo,6
+Édison Toloza,6
+Carlos Rentería,6
+Miguel Borja,5
+Carlos Ibargüen,5
+Jhonatan Agudelo,5
+Juan Fernando Caicedo,5
+Miguel Murillo,5
+Alejandro Guerra,4
+Luis Alfonso Páez,4
+Martín Arzuaga,4
+David Ferreira,4
+Hernán Hechalar,4
+Marco Pérez,4
+Marlon Fernández,4
+Jhony Cano,4
+Denis Gómez,4
+Sergio Romero,4
+Luis Espínola,4
+David Silva,3
+Juan David Valencia,3
+Jorge Ramírez,3
+Luis Carlos Ruiz,3
+Gerardo Bedoya,3
+Pablo Zeballos,3
+Pablo Velázquez,3
+Marcelo Bergese,3
+Johan Arango,3
+Ángelo Rodríguez,3
+Francisco Meza,3
+Johnny Mostasilla,3
+Cristian Cangá,3
+Carlos Andrés Rivas,3
+Miguel Medina,3
+Luis Manuel Seijas,2
+Jean Carlos Blanco,2
+Andrés Ibargüen,2
+Federico Insúa,2
+Sebastián Penco,2
+Vladimir Marín,2
+Johan Fano,2
+Roberto Ovelar,2
+Dávinson Monsalve,2
+Francisco Nájera,2
+Julián Hurtado,2
+Efraín Viáfara,2
+Pedro Chávez,2
+Fabio Burbano,2
+Campo Santacruz,2
+Jorge Aguirre,2
+Daniel Buitrago,2
+Luis Quiñónes,2
+Juan David Pérez,2
+Yony González,2
+Juan José Mezú,2
+Faber Cañaveral,2
+Daniel Hernández,2
+Mauro Manotas,2
+Raúl Peñaranda,2
+Jarlan Barrera,2
+Jonathan Palacios,2
+Macnelly Torres,1
+Yulián Mejía,1
+Juan Domínguez,1
+Iván Vélez,1
+Diego Amaya,1
+David Mendieta,1
+Luis Carlos Arias,1
+Andrés Escobar,1
+Omar Mancilla,1
+Darío Andrés Rodríguez,1
+Armando Vargas,1
+John Méndez ,1
+Wilfrido De la Rosa,1
+Andrés Orozco,1
+David González,1
+Javier Reina,1
+Yair Arrechea,1
+Camilo Ayala,1
+Germán Mera,1
+Jonathan Estrada,1
+Román Torres,1
+Bréyner Bonilla,1
+Iván Corredor,1
+Wílmer Díaz,1
+Jherson Córdoba,1
+Dahwling Leudo,1
+Dayron Pérez,1
+Gerardo Vonder Putten,1
+Henry Rojas,1
+Vladimir Hernández,1
+Yuberney Franco,1
+Christian Marrugo,1
+Jefferson Duque,1
+Félix Noguera,1
+Máyer Candelo,1
+Maximiliano Núñez,1
+Juan David Cabezas,1
+Jonathan Gómez,1
+Andrés Arboleda,1
+Harold Reina,1
+Yessy Mena,1
+Andy Pando,1
+Jhon Lozano,1
+Yesid Aponzá,1
+Édinson Palomino,1
+Jorge Ramos,1
+César Arias,1
+Alexis Ossa,1
+Camilo Saiz,1
+Yesinguer Jiménez,1
+Luis Tiptón,1
+John Varela,1
+Róger Torres,1
+José Luis García,1
+Luis Mosquera,1
+Jonathan Álvarez,1
+César Hinestroza,1
+James Sánchez,1
+Yerson Candelo,1
+Óscar Rodas,1
+Baldomero Perlaza,1
+Óscar Méndez,1
+Alan Navarro,1
+Óscar Balanta,1
+Mauricio Mina,1
+Luis Vergara,1
+Elacio Córdoba,1
+Andrés Ricaurte,1
+Gustavo Culma,1
+Guillermo Celis,1
+Rafael Carrascal,1
+Cristian Arango,1
+Nicolás Rubio,1
+Jhonny Meza,1
+Leonel García,1
+Juan Sebastian Herrera,1
+Andrés Roa,1
+Javier Sanguinetti,1
+Jeison Estupiñán,1
+Óscar Barreto,1
+José Luís Moreno,1
+Gabriel Díaz Rico,1
+Juan Roa,1
+Diego González,1
+Deiver Parra,1
+Jonathan Angulo,1
+Luis López,1
+Víctor Arboleda ,1
+Jhon Salazar,1

@@ -1,0 +1,206 @@
+Alexander Söderlund,22
+Adama Diomande,17
+Olivier Occéan,15
+Ola Kamara,14
+Pal André Helland,13
+Trond Olsen,13
+Alexander Sörloth,13
+Leke James,13
+Mohamed Elyounoussi,12
+Iver Fossum,11
+Veton Berisha,11
+Fred Friday,11
+Marcus Pedersen,11
+Ernest Asante,10
+Erling Knudtzon,10
+Christian Gytkjaer,10
+Jón Dadi Bödvarsson,9
+Gustav Wikheim,9
+Matthías Vilhjálmsson,9
+Zdenek Ondrasek,9
+Fredrik Nordkvelle,9
+Tommy Höiland,9
+Simon Diédhiou,9
+Bentley,8
+Suleiman Abdullahi,8
+Sander Svendsen,8
+Kristoffer Ajer,8
+Tobias Mikkelsen,8
+Luc Kassi,8
+Pal Alexander Kirkevold,8
+Ghayas Zahid,7
+Daniel Fredheim Holm,7
+Magnus Andersen,7
+Moryké Fofana,7
+Deshorn Brown,7
+Jean Alassane Mendy,6
+Mos,6
+Yann-Erik de Lanlay,6
+Bojan Zajic,6
+Espen Börufsen,6
+Christian Grindheim,5
+Samuel Adegbenro,5
+André Danielsen,5
+Erik Mjelde,5
+Martin Wiig,5
+Pape Paté Diouf,5
+Ole Jörgen Halvorsen,5
+Aron Elís Thrándarson,5
+Rhett Bernstein,5
+Espen Ruud,4
+Fredrik Midtsjö,4
+Lars Christopher Vilsvik,4
+Öyvind Storflor,4
+Christian Gauseth,4
+Bismark Adjei-Boateng,4
+Jone Samuelsen,4
+Badou Ndiaye,4
+Fitim Azemi,4
+Steffen Ernemann,4
+Anders Konradsen,4
+Cole Grossman,4
+Zymer Bytyqi,4
+Erik Midtgarden,4
+Sanel Kapidzic,4
+Morten Sundli,4
+Morten Konradsen,4
+Marvin Ogunjimi,4
+Peter Orry Larsen,4
+Kjell Rune Sellin,4
+Marco Tagbajumi,4
+Elías Már Ómarsson,4
+Mike Jensen,3
+Yassine El Ghanassy,3
+Per Egil Flo,3
+Henrik Furebotn,3
+Rasmus Lindkvist,3
+Gjermund Asen,3
+Cheikhou Dieng,3
+Mikael Ingebrigtsen,3
+Espen Hoff,3
+Péter Kovács,3
+Thomas Sörum,3
+Andreas Nordvik,3
+Rolf Daniel Vikstöl,3
+Malaury Martin,3
+Ville Jalasto,3
+Patrick Mortensen,3
+Michael Barrantes,3
+Remi Johansen,3
+Kristoffer Tokstad,3
+Kent-Are Antonsen,3
+Runar Espejord,3
+Stian Aasmundsen,3
+Jörgen Kolstad,3
+Vegard Skjerve,3
+Kamal Issah,3
+Brede Moe,3
+Liam Henderson,3
+Martin Linnes,2
+Ole Selnaes,2
+Mattias Moström,2
+Jo Nymo Matland,2
+Geir Ludvig Fevang,2
+Michael Haukas,2
+Rafik Zekhnini,2
+Muhamed Keita,2
+Danny Cruz,2
+Flamur Kastrati,2
+Árni Vilhjálmsson,2
+Kristoffer Normann Hansen,2
+Fredrik Jensen,2
+Johan Andersson,2
+Johan Björdal,2
+Alexander Gabrielsen,2
+Joona Toivio,2
+Sakari Mattila,2
+Jörgen Skjelvik,2
+Carl Björk,2
+Niklas Gunnarsson,2
+Herman Stengel,2
+Melker Hallberg,2
+Simen Kind Mikalsen,2
+Kachi,2
+Frode Johnsen,2
+Magne Hoseth,2
+Kjetil Waehler,2
+Amin Askar,2
+Enar Jääger,2
+Vidar Nisja,2
+Ole Hansen,2
+Tor Arne Andreassen,2
+Magnus Olsen,2
+Bassel Jradi,2
+Tomas Malec,2
+Mads Gundersen,2
+Tokmac Chol Nguen,2
+Pau Morer,2
+Lars-Jörgen Salvesen,2
+Anders Trondsen,1
+Daniel Bamberg,1
+Joachim Olsen,1
+Hólmar Örn Eyjólfsson,1
+Etzaz Hussain,1
+Mikael Dorsin,1
+Steinthór Freyr Thorsteinsson,1
+Akeem Latifu,1
+Zarek Valentin,1
+Henrik Björdal,1
+Birger Meling,1
+Frode Kippe,1
+Daniel Braaten,1
+Ulrik Arneberg,1
+Harmeet Singh,1
+Florent Hanin,1
+Giorgi Gorozia,1
+Marius Lundemo,1
+Kristoffer Haugen,1
+Eirik Hestad,1
+Jonas Johansen,1
+Victor Demba Bindia,1
+Havard Storbaek,1
+Mads Hansen,1
+Kristoffer Haraldseid,1
+Morten Moldskred,1
+Riku Riski,1
+Barry Maguire,1
+Mohammed Abdellaoue,1
+Martin Jensen,1
+Vegard Forren,1
+Thomas Lehne Olsen,1
+Alexander Stölas,1
+Mads Stokkelien,1
+Mushaga Bakenga,1
+Mohammed Abu,1
+Erik Tönne,1
+Ulrik Saltnes,1
+Amahl Pellegrino,1
+Nicolai Naess,1
+Andreas Hollingen,1
+Agnaldo,1
+Fredrik Krogstad,1
+Morten Berre,1
+Indridi Sigurdsson,1
+Hakon Opdal,1
+Lars-Kristian Eriksen,1
+Alexander Mathisen,1
+Steffen Hagen,1
+Mounir Hamoud,1
+Magne Simonsen,1
+Joackim Jörgensen,1
+Alagie Sosseh,1
+Marcus Hansson,1
+Dominic Chatto,1
+Joakim Vage Nilsen,1
+Craig Henderson,1
+Björn Daníel Sverrisson,1
+Gudmundur Kristjánsson,1
+Liridon Kalludra,1
+Fredrik Berge,1
+Ruben Gabrielsen,1
+Alexander Groven,1
+Martin Björnbak,1
+Simon Larsen,1
+Erik Hurtado,1
+Tim André Nilsen,1
+Daniel Aase,1

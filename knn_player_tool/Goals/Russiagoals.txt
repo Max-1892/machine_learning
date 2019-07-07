@@ -1,0 +1,183 @@
+Hulk,15
+Roman Eremenko,13
+Quincy Promes,13
+José Salomón Rondón,13
+Bibras Natcho,12
+Igor Portnyagin,11
+Ahmed Musa,10
+Kevin Kuranyi,10
+Aleksey Ionov,9
+Mauricio Pereyra,9
+Aleksandr Kokorin,8
+Fedor Smolov,8
+Artem Dzyuba,8
+Balázs Dzsudzsák,7
+Ari,7
+Marcinho,7
+Gökdeniz Karadeniz,7
+Zoran Tosic,7
+Wanderson,7
+Seydou Doumbia,7
+Manuel Fernandes,7
+Joãozinho,6
+Magomed Ozdoev,6
+Aleksandr Erokhin,6
+Alan Dzagoev,5
+Maksim Kanunnikov,5
+Roman Shirokov,5
+Georgi Peev,5
+Maksim Grigorjev,5
+Ibrahima Baldé,5
+Aílton,5
+Mathieu Valbuena,4
+Aleksandr Samedov,4
+Ivelin Popov,4
+Igor Smolnikov,4
+Maurício,4
+Vladislav Ignatjev,4
+Oleg Shatov,4
+Ricardo Laborde,4
+Oumar Niasse,4
+Igor Lebedenko,4
+Pavel Mamaev,4
+Aleksandr Bukharov,4
+Haris Handzic,4
+Axel Witsel,4
+Aleksandr Prudnikov,4
+Anton Putsila,4
+Sekou Oliseh,4
+Dmitri Poloz,4
+Vitali Djakov,4
+Sardar Azmoun,4
+Christopher Samba,4
+Dame N'Doye,4
+Sergey Tkachev,4
+Ablaye Mbengue,4
+Danny,3
+Maciej Rybus,3
+Vladimir Khozin,3
+José Manuel Jurado,3
+Carlos Eduardo,3
+Gigel Bucur,3
+Aleksandr Kolomeytsev,3
+Roman Pavlyuchenko,3
+Vladimir Bystrov,3
+Dalibor Stevanovic,3
+Alan Kasaev,3
+Artur Maloyan,3
+Gerson Acevedo,3
+Sergey Kuznetsov,3
+Igor Kireev,3
+Hugo Vieira,3
+Aleksandr Kerzhakov,3
+Kirill Kombarov,3
+Marko Lomic,3
+Ruslan Mukhametshin,3
+Aleksey Pugin,3
+Javi García,3
+Marcin Komorowski,3
+Douglas,3
+Vyacheslav Krotov,3
+Branko Jovicic,3
+Carlos Strandberg,3
+Oleg Vlasov,2
+Vitali Kaleshin,2
+Yura Movsisyan,2
+Domenico Criscito,2
+Janusz Gol,2
+Georgi Milanov,2
+Kim Källström,2
+Diniyar Bilyaletdinov,2
+Edgar Manucharyan,2
+Pontus Wernbloom,2
+Dmitri Kombarov,2
+Danilo,2
+Rizvan Utsiev,2
+Pablo Fontanello,2
+Aleksandr Kutjin,2
+Lorenzo Ebecilio,2
+Ivan Paurevic,2
+Evgeni Lutsenko,2
+Denis Glushakov,2
+Arnór Smárason,2
+Vladimir Dyadyun,2
+Evgeni Osipov,2
+Dmitri Stotskiy,2
+Diego,2
+Hugo Almeida,2
+Dmitri A. Smirnov,2
+Dmitri Torbinski,2
+Spartak Gogniev,2
+Pavel Alikin,2
+Vedran Corluka,2
+Denis Tumasyan,2
+Mitchell Donald,2
+William Vainqueur,2
+Petar Skuletic,2
+Viktor Vasin,2
+Odil Akhmedov,2
+Maksim Semakin,2
+Aleksandr Zotov,2
+Vladimir Rykov,2
+Rômulo,2
+Timofey Kalachev,1
+Oleg Ivanov,1
+Elmir Nabiullin,1
+Guélor Kanga,1
+Kostyantyn Yaroshenko,1
+Nikolay Safronidi,1
+Artur Yusupov,1
+Chisamba Lungu,1
+Vasili Berezutski,1
+Aleksandr Salugin,1
+Ezequiel Garay,1
+Blagoy Georgiev,1
+Aleksandr Sapeta,1
+Solomon Kvirkvelia,1
+Aleksandr Ryazantsev,1
+Marat Izmailov,1
+João Carlos,1
+Danilo,1
+David Dzakhov,1
+Reziuan Mirzov,1
+Alexandru Gatcan,1
+Serdar Tasci,1
+Anri Khagush,1
+Anton Sosnin,1
+Juan Insaurralde,1
+Felicio Brown Forbes,1
+Ibrahima Niasse,1
+Aslan Dudiev,1
+Sergey Petrov,1
+Kirill Panchenko,1
+Fegor Ogude,1
+Roman Zobnin,1
+Mladen Kascelan,1
+Andrey Arshavin,1
+Vladimir Korytko,1
+Igor Shevchenko,1
+Stanislav Manolev,1
+Kirill Nababkin,1
+Yannick Djaló,1
+Christian Noboa,1
+Milan Perendija,1
+Ragnar Sigurdsson,1
+Jeremy Bokila,1
+Sergey Maslov,1
+Lucas Barrios,1
+Toni Sunjic,1
+Tomas Hubocan,1
+Igor Picusceac,1
+Semen Fomin,1
+Ivan Ershov,1
+Aleksandr Katsalapov,1
+Bogdan Butko,1
+Andrey Semenov,1
+Dmitri Aydov,1
+Lorenzo Melgarejo,1
+Soslan Takazov,1
+Bastos,1
+Vitinho,1
+Aleksey Miranchuk,1
+Rinat Timokhin,1
+Sergey Serchenkov,1

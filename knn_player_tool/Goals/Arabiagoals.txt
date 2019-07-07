@@ -1,0 +1,154 @@
+Omar Al-Soma,22
+Mohammed Al-Sahlawi,21
+Paul Alo'o Efoulou,16
+Naif Hazazi,14
+Nasser Al-Shamrani,13
+Jandson,12
+Élton,10
+Thiago Neves,10
+Doris Fuakuputu,10
+Marquinho,9
+Adrian Mierzejewski,8
+Hassan Al-Tir,8
+Mohammed Al-Rashed,8
+Muhannad Aseri,8
+Abdulrahman Al Ghamdi,8
+Hassan Al-Raheb,7
+Mukhtar Fallatah,7
+Hamza Al-Dardour,7
+Mousa Al-Shamri,7
+Fahad Al Muwallad,7
+Hamdan Al-Hamdan,7
+Ismael Al-Maghrabi,7
+Ashraf Nu'man,6
+Islam Seraj,6
+Abdullah Al-Salem,6
+Jehad Al-Hussien,5
+Mustafa Al-Bassas,5
+Rafinha,5
+Rogerinho,5
+Ahmed Al Fraidi,5
+Ibrahim Al-Zawareh,5
+Youness Elewi Al-Enezi,5
+Musaed Neda,5
+Meshal Al-Enazi,5
+Fabián Estoyanoff,4
+Ahmed Al-Mubarak,4
+Salman Al-Muwashar,4
+Armando Wila,4
+Mashari Al-Anazi,4
+Naby Soumah,4
+Osama Hawsawi,4
+John Antwi,4
+Amjed Radhi,4
+Ahmed Al-Nazeri,4
+Taisir Al-Jassim,3
+Salem Al-Dawsari,3
+Habib Meité,3
+Ibrahim Ghaleb,3
+Wesam Waheab,3
+Lukasz Szukala,3
+Moestafa El Kabir,3
+Khalil Baniateyah,3
+Abdulfattah Asiri,3
+Husain Turki,3
+Riad Al-Ibrahim,3
+Yasser Al-Qahtani,3
+Sadat Bukari,3
+Adriano Pardal,3
+Ryad Al-Ebrahim,3
+Mishari Al-Thmali,2
+Hussein Abdul Ghani,2
+Hassan Fallatah,2
+Naif Mousa,2
+Hussein Al Moghawi,2
+Fahed Al-Saqri,2
+Macoumba Kandji,2
+Nawaf Al-Abed,2
+Faisal Al-Jamaan,2
+Salman Al-Faraj,2
+Bader Al-Khames,2
+Omar Hawsawi,2
+Fahad Al-Johani,2
+Salman Al-Hariri,2
+Meshaal Al-Ajmi,2
+Winful Cobbinah,2
+N'Diaye Papa Waigo,2
+Didier Ya Konan,2
+Marcelo Nicácio,2
+Anas Bani Yassen,2
+Lassana Fané,2
+Youssef Al-Salem,2
+Waleed Al-Gizani,2
+Banahene,2
+Samuel Owusu,2
+Saleh Jamaan Al-Amri,2
+Aminou Bouba,2
+Sultan Tamihi,2
+Mosfer Al-Bishi,2
+Ibrahim Al Htrsh,2
+Mohammad Al-Shalhoub,1
+Yahya Al-Shehri,1
+Faisal Darwish,1
+Osvaldo,1
+Marquinhos Gabriel,1
+Talal Majrashi,1
+Abdullah Al-Zoari,1
+Ahmad Saad,1
+Ala'a Al-Shaqran,1
+Hattan Bahbir,1
+Bader Al-Sulaiteen,1
+Sultan Al-Sawadi,1
+Salim Al-Khebari,1
+Isaac Osae,1
+Ali Al-Shoula,1
+Samer Salem,1
+Mansour Gueye,1
+Dani Quintana,1
+Alexis Mendomo,1
+Bruno César,1
+Samba Diakité,1
+Majed Al-Amri,1
+Adnan Falatah,1
+Rayan Belal,1
+Shaye Sharahili,1
+Abdulaziz Al-Bishi,1
+Salman Al Sibyani,1
+Ahmad Boabeed,1
+Shafi Al-Dossari,1
+Yasir Al-Shahrani,1
+Mohammed Abusabaan,1
+Khalid Al-Rejaib,1
+Tawfiq Buhumaid,1
+Mohammed Majrashi,1
+Majed Al-Khaibari,1
+Mussab Al-Laham,1
+Abdulelah  Al-Amer,1
+Orestes,1
+Chu-Young Park,1
+Saud Khariri,1
+Isaac Promise,1
+Bojan Bozovic,1
+Digão,1
+Tae-Hwi Kwak,1
+Abdullah Al-Dosari,1
+Kamel Al-Mousa,1
+Moftah Al-Hamsal,1
+Mohsen Al-Qarni,1
+Abdullah Al-Asta,1
+Mohammed Salem,1
+Sayyaf Al-Bishi,1
+Mohammed Jahfali,1
+Ibrahim Madkhali,1
+Yahya Dagriri,1
+Hernane,1
+Ahmed Asiri,1
+David Ochieng,1
+Ahmad Deeb,1
+Fahad Al-Mubarak,1
+Abdulmajeed Al-Sulaiheem,1
+Khalid Al-Kabi,1
+Faris Al-Alayaf,1
+Abdulrahman Al-Khaibary,1
+Hussain Al-Shaikh,1
+Ibrahim Al-Talhi,1

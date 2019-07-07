@@ -1,0 +1,225 @@
+Jackson Martínez,21
+Jonas,20
+Lima,19
+Marco Matias,17
+Islam Slimani,12
+Ahmed Hassan,12
+André André,11
+Fredy Montero,11
+Bruno Moreira,10
+Éder,10
+Toto Salvio,9
+Simmy,9
+Moussa Maazou,9
+Talisca,9
+Zé Luís,8
+Kléber,8
+Adrien Silva,8
+Deyverson,8
+Guedes,8
+Ricardo Valente,8
+Cristian Tello,7
+Felipe Pardo,7
+Nani,7
+Yacine Brahimi,7
+Óliver Torres,7
+Moussa Marega,7
+Lucas João,6
+Ricardo Quaresma,6
+André Simões,6
+Hernâni,6
+Rabiola,6
+Danilo,6
+Carlos Mané,6
+Roberto,6
+Rúben Micael,6
+Zé Manuel,6
+João Schmidt,6
+Rui Pedro,6
+Pelé,6
+Hyun-Jun Suk,6
+André Carrillo,5
+Tozé,5
+Maxi Pereira,5
+Diego Lopes,5
+Bernard Mensah,5
+Miguel Rosa,5
+Urreta,5
+João Mário,5
+Yonathan Del Valle,5
+Pedro Santos,5
+Mario Rondón,5
+Junya Tanaka,5
+Paraiba,5
+Jonatan Álvez,5
+Kuca,5
+Gerso,5
+Nico Gaitán,4
+Tomané,4
+Ukra,4
+Tiago Rodrigues,4
+João Pedro,4
+Edgar Costa,4
+Vincent Aboubakar,4
+Sebá,4
+João Vilela,4
+Salvador Agra,4
+Eliseu,4
+Bruno Gallo,4
+Michael Uchebo,4
+Léo Bonatini,4
+Brito,4
+Luisão,4
+Zequinha,4
+Paolo Hurtado,4
+Fransérgio,4
+Rafael Lopes,4
+Rúben Fernandes,4
+João Martins,4
+Jardel,4
+Héctor Herrera,3
+Ola John,3
+Arsénio,3
+Iuri Medeiros,3
+Pedro Moreira,3
+Casemiro,3
+Cícero,3
+Alex,3
+Aderlan,3
+Héctor Quiñónes,3
+Pedro Tiba,3
+David Simão,3
+Idris Mandiang,3
+Danilo Pereira,3
+Vítor Gomes,3
+Marinho,3
+Aderlan Santos,3
+Pizzi,2
+Rafa Silva,2
+Emídio Rafael,2
+Renan Bressan,2
+Juan Quintero,2
+Miguel Pedro,2
+Fábio Sturgeon,2
+Luís Aurélio,2
+Diogo Jota,2
+André Fontes,2
+Fábio Nunes,2
+Dyego Sousa,2
+Danilo,2
+Rui Fonte,2
+Evaldo,2
+Ivanildo,2
+Pintassilgo,2
+Tarantini,2
+Sérgio Oliveira,2
+Josué Sá,2
+Tiago Caeiro,2
+Bruno Miguel,2
+Bouba,2
+Rui Sampaio,2
+Rúben Ribeiro,2
+Ramón Cardozo,2
+Marcos Paulo,2
+Theo Weeks,2
+Rodrigo Battaglia,2
+Patrick Bauer,2
+Tiquinho Soares,2
+Bruno Martins Indi,2
+Tobias Figueiredo,2
+Nildo Petrolina,2
+Raúl Silva,2
+Mineiro,2
+Anderson Carvalho,2
+Agustín Vuletich,2
+Carlos Santos,2
+Dimitrios Pelkas,2
+António Xavier,2
+Ebinho,2
+Jefferson,1
+Paulo Tavares,1
+João Diogo,1
+Alex Sandro,1
+Leozinho,1
+Hélder Lopes,1
+Saleh Gomaa,1
+Enzo Pérez,1
+Tengarrinha,1
+Alex,1
+William Carvalho,1
+João Afonso,1
+Fernandinho,1
+Carlos Martins,1
+Schumacher,1
+Fredy,1
+Marvin Zeegelaar,1
+Vítor Bruno,1
+Abel Camará,1
+Jean Michaël Seri,1
+Jonathan Silva,1
+Derley,1
+Alex Soares,1
+Tiago Silva,1
+Danielson,1
+Marek Cech,1
+Javier Balboa,1
+Nuno Coelho,1
+Diogo Cunha,1
+Evandro,1
+Tiago Pinto,1
+Elízio,1
+Caetano,1
+Wagner,1
+Zainadine Júnior,1
+Esmaël Gonçalves,1
+Rúben Neves,1
+Leandro Souza,1
+Jucie Lupeta,1
+Emmanuel Boateng,1
+Markus Berger,1
+Manuel José,1
+Moreno,1
+Cadú,1
+Ricardo,1
+Diogo Valente,1
+João Real,1
+Ferreira,1
+Ljubomir Fejsa,1
+Yazalde,1
+André Pinto,1
+Diogo Amado,1
+Rodrigo Dantas,1
+Rodrigo Galo,1
+Bolívia,1
+Braga,1
+Ricardo Dias,1
+Sami,1
+Kanu,1
+André Claro,1
+Giovani,1
+João Pedro,1
+Kayembe,1
+Vasco Rocha,1
+Diego Galo,1
+Paulo Oliveira,1
+Rúben Pinto,1
+Ewerton,1
+Rambé,1
+Frederico Venâncio,1
+Rafael Amorim,1
+Éber Bessa,1
+Marcelo,1
+Capela,1
+Vítor Gonçalves,1
+Willyan,1
+Paulinho,1
+Ulysse Diallo,1
+Hugo Basto,1
+Otávio,1
+Edgar Abreu,1
+Pék's,1
+Davi Mbala,1
+Ali Ghazal,1
+Ricardo Gomes,1
+Pedro Nuno,1
+Philipe Sampaio,1

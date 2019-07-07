@@ -1,0 +1,139 @@
+Camilo Sanvezzo,12
+Mauro Boselli,12
+Dorlan Pabón,11
+Darío Benedetto,9
+Ariel Nahuelpán,9
+Oribe Peralta,8
+Pablo Velázquez,8
+Eduardo Herrera,8
+Emiliano Armenteros,6
+Javier Orozco,6
+Miguel Layún,6
+Andrés Rentería,6
+Carlos Peña,5
+Ismael Sosa,5
+Alfredo Moreno,5
+Paulo da Silva,5
+Juninho,5
+Matías Alustiza,5
+Joffre Guerrón,4
+Mariano Pavone,4
+Fidel Martínez,4
+Arturo González,4
+Hirving Lozano,4
+Vicente Matías Vuoso,4
+Raúl Jiménez,4
+Omar Bravo,4
+Édgar Gerardo Lugo,4
+Luis Miguel Noriega,4
+Daniel Villalva,4
+David Depetris,4
+Juan Arango,3
+Dante López,3
+Edgar Benítez,3
+Wilberto Cosme,3
+Hernán Burbano,3
+Ronaldinho Gaúcho,3
+Edy Brambila,3
+Miguel Sabah,3
+Luis Caballero,3
+William da Silva,3
+Enrique Esqueda,3
+Joao Rojas,3
+Cuauhtémoc Blanco,3
+Rodrigo Millar,3
+Jesús Zavala,3
+Carlos Guzmán,3
+Bruno Pires,3
+Carlos Darwin Quintero,2
+Daniel Emmanuel Ludueña,2
+Franco Arizala,2
+Fernando Arce,2
+Humberto Suazo,2
+José María Cárdenas,2
+Luis Rodríguez,2
+Paul Aguilar,2
+Mauro Cejas,2
+Julio Nava,2
+Jhon Fredy Pajoy,2
+Christian Giménez,2
+Dayro Moreno,2
+Damián Álvarez,2
+Emanuel Villa,2
+Pablo Aguilar,2
+Néstor Vidrio,2
+Osvaldo Martínez,2
+Carlos Izquierdoz,2
+Isaac Brizuela,2
+Ángel Sepúlveda,2
+Juan Pablo Rodríguez,2
+Yamilson Rivera,2
+Cristian Martínez,2
+Isaac Díaz,2
+Carlos Fierro,2
+Djaniny,2
+Martín Barragán,2
+Martín Alaníz,2
+Rubens Sambueza,1
+Lucas Lobos,1
+Elías Hernández,1
+Michael Arroyo,1
+Carlos Morales,1
+Lucas Silva,1
+Maikon Leite,1
+César Delgado,1
+Juan Carlos Medina,1
+Rogelio Chávez,1
+Mauro Formica,1
+David Cabrera,1
+Richard Ruiz,1
+Javier Cortés,1
+William Ferreira,1
+Guido Pizarro,1
+Avilés Hurtado,1
+Luis Loroña,1
+Dieter Villalpando,1
+Carlos Ochoa,1
+Hérculez Gómez,1
+Andrés Ríos,1
+Hibert Ruiz,1
+Jair Pereira,1
+Francisco Acuña,1
+Marcos Caicedo,1
+Miguel Sansores,1
+Matías Britos,1
+Alonso Escoboza,1
+Giovani Hernández,1
+Héctor Reynoso,1
+Emilio López,1
+Darío Verón,1
+Pablo Barrera,1
+Omar Arellano,1
+Diego de la Torre,1
+Édgar Andrade,1
+Julio Domínguez,1
+Horacio Cervantes,1
+Edgar Castillo,1
+Gerardo Flores,1
+Marcelo Alatorre,1
+Marc Crosas,1
+Jesús Dueñas,1
+Marco Fabián,1
+Flavio Santos,1
+Enrique Pérez,1
+Antonio Ríos,1
+Duvier Riascos,1
+Erbín Trejo,1
+Luis Télles,1
+Luis Madrigal,1
+Dionicio Escalante,1
+Luis Mendoza,1
+Jorge Zárate,1
+Miguel Ponce,1
+Othoniel Arce,1
+José Vázquez,1
+Cándido Ramírez,1
+Adrián Marín,1
+Luis Morales,1
+Érick Aguirre,1
+Jordan Silva,1

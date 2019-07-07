@@ -1,0 +1,8163 @@
+Omar Al-Soma,22
+Mohammed Al-Sahlawi,21
+Paul Aloo Efoulou,16
+Naif Hazazi,14
+Nasser Al-Shamrani,13
+Jandson,12
+Elton,10
+Thiago Neves,10
+Doris Fuakuputu,10
+Marquinho,9
+Adrian Mierzejewski,8
+Hassan Al-Tir,8
+Mohammed Al-Rashed,8
+Muhannad Aseri,8
+Abdulrahman Al Ghamdi,8
+Hassan Al-Raheb,7
+Mukhtar Fallatah,7
+Hamza Al-Dardour,7
+Mousa Al-Shamri,7
+Fahad Al Muwallad,7
+Hamdan Al-Hamdan,7
+Ismael Al-Maghrabi,7
+Ashraf Numan,6
+Islam Seraj,6
+Abdullah Al-Salem,6
+Jehad Al-Hussien,5
+Mustafa Al-Bassas,5
+Rafinha,5
+Rogerinho,5
+Ahmed Al Fraidi,5
+Ibrahim Al-Zawareh,5
+Youness Elewi Al-Enezi,5
+Musaed Neda,5
+Meshal Al-Enazi,5
+Fabian Estoyanoff,4
+Ahmed Al-Mubarak,4
+Salman Al-Muwashar,4
+Armando Wila,4
+Mashari Al-Anazi,4
+Naby Soumah,4
+Osama Hawsawi,4
+John Antwi,4
+Amjed Radhi,4
+Ahmed Al-Nazeri,4
+Taisir Al-Jassim,3
+Salem Al-Dawsari,3
+Habib Meite,3
+Ibrahim Ghaleb,3
+Wesam Waheab,3
+Lukasz Szukala,3
+Moestafa El Kabir,3
+Khalil Baniateyah,3
+Abdulfattah Asiri,3
+Husain Turki,3
+Riad Al-Ibrahim,3
+Yasser Al-Qahtani,3
+Sadat Bukari,3
+Adriano Pardal,3
+Ryad Al-Ebrahim,3
+Mishari Al-Thmali,2
+Hussein Abdul Ghani,2
+Hassan Fallatah,2
+Naif Mousa,2
+Hussein Al Moghawi,2
+Fahed Al-Saqri,2
+Macoumba Kandji,2
+Nawaf Al-Abed,2
+Faisal Al-Jamaan,2
+Salman Al-Faraj,2
+Bader Al-Khames,2
+Omar Hawsawi,2
+Fahad Al-Johani,2
+Salman Al-Hariri,2
+Meshaal Al-Ajmi,2
+Winful Cobbinah,2
+NDiaye Papa Waigo,2
+Didier Ya Konan,2
+Marcelo Nicacio,2
+Anas Bani Yassen,2
+Lassana Fane,2
+Youssef Al-Salem,2
+Waleed Al-Gizani,2
+Banahene,2
+Samuel Owusu,2
+Saleh Jamaan Al-Amri,2
+Aminou Bouba,2
+Sultan Tamihi,2
+Mosfer Al-Bishi,2
+Ibrahim Al Htrsh,2
+Mohammad Al-Shalhoub,1
+Yahya Al-Shehri,1
+Faisal Darwish,1
+Osvaldo,1
+Marquinhos Gabriel,1
+Talal Majrashi,1
+Abdullah Al-Zoari,1
+Ahmad Saad,1
+Alaa Al-Shaqran,1
+Hattan Bahbir,1
+Bader Al-Sulaiteen,1
+Sultan Al-Sawadi,1
+Salim Al-Khebari,1
+Isaac Osae,1
+Ali Al-Shoula,1
+Samer Salem,1
+Mansour Gueye,1
+Dani Quintana,1
+Alexis Mendomo,1
+Bruno Cesar,1
+Samba Diakite,1
+Majed Al-Amri,1
+Adnan Falatah,1
+Rayan Belal,1
+Shaye Sharahili,1
+Abdulaziz Al-Bishi,1
+Salman Al Sibyani,1
+Ahmad Boabeed,1
+Shafi Al-Dossari,1
+Yasir Al-Shahrani,1
+Mohammed Abusabaan,1
+Khalid Al-Rejaib,1
+Tawfiq Buhumaid,1
+Mohammed Majrashi,1
+Majed Al-Khaibari,1
+Mussab Al-Laham,1
+Abdulelah  Al-Amer,1
+Orestes,1
+Chu-Young Park,1
+Saud Khariri,1
+Isaac Promise,1
+Bojan Bozovic,1
+Digao,1
+Tae-Hwi Kwak,1
+Abdullah Al-Dosari,1
+Kamel Al-Mousa,1
+Moftah Al-Hamsal,1
+Mohsen Al-Qarni,1
+Abdullah Al-Asta,1
+Mohammed Salem,1
+Sayyaf Al-Bishi,1
+Mohammed Jahfali,1
+Ibrahim Madkhali,1
+Yahya Dagriri,1
+Hernane,1
+Ahmed Asiri,1
+David Ochieng,1
+Ahmad Deeb,1
+Fahad Al-Mubarak,1
+Abdulmajeed Al-Sulaiheem,1
+Khalid Al-Kabi,1
+Faris Al-Alayaf,1
+Abdulrahman Al-Khaibary,1
+Hussain Al-Shaikh,1
+Ibrahim Al-Talhi,1
+Marco Ruben,21
+Leandro Fernandez,15
+Claudio Bieler,14
+Alejandro Gagliardi,12
+Fernando Cavenaghi,11
+Jonathan Calleri,10
+Maxi Rodriguez,10
+Martin Cauteruccio,10
+Victor Malcorra,9
+Ignacio Fernandez,9
+Marcelo Larrondo,9
+Jose Sand,9
+Enrique Triverio,9
+Ramon Abila,9
+Lucas Albertengo,9
+Carlos Luna,8
+Gervasio Nunez,8
+Santiago Silva,8
+Gustavo Bou,8
+Federico Gonzalez,7
+Marcos Figueroa,7
+Mauricio Cuero,7
+Mauro Matos,7
+Mariano Pavone,7
+Ignacio Scocco,7
+Diego Vera,7
+Lautaro Rinaldi,7
+Rodrigo Mora,7
+Diego Milito,7
+Lucas Alario,7
+Giovanni Simeone,7
+Ariel Luguercio,6
+Martin Benitez,6
+Roger Martinez,6
+Juan Garro,6
+Hector Villalba,6
+Milton Caraglio,6
+Lucas Gamba,6
+Lautaro Acosta,5
+Franco Cervi,5
+Mauro Obolo,5
+Victor Ayala,5
+Sebastian Palacios,5
+Carlos Tevez,5
+Cristian Llama,5
+Gaston Diaz,5
+Franco Niell,5
+Jaime Ayovi,5
+Lucas Zelarayan,5
+Juan Sanchez Sotelo,5
+Jorge Velazquez,5
+Nicolas Aguirre,5
+Nicolas Mazzola,5
+Lucas Melano,5
+Reinaldo Lenis,5
+Gabriel Avalos,5
+Ruben Ramirez,5
+Jonathan Blanco,5
+Teofilo Gutierrez,5
+Rodrigo Gomez,4
+Alexis Canelo,4
+Antonio Medina,4
+Walter Acuna,4
+Gonzalo Martinez,4
+Washington Camacho,4
+Emiliano Rigoni,4
+Sebastian Driussi,4
+Sergio Gonzalez,4
+Sebastian Blanco,4
+Ricardo Noir,4
+Fernando Marquez,4
+Claudio Riano,4
+Yamil Asad,4
+Hector Luis Cuevas,4
+Sebastian Rincon,4
+Braian Romero,4
+Osmar Ferreyra,4
+Javier Grbec,4
+Matias Caruzzo,4
+Diego Rodriguez,4
+Juan Martin Lucero,4
+Guido Carrillo,4
+Mauricio Carrasco,3
+Nicolas Lodeiro,3
+Ezequiel Cerutti,3
+Maximiliano Meza,3
+Nicolas Bertolo,3
+Marcos Acuna,3
+Federico Mancuello,3
+Ciro Rius,3
+Oscar Romero,3
+Ariel Colzera,3
+Patricio Toranzo,3
+Carlos Auzqui,3
+Facundo Sanchez,3
+Jorge Rojas,3
+Fabian Sambueza,3
+Carlos Bueno,3
+Daniel Osvaldo,3
+Victor Figueroa,3
+Mauricio Sperduti,3
+Agustin Torassa,3
+Diego Mendoza,3
+Pablo Vegetti,3
+Daniel Montenegro,3
+Sebastian Romero,3
+Diego Chaves,3
+Sebastian Luna,3
+Sergio Vittor,3
+Facundo Pumpido,3
+Andres Chavez,3
+Eugenio Isnaldo,3
+Marcelo Meli,3
+Rodrigo Contreras,3
+Jose Gomez,3
+Federico Rasic,3
+Fernando Brandan,3
+Nicolas Gimenez,3
+Lucas Rodriguez,3
+Pablo Vitti,3
+Andres Franzoia,3
+Sergio Escudero,3
+Claudio Perez,3
+Alejandro Donatti,3
+Maximiliano Coronel,3
+Tobias Figueroa,3
+Carlos Nunez,3
+Cristian Guanca,3
+Julio Rodriguez,3
+Ramiro Carrera,3
+Emiliano Amor,3
+Leandro Martinez,3
+Matias Pisano,2
+Mauro Bogado,2
+Fabricio Angileri,2
+Walter Busse,2
+Juan Cazares,2
+Ezequiel Ham,2
+Jorge Ortiz,2
+Ezequiel Garre,2
+Pablo Perez,2
+Lucas Wilchez,2
+Alvaro Fernandez,2
+Facundo Castillon,2
+Ignacio Pussetto,2
+Adrian Bastia,2
+Fabian Cubero,2
+Fernando Gago,2
+Jacobo Mansilla,2
+Fernando de la Fuente,2
+Emiliano Tellechea,2
+Cristian Lema,2
+Ernesto Alvarez,2
+Cristian Espinoza,2
+Javier Mendoza,2
+Gabriel Esparza,2
+Eric Aparicio,2
+Gabriel Morales,2
+Israel Damonte,2
+Cata Diaz,2
+Juan Eluchans,2
+Nicolas Sanchez,2
+Eduardo Dominguez,2
+Carlos Sanchez,2
+Lucas Viatri,2
+Jose Luis Fernandez,2
+Walter Serrano,2
+Julio Buffarini,2
+Ramiro Lopez,2
+Juan Sanchez Mino,2
+Nery Dominguez,2
+Fabio Alvarez,2
+Juan Dinenno,2
+Luciano Cabral,2
+Lucas Boye,2
+Jonathan Rodriguez,2
+Mauro Cetto,2
+Ramiro Funes Mori,2
+Mariano Uglessich,2
+Juan Manuel Martinez,2
+Guillermo Marino,2
+Roman Martinez,2
+Leonardo Sanchez,2
+Damian Perez,2
+Jonathan Schunke,2
+Angel Vildozo,2
+Lucas Aveldano,2
+Ramon Lentini,2
+Leandro Gonzalez Pirez,2
+Leonardo Jara,2
+David Distefano,2
+Santiago Trellez,2
+Nicolas Blandi,2
+Luis Solignac,2
+Emanuel Britez,2
+Jose Dujaut,2
+Franco Jominy,2
+Mauricio Asenjo,2
+Santiago Rosales,2
+Franco Soldano,2
+Cristian Pavon,2
+Jesus Mendez,1
+Hernan Encina,1
+Leandro Romagnoli,1
+Cesar Delgado,1
+Maximiliano Velazquez,1
+Luciano Civelli,1
+Emmanuel Mas,1
+Oscar Benitez,1
+Joel Amoroso,1
+Luciano Acosta,1
+Pablo Barrientos,1
+Lucas Parodi,1
+Camilo Mayada,1
+Lucas Ceballos,1
+Federico Gallego,1
+Nicolas Miracco,1
+Nicolas Delgadillo,1
+Denis Rodriguez,1
+Matias Lequi,1
+Alejandro Capurro,1
+Lucas Licht,1
+Gabriel Graciani,1
+David Ramirez,1
+Nicolas Bianchi Arce,1
+Gustavo Pinedo,1
+Matias Campos,1
+Luciano Lollo,1
+Nicolas Martinez,1
+Federico Carrizo,1
+Nicolas Freire,1
+Lucas Baldunciel,1
+Cristian Alvarez,1
+Nestor Ortigoza,1
+Miguel Caneo,1
+Cristian Rodriguez,1
+Alvaro Pereira,1
+Nicolas Castro,1
+Cristian Garcia,1
+Rodrigo Brana,1
+Fabian Monzon,1
+Pablo Martin Ruiz,1
+Rodrigo Depetris,1
+Franco Mussis,1
+Gonzalo Vera,1
+Tabare Viudez,1
+Ivan Pillud,1
+Emanuel Morales,1
+Ernesto Goni,1
+Marcelo Benitez,1
+Joel Acosta,1
+Facundo Bertoglio,1
+Lucas Kruspzky,1
+Cristian Erbes,1
+Jose Valencia,1
+Rolando Garcia,1
+Fausto Montero,1
+Matias Zaldivia,1
+Martin Tonso,1
+Leandro Desabato,1
+Kevin Mercado,1
+Jonathan Galvan,1
+Esteban Saveljich,1
+Walter Montoya,1
+Augusto Solari,1
+German Conti,1
+Ezequiel Ponce,1
+Matias Perez Acuna,1
+Gustavo Villarruel,1
+Fausto Grillo,1
+Ezequiel Bonifacio,1
+Claudio Villagra,1
+David Barbona,1
+Sebastian Saja,1
+Diego Mateo,1
+Leonardo Ponzio,1
+Federico Leon,1
+Gaston Fernandez,1
+Lucho Gonzalez,1
+Sebastian Dominguez,1
+Leandro Desabato,1
+Julio Barraza,1
+Cristian Villagra,1
+Damian Ledesma,1
+Gaston Esmerado,1
+Juan Pablo Avendano,1
+Mauricio Victorino,1
+Leandro Grimi,1
+Diego Buonanotte,1
+Juan Carlos Blengio,1
+Martin Galmarini,1
+Alejandro Cabral,1
+Emir Faccioli,1
+Eduardo Ledesma,1
+Diego Lagos,1
+Facundo Parra,1
+Diego Braghieri,1
+Carlos Matheu,1
+Juan Manuel Cobo,1
+Franco Peppino,1
+Sebastian Prediger,1
+Javier Toledo,1
+Nicolas Olmedo,1
+Ivan Borghello,1
+Ignacio Boggino,1
+Matias Sarulyte,1
+Gonzalo Klusener,1
+David Vega,1
+Osvaldo Barsottini,1
+Ismael Benegas,1
+Maximiliano Calzada,1
+Guillermo Burdisso,1
+Victor Cuesta,1
+Oliver Paz Benitez,1
+Juan Sills,1
+Daniel Delgado,1
+Emanuel Aguilera,1
+Federico Lertora,1
+Gustavo Aprile,1
+Diego Rodriguez,1
+Nicolas Tagliafico,1
+Nicolas Sainz,1
+Alexis Niz,1
+Gonzalo Cabrera,1
+Gino Peruzzi,1
+Juan Rivas,1
+Christian Chimino,1
+Nicolas Bertocchi,1
+Nicolas Royon,1
+Leandro Navarro,1
+Ezequiel Parnisiari,1
+Guillermo Ortiz,1
+Lucas Cano,1
+Guillermo Fernandez,1
+Ignacio Rivero,1
+Fabio Vazquez,1
+Fabian Noguera,1
+Ivan Rossi,1
+Dante Bareyro,1
+Raul Becerra,1
+Pablo Vilchez,1
+Juan Martinez Trejo,1
+Marcelo Herrera,1
+Emiliano Ellacopulos,1
+Lucas Perez Godoy,1
+Nehuen Paz,1
+Mauricio Martinez,1
+Yonathan Cabral,1
+Lucas Suarez,1
+Franco Cristaldo,1
+Santiago Izaguirre,1
+Guido Rodriguez,1
+Nicolas Dematei,1
+Ezequiel Ruiz,1
+Lucas Campana,1
+Rodrigo Lechner,1
+Alexander Barboza,1
+Pablo Stupiski,1
+Fernando Luna,1
+Marc Janko,16
+Nathan Burns,13
+Besart Berisha,13
+Andy Keogh,11
+Archie Thompson,10
+Roy Krishna,9
+Jamie Maclaren,9
+Henrique,8
+Shane Smeltz,8
+Pablo Sanchez,8
+Guilherme Finkler,7
+Sergio Cirio,7
+Aaron Mooy,7
+Marcelo Carrusca,7
+Bernie Ibini-Isei,7
+Jean Carlos Solorzano,6
+Alex Brosque,6
+Bruce Djite,6
+Edson Montano,6
+Fahid Ben Khalfallah,5
+Michael McGlinchey,5
+Nebojsa Marinkovic,5
+Awer Mabil,5
+Andrija Kaludjerovic,5
+Steven Lustica,5
+Kerem Bulut,5
+Roly Bonevacia,4
+Kosta Barbarouses,4
+Craig Goodwin,4
+Joel Griffiths,4
+Fabio Ferreira,4
+Brandon Borrello,4
+Tomi Juric,4
+Kenny Cunningham,4
+Robert Koren,3
+Nikita Rukavytsya,3
+Chris Harold,3
+Erik Paartalu,3
+Mark Bridge,3
+Matt Simon,3
+Rostyn Griffiths,3
+Eddy Bosnar,3
+Jeronimo Neumann,3
+David Williams,3
+Daniel Georgievski,3
+Dino Djulbic,3
+Mitchell Duke,3
+Daniel De Silva,3
+Thomas Broich,2
+Jeremy Brockie,2
+Milos Dimitrijevic,2
+Romeo Castelen,2
+Carl Valeri,2
+Matt McKay,2
+Joshua Rose,2
+Mate Dugandzic,2
+Michael Boxall,2
+Scott Neville,2
+Nicholas Fitzgerald,2
+Iain Ramsay,2
+Corey Gameiro,2
+Richard Garcia,2
+Kew Jaliens,2
+David Villa,2
+Brendon Santalab,2
+Leigh Broxham,2
+Nigel Boogaard,2
+Enver Alivodic,2
+Yojiro Takahagi,2
+Harry Novillo,2
+Safuwan Baharudin,2
+Nick Kalmar,2
+Terry Antonis,2
+Ki-Je Lee,2
+Tyler Boyd,2
+James Donachie,2
+Connor Pain,2
+Damien Duff,1
+Scott Jamieson,1
+James Brown,1
+Joshua Risdon,1
+James Jeggo,1
+Mensur Kurtisi,1
+Labinot Haliti,1
+Andrew Durante,1
+Tarek Elrich,1
+Jason Hoffman,1
+Dylan McGowan,1
+Isaias,1
+Isaka Cernak,1
+Sidnei,1
+Dimitri Petratos,1
+Anthony Caceres,1
+Andrew Hoole,1
+Christopher Naumoff,1
+Glen Trifiro,1
+Joshua Kennedy,1
+Rob Wielaert,1
+Matthieu Delpierre,1
+Jacques Faty,1
+Patrick Kisnorbo,1
+Nick Montgomery,1
+Iacopo La Rocca,1
+Mark Milligan,1
+John Hutchinson,1
+Sasa Ognenovski,1
+Ruben Zadkovich,1
+Mateo Poljak,1
+Cameron Watson,1
+Jonathan Miguel Germano,1
+Matthew Jurman,1
+Daniel Mullen,1
+Miguel Palanca,1
+Marcos Flores,1
+Seung-Yong Kim,1
+Robert Stambolziev,1
+Kofi Danning,1
+Rhyan Grant,1
+Manny Muscat,1
+Richard Vernes,1
+Jack Hingert,1
+Denis Kramar,1
+Jason Hicks,1
+Nick Ansell,1
+Jacob Melling,1
+Scott Galloway,1
+Devante Clut,1
+Lachlan Jackson,1
+Marc Marino,1
+Travis Major,1
+Radovan Pavicevic,1
+Liam Youlley,1
+Jonatan Soriano,31
+Robert Beric,27
+Marcel Sabitzer,19
+Marco Djuricin,13
+Hannes Aigner,12
+Yordy Reyna,11
+Denis Thomalla,10
+Alan,9
+Simon Piesinger,9
+Philipp Schobesberger,8
+Louis Ngwat-Mahop,8
+Alexander Gorgon,8
+Omer Damari,8
+Thomas Froschl,7
+Roman Kienast,7
+Alexander Grunwald,7
+Tadej Trdina,7
+Stefan Nutz,6
+Philipp Huspek,6
+Massimo Bruno,6
+Christopher Wernitznig,6
+Donis Avdijaj,6
+Deni Alar,6
+Thorsten Schick,5
+Kevin Kampl,5
+Daniel Royer,5
+Herbert Rauter,5
+Rene Schicker,5
+Kristijan Dobras,5
+Louis Schaub,5
+Peter Zulj,5
+Naby Keita,5
+Clemens Walch,5
+Julius Perstaller,5
+Reinhold Ranftl,5
+Tomi Correa,5
+Jacobo Ynclan,4
+Steffen Hofmann,4
+Stefan Schwab,4
+Florian Kainz,4
+Ismael Tajouri,4
+Valentino Lazaro,4
+Patrick Seeger,4
+Silvio,4
+Felix Roth,4
+Manuel Kerhe,4
+Valon Berisha,4
+Ivan Kovacec,4
+Marko Stankovic,4
+Conor OBrien,4
+Benjamin Sulimani,4
+David de Paula,4
+Richard Windbichler,4
+Stephan Zwierschitz,4
+Daniel Schutz,4
+Philip Hellquist,4
+Oliver Kragl,3
+Andreas Lienhart,3
+Lukas Thurauer,3
+Daniel Offenbacher,3
+Patrick Moschl,3
+Takumi Minamino,3
+Daniel Beichler,3
+Eldis Bajrami,3
+Thomas Murg,3
+Marko Kvasina,3
+Philipp Netzer,3
+Boris Prokopic,3
+Dominik Hofbauer,3
+Philipp Prosenik,3
+Boris Huttenbrenner,3
+Maximilian Karner,3
+Issiaka Ouedraogo,2
+Andreas Ulmer,2
+Tobias Kainz,2
+Joachim Standfest,2
+Sadio Mane,2
+Andreas Gruber,2
+Christian Schwegler,2
+Manuel Weber,2
+Mario Sonnleitner,2
+Daniel Schopf,2
+Roland Putsche,2
+Roman Wallner,2
+Emanuel Schreiner,2
+Harald Pichler,2
+Toni Vastic,2
+Petar Filipovic,2
+Lukas Spendlhofer,2
+Sunday Emmanuel,2
+Marco Meilinger,1
+Thomas Schrammel,1
+Anel Hadzic,1
+Konstantin Kerschbaumer,1
+Michael Madl,1
+Dieter Elsneg,1
+Abd Al Rahman Osman Ali,1
+Markus Suttner,1
+Christopher Dibon,1
+Fabian Koch,1
+Stefan Lainer,1
+Mario Pavelic,1
+Peter Ankersen,1
+Martin Ehrenreich,1
+Manuel Seidl,1
+Christian Klem,1
+Philipp Zulechner,1
+Christoph Schosswendter,1
+Jens Stryger Larsen,1
+Martin Hinteregger,1
+Matthias Maak,1
+Christoph Martschinko,1
+Denis Streker,1
+Thomas Goiginger,1
+Stefan Maierhofer,1
+Daniel Drescher,1
+Rene Seebacher,1
+Gernot Trauner,1
+Ola Kamara,1
+Christoph Freitag,1
+Bernhard Janeczek,1
+Thomas Reifeltshammer,1
+Thanos Petsos,1
+Benedikt Zech,1
+Raphael Holzhauser,1
+David Schloffer,1
+Marvin Potzmann,1
+Robert Volkl,1
+Mario Ebenhofer,1
+Markus Katzer,1
+Mattias Sereinig,1
+Franz Schiemer,1
+Vance Sikov,1
+Nemanja Rnic,1
+Darko Bodul,1
+Florian Hart,1
+Michael Tieber,1
+Lukas Rotpuller,1
+Adam Susac,1
+Stephan Auer,1
+Michael Berger,1
+Maximilian Hofmann,1
+Thomas Weber,1
+Andre Ramalho,1
+Patrizio Stronati,1
+Felipe Pires,1
+Aleksandar Mitrovic,14
+Ivan Santini,13
+Renaud Emond,13
+Laurent Depoitre,12
+Abdoulaye Diaby,12
+Teddy Chevalier,11
+Jose Izquierdo,10
+Igor de Camargo,10
+Geoffrey Bia,9
+Neeskens Kebano,9
+Tom de Sutter,9
+Dalibor Veselinovic,9
+Frederic Gounongbe,9
+Ilombe Mboyo,8
+Junior Kabananga,8
+Sebastien Siani,8
+Nicolas Castillo,8
+Mijat Maric,8
+Benito Raman,7
+Elimane Coulibaly,7
+Timmy Simons,7
+Lior Refaelov,6
+Danijel Milicevic,6
+Steven Defour,6
+Anice Badri,6
+Moses Simon,6
+Cedric Faure,6
+Nils Schouterden,6
+Koffi,6
+Stephen Buyl,6
+Dennis Praet,5
+Thomas Matton,5
+Hans Vanaken,5
+Felipe Gedoz,5
+James Troisi,5
+Nill de Pauw,5
+Paul-Jose Mpoku,5
+Clement Tainmont,5
+John Jairo Ruiz,5
+Sofiane Hanni,5
+Adam Marusic,5
+Sekou Cisse,5
+Seth de Witte,5
+Lynel Kitambala,5
+Mohammed Aoulad,5
+Siebe Schrijvers,5
+Dutra,5
+Idrissa Sylla,5
+Alhassane Keita,5
+Victor Vazquez,4
+Brecht Dejaegere,4
+Maxime Annys,4
+Alessandro Cordaro,4
+Mbaye Leye,4
+Ruud Vormer,4
+Matias Suarez,4
+Cyriac,4
+Renato Neto,4
+Faysel Kasmi,4
+Thomas Buffel,3
+Stijn de Smet,3
+Ayanda Patosi,3
+Franck Berrier,3
+Bryan Verboom,3
+Youri Tielemans,3
+David Destorme,3
+Aleksandar Trajkovski,3
+Kevin Vandendriessche,3
+Bjorn Ruytinx,3
+Besart Abdurahimi,3
+Ante Vukusic,3
+Sebastien Dewaest,3
+Oscar Duarte,3
+Mehdi Carcela-Gonzalez,3
+Knowledge Musona,3
+Zarko Tomasevic,3
+Jeff Louis,3
+Tuur Dierckx,3
+Ricardo Faty,3
+Gertjan de Mets,3
+Robson,3
+Karim Rossi,3
+Bjorn Engels,3
+Sergej Milinkovic-Savic,3
+Theo Bongonda,3
+Milos Kosanovic,2
+Fernando Canesin,2
+Julian Michel,2
+Jelle van Damme,2
+Jesper Jorgensen,2
+Rachid Bourabia,2
+Thomas Meunier,2
+Frank Acheampong,2
+Dieumerci Ndongala,2
+Enes Saglik,2
+Andy Najar,2
+Raphael Lecomte,2
+Thomas Foket,2
+Mohamed Messoudi,2
+Kevin Geudens,2
+Jonathan Wilmet,2
+Herve Kage,2
+Glenn Claes,2
+Tony Watt,2
+Jessy Galvez Lopez,2
+Obbi Oulare,2
+Zizo,2
+Karel DHaene,2
+Benjamin De Ceulaer,2
+Milos Maric,2
+Dorge Kouemaha,2
+Ghislain Gimbert,2
+Etien Velikonja,2
+Richard Sukuta-Pasu,2
+Jorge Teixeira,2
+Benoit Poulain,2
+Christian Kabasele,2
+Niels De Schutter,2
+Mats Rits,2
+Dino Arslanagic,2
+Tristan Dingome,2
+Ibrahima Conte,2
+Imoh Ezekiel,2
+Killian Overmeire,2
+Ibou,2
+Stergos Marinos,2
+Benjamin Delacourt,2
+Nebojsa Pavlovic,2
+Koen Persoons,2
+David Pollet,2
+Frederic Brillant,2
+Glynor Plet,2
+Sheldon Bateau,2
+Chuks Aneke,2
+Pierre-Yves Ngawa,2
+Kara,2
+Leander Dendoncker,2
+Rafal Wolski,2
+Kalifa Coulibaly,2
+Uche Nwofor,2
+Kenny Saief,2
+Mbaye Diagne,2
+Jonathan Benteke,2
+Yarouba Cissako,1
+Tim Matthys,1
+Julien Gorius,1
+Hannes van der Bruggen,1
+Hamari Traore,1
+Laurent Ciman,1
+Ivan Obradovic,1
+Steeven Langil,1
+Julien de Sart,1
+Anthony Vanden Borre,1
+Wanderson,1
+Onur Kaya,1
+Stipe Bacelic-Grgic,1
+Lasse Nielsen,1
+Jarno Molenberghs,1
+Mitch Apau,1
+Amido Balde,1
+Ayub Timbe Masika,1
+Pieter Gerkens,1
+Brandon Mechele,1
+Karim Hafez,1
+Olivier Deschacht,1
+Karel Geraerts,1
+Giuseppe Rossini,1
+Baptiste Ulens,1
+Hernan Losada,1
+Habib Habibou,1
+Mijusko Bojovic,1
+Anele Ngcongca,1
+Jonny Rowell,1
+Mamoutou NDiaye,1
+Nathan Kabasele,1
+Apostolos Vellios,1
+Rami Gershon,1
+Formose Mendy,1
+Michiel Jonckheere,1
+Yuji Ono,1
+Kristof DHaene,1
+Noe Dusenne,1
+Kenneth Houdret,1
+Jason Adesanya,1
+Nicolas Verdier,1
+Kenneth Schuermans,1
+Sherjill MacDonald,1
+Eric Matoukou,1
+Carl Hoefkens,1
+Fernando,1
+Astrit Ajdarevic,1
+Wouter Corstjens,1
+Sacha Kljestan,1
+Nicklas Pedersen,1
+Rafinha,1
+Jiloan Hamad,1
+Daniel Mojsov,1
+Ronny Rodelin,1
+Khaleem Hyland,1
+Maxime Chanot,1
+Nicolas Perez,1
+Christophe Diandy,1
+Thibaut van Acker,1
+Tornike Okriashvili,1
+Jens Naessens,1
+Maxime Colin,1
+Chancel Mbemba,1
+Yanis Mbombo,1
+Oswal Alvarez,1
+Birger Verstraete,1
+Jinty Caenepeel,1
+Gilles Ruyssen,1
+Ahmed Hassan,1
+Ricardo Oliveira,20
+Vagner Love,14
+Jadson,13
+Lucas Pratto,13
+Andre,13
+Henrique Almeida,12
+Willian,11
+Vitinho,11
+Alexandre Pato,10
+Dudu,10
+Gabriel,10
+Luan,10
+Andre Lima,10
+Erik,10
+Diego Souza,9
+Walter,9
+Fred,9
+Thiago Ribeiro,9
+Nene,9
+Bruno Rangel,9
+Luis Fabiano,8
+Bruno Henrique,7
+Biro Biro,7
+Jesus Datolo,7
+Clayton,7
+Rafael Marques,7
+Alan Patrick,7
+Luan,7
+Michel Bastos,7
+Giuliano,6
+Geuvanio,6
+Kayke,6
+Kempes,6
+Valdivia,6
+Jonathan Cristaldo,6
+Dudu,6
+Fred,6
+Leandro Pereira,6
+Giovanni Augusto,5
+Elias,5
+Renato Augusto,5
+Marcelinho Paraiba,5
+Douglas,5
+Felipe Menezes,5
+Malcom,5
+Renato Caja,5
+Marcos Junior,5
+Gustavo Scarpa,5
+Anderson Lopes,5
+Pedro Rocha ,5
+Bobo,5
+Borges,5
+Elber,5
+Tulio de Melo,5
+Emerson,5
+Lucas Barrios,5
+Leo Gamalho,5
+Ewandro,5
+Matheus Ferraz,5
+Luciano,5
+Lucas Lima,4
+Nikao,4
+Marcos Guilherme,4
+Lisandro Lopez,4
+Apodi,4
+Felipe Azevedo,4
+Everton,4
+Maikon Leite,4
+Leandro Damiao,4
+Gabriel Jesus,4
+Alan Kardec,4
+Jean,4
+Vitor Hugo,4
+Gabriel,4
+Giorgian De Arrascaeta,4
+Rodrigo,4
+Duvier Riascos,4
+Rogerio,4
+Jemerson,4
+Everton,4
+Thiago,4
+Patric,3
+Marlone,3
+Robinho,3
+Vinicius,3
+Paolo Guerrero,3
+Alecsandro,3
+Marquinhos Gabriel,3
+Alisson,3
+Regis,3
+Romulo,3
+Juan,3
+Marquinhos,3
+Camilo,3
+Ananias,3
+Diego Oliveira,3
+Charles,3
+Cicero,3
+Ederson,3
+Lucca,3
+Hernani,3
+Marcos Vinicius,3
+Yuri Mamute,3
+Angel Romero,3
+Carlos,3
+Rogerio Ceni,3
+Carlos Alberto,3
+Nilmar,3
+Ze Eduardo,3
+Ernando,3
+Leonardo Silva,3
+Alexandro,3
+Fernando Bob,3
+Marcao,3
+Neto,3
+Jackson,3
+Cleberson,3
+Paulinho,3
+Rafael Silva,3
+Evandro,3
+Ganso,2
+Ze Roberto,2
+Marcos Rocha,2
+Carlinhos,2
+Marcelo Oliveira,2
+Uendel,2
+Hector Canteros,2
+Negueba,2
+Ricardo Centurion,2
+Wellington Paulista,2
+Lucas,2
+Willians,2
+Rafael Galhardo,2
+Marquinhos,2
+Edigar Junio,2
+Rafhael Lucas,2
+Vinicius Araujo,2
+Sidcley,2
+Carlos,2
+Eduardo,2
+Maicosuel,2
+Nilton,2
+Renato Chaves,2
+Victor Ramos,2
+Gil,2
+Paulao,2
+Rafael Longuine,2
+Edu Dracena,2
+Robinho,2
+David Braz,2
+Julio Cesar,2
+Rever,2
+Souza,2
+Emerson,2
+Bruno Aguiar,2
+Werley,2
+Rodriguinho,2
+Edson,2
+Tiago Alves,2
+Eduardo Sasha,2
+Hernane,2
+Hugo,2
+Rafael Donato,2
+Douglas Coutinho,2
+Thiago Maia,2
+Bruno Mota,2
+Egidio,1
+Victor Ferraz,1
+Yago,1
+Cleber Santana,1
+Renan Oliveira,1
+Marquinhos,1
+Rene,1
+Gerson,1
+Andrezinho,1
+Rafael Bastos,1
+Nestor Camacho,1
+Rithely,1
+Felipe,1
+Rodrigo,1
+Joelinton,1
+Alex,1
+Ceara,1
+Marcos Aurelio,1
+Wesley,1
+Rafael Moura,1
+Para,1
+Osvaldo,1
+Manoel,1
+Marcelo  Cirino,1
+Roberto,1
+Thiago Mendes,1
+Thiago Galhardo,1
+Leandro Silva,1
+Samuel Xavier,1
+Ricardinho,1
+Liniker,1
+Willian Popp,1
+Vitor,1
+Kleber,1
+David,1
+Gustavo,1
+Gum,1
+Maicon,1
+Kadu,1
+Fabricio,1
+Wallace,1
+Ytalo,1
+Ruy,1
+Fernandinho,1
+Ralf,1
+Everton Silva,1
+Neto Berola,1
+Gil,1
+Maxi Rodriguez,1
+Luiz Antonio,1
+Nilson,1
+Frickson Erazo,1
+Leandro,1
+Gabriel,1
+Marquinhos,1
+Wilder Guisao,1
+Jhon Cley,1
+Fernando Viana,1
+Danilo,1
+Bruno Henrique,1
+Rodrigo,1
+Lucas Gomes,1
+Marciel,1
+Leandrao,1
+Fabio Santos,1
+Wendel,1
+Jo,1
+Mariano Tripodi,1
+Wagner,1
+Bruno Pereirinha,1
+Thiego,1
+Breno,1
+Henrique,1
+Elicarlos,1
+Rhodolfo,1
+Cristian,1
+William,1
+Matias Rodriguez,1
+Tiago Luis,1
+Roger,1
+Marinho,1
+Bruno Silva,1
+Rafael Costa,1
+Braian Rodriguez,1
+Paulo Miranda,1
+Emanuel Biancucchi,1
+Christian Vilches,1
+Wellington Silva,1
+Wesley,1
+Felipe,1
+Luis Caceres,1
+Joao Paulo,1
+Joao Vitor,1
+Roberto,1
+Elton,1
+Stiven Mendoza,1
+Paulo Roberto,1
+Ayrton,1
+Pablo,1
+Silvinho,1
+Ferrugem,1
+Rodrigo Caio,1
+Guti,1
+Rildo,1
+Ferron,1
+Bruno Alves,1
+Luiz Eduardo,1
+Joel,1
+Claudinei,1
+Antonio Carlos,1
+Fabinho,1
+Doria,1
+Bady,1
+Rafael Vaz,1
+Bressan,1
+Andrei Girotto,1
+Fabiano,1
+Paulinho,1
+Gabriel Xavier,1
+Gabriel Boschilia,1
+Robert,1
+Eduardo,1
+Mario Sergio,1
+Neto,1
+Guilherme Arana,1
+Lucas,1
+Kadu,1
+Renan,1
+Jean Pineda,11
+Esteban Paredes,11
+Gustavo Canales,9
+Ever Cantero,9
+Matias Donoso,9
+Andres Vilches,8
+Christian Bogado,8
+Pablo Calandria,8
+Gaston Cellerino,8
+Leandro Benegas,8
+Bryan Carrasco,7
+Gabriel Vargas,6
+Leonardo Ramos,6
+Hector Mancilla,6
+Michael Rios,6
+Manuel Villalobos,5
+Paulo Rosales,5
+Mark Gonzalez,5
+Felipe Flores,5
+Juan Manuel Tevez,5
+Juan Carlos Ferreyra,5
+Roberto Gutierrez,5
+Santiago Barboza,5
+Jose Luis Munoz,5
+Sebastian Ubilla,5
+Erick Pulgar,5
+Diego Chaves,5
+Sebastian Varas,5
+Kevin Harbottle,5
+Jorge Luna,4
+Gaston Lezcano,4
+Gustavo Cristaldo,4
+Gerson Martinez,4
+Francisco Castro,4
+Ignacio Herrera,4
+Patricio Vidal,4
+Juan Gonzalo Lorca,4
+Rodrigo Riquelme,4
+Jose Huentelaf,4
+Milovan Mirosevic,4
+David Llanos,4
+Sebastian Pol,4
+Pablo Gonzalez,3
+Carlos Espinosa,3
+Pedro Munoz,3
+Renato Gonzalez,3
+Juan Cornejo,3
+Emiliano Vecchio,3
+Martin Gomez,3
+Gabriel Rodriguez,3
+Dario Bottinelli,3
+Marcelo Aguirre,3
+Juan Delgado,3
+Fabian Carmona,3
+Marcos Bolados,3
+Marcos Riquelme,3
+Cesar Pinares,3
+Tomas Charles,3
+Paulo Diaz,3
+Marcos Aguirre,2
+Maxi Rodriguez,2
+Ramiro Costa,2
+Braulio Leal,2
+Leonardo Valencia,2
+Diego Valdes,2
+Nicolas Medina,2
+Francisco Sanchez,2
+Claudio Baeza,2
+Gonzalo Aban,2
+Mauro Olivi,2
+Johan Fuentes,2
+Francisco Ibanez,2
+Alvaro Lopez,2
+Felipe Reynero,2
+Marcelo Morales,2
+Jaime Valdes,2
+Sebastian Pinto,2
+Marco Medel,2
+Rodolfo Gonzalez,2
+Victor Sarabia,2
+Enzo Gutierrez,2
+Esteban Pavez,2
+Guzman Pereira,2
+Cristian Ivanobski,2
+Jonathan Cantillana,2
+Humberto Suazo,2
+Michael Silva,2
+Emilio Renteria,2
+Renato Ramos,2
+Mauricio Prieto,2
+Diego Ferreira,2
+Albert Acevedo,2
+Hans Salinas,2
+Diego Silva,2
+Carlos Salom,2
+Michael Lepe,2
+Sebastian Zuniga,2
+Alejandro Delfino,2
+Sebastian Rivera,2
+Luis Cabrera,2
+Juan Duma,2
+Jorge Guajardo,2
+John Santander,2
+Ruben Farfan,2
+Nelson Sepulveda,1
+Gonzalo Fierro,1
+Luis Valenzuela,1
+Emanuel Croce,1
+Sergio Lopez,1
+Jean Beausejour,1
+Gustavo Lorenzetti,1
+Jonathan Cisternas,1
+Boris Sagredo,1
+Diego Churin,1
+Dagoberto Currimilla,1
+Hector Berrios,1
+Matias Jadue,1
+Alvaro Ramos,1
+Cesar Valenzuela,1
+Ronnie Fernandez,1
+Franz Schulz,1
+Martin Rodriguez,1
+Angelo Sagal,1
+Nicolas Vargas,1
+Leonardo Povea,1
+Diego Rojas,1
+Brayan Vejar,1
+Pablo Galdames,1
+Gustavo Oberman,1
+Diego Scotti,1
+Cristian Alvarez,1
+Diego Guastavino,1
+Mathias Vidangossy,1
+Cristian Suarez,1
+Claudio Andres Munoz,1
+Walter Ibanez,1
+Mathias Riquero,1
+Paulo Magalhaes,1
+Leandro Delgado,1
+Nelson Saavedra,1
+Esteban Gonzalez,1
+Jose Jimenez,1
+Nicolas Berardo,1
+Misael Davila,1
+Francisco Portillo,1
+Francisco Alarcon,1
+Fabian Saavedra,1
+Gonzalo Malan,1
+Diego Vallejos,1
+Damian Salvatierra,1
+Sebastian Roco,1
+Leandro Ezquerra,1
+Damian Lizio,1
+Daniel Gonzalez,1
+Nicolas Nunez,1
+Nicolas Crovetto,1
+Rafael Caroca,1
+Mathias Corujo,1
+Jorge Ampuero,1
+Federico Martorell,1
+Jair Reinoso,1
+Cristian Oviedo,1
+Octavio Pozo,1
+Cristian Gaitan,1
+Javier Elizondo,1
+Ronald Gonzalez,1
+Tomas Lanzini,1
+Gonzalo Barriga,1
+Gonzalo Espinoza,1
+Michael Contreras,1
+Augusto Barrios,1
+Osvaldo Bosso,1
+Pablo Tamburrini,1
+Moises Vasquez,1
+David Escalante,1
+Rodrigo Urena,1
+Diego Torres,1
+Diego Oyarzun,1
+Francisco Levipan,1
+Mario Lopez,1
+Joaquin Moya,1
+Mauricio Yevenes,1
+Jose Arancibia,1
+Fabian Ahumada,1
+Harold Preciado,10
+Robin Ramirez,7
+Fernando Uribe,7
+Santos Borre,7
+Jonathan Copete,6
+Wilson Morelo,6
+Edison Toloza,6
+Carlos Renteria,6
+Miguel Borja,5
+Carlos Ibarguen,5
+Jhonatan Agudelo,5
+Juan Fernando Caicedo,5
+Miguel Murillo,5
+Alejandro Guerra,4
+Luis Alfonso Paez,4
+Martin Arzuaga,4
+David Ferreira,4
+Hernan Hechalar,4
+Marco Perez,4
+Marlon Fernandez,4
+Jhony Cano,4
+Denis Gomez,4
+Sergio Romero,4
+Luis Espinola,4
+David Silva,3
+Juan David Valencia,3
+Jorge Ramirez,3
+Luis Carlos Ruiz,3
+Gerardo Bedoya,3
+Pablo Zeballos,3
+Pablo Velazquez,3
+Marcelo Bergese,3
+Johan Arango,3
+Angelo Rodriguez,3
+Francisco Meza,3
+Johnny Mostasilla,3
+Cristian Canga,3
+Carlos Andres Rivas,3
+Miguel Medina,3
+Luis Manuel Seijas,2
+Jean Carlos Blanco,2
+Andres Ibarguen,2
+Federico Insua,2
+Sebastian Penco,2
+Vladimir Marin,2
+Johan Fano,2
+Roberto Ovelar,2
+Davinson Monsalve,2
+Francisco Najera,2
+Julian Hurtado,2
+Efrain Viafara,2
+Pedro Chavez,2
+Fabio Burbano,2
+Campo Santacruz,2
+Jorge Aguirre,2
+Daniel Buitrago,2
+Luis Quinones,2
+Juan David Perez,2
+Yony Gonzalez,2
+Juan Jose Mezu,2
+Faber Canaveral,2
+Daniel Hernandez,2
+Mauro Manotas,2
+Raul Penaranda,2
+Jarlan Barrera,2
+Jonathan Palacios,2
+Macnelly Torres,1
+Yulian Mejia,1
+Juan Dominguez,1
+Ivan Velez,1
+Diego Amaya,1
+David Mendieta,1
+Luis Carlos Arias,1
+Andres Escobar,1
+Omar Mancilla,1
+Dario Andres Rodriguez,1
+Armando Vargas,1
+John Mendez ,1
+Wilfrido De la Rosa,1
+Andres Orozco,1
+David Gonzalez,1
+Javier Reina,1
+Yair Arrechea,1
+Camilo Ayala,1
+German Mera,1
+Jonathan Estrada,1
+Roman Torres,1
+Breyner Bonilla,1
+Ivan Corredor,1
+Wilmer Diaz,1
+Jherson Cordoba,1
+Dahwling Leudo,1
+Dayron Perez,1
+Gerardo Vonder Putten,1
+Henry Rojas,1
+Vladimir Hernandez,1
+Yuberney Franco,1
+Christian Marrugo,1
+Jefferson Duque,1
+Felix Noguera,1
+Mayer Candelo,1
+Maximiliano Nunez,1
+Juan David Cabezas,1
+Jonathan Gomez,1
+Andres Arboleda,1
+Harold Reina,1
+Yessy Mena,1
+Andy Pando,1
+Jhon Lozano,1
+Yesid Aponza,1
+Edinson Palomino,1
+Jorge Ramos,1
+Cesar Arias,1
+Alexis Ossa,1
+Camilo Saiz,1
+Yesinguer Jimenez,1
+Luis Tipton,1
+John Varela,1
+Roger Torres,1
+Jose Luis Garcia,1
+Luis Mosquera,1
+Jonathan Alvarez,1
+Cesar Hinestroza,1
+James Sanchez,1
+Yerson Candelo,1
+Oscar Rodas,1
+Baldomero Perlaza,1
+Oscar Mendez,1
+Alan Navarro,1
+Oscar Balanta,1
+Mauricio Mina,1
+Luis Vergara,1
+Elacio Cordoba,1
+Andres Ricaurte,1
+Gustavo Culma,1
+Guillermo Celis,1
+Rafael Carrascal,1
+Cristian Arango,1
+Nicolas Rubio,1
+Jhonny Meza,1
+Leonel Garcia,1
+Juan Sebastian Herrera,1
+Andres Roa,1
+Javier Sanguinetti,1
+Jeison Estupinan,1
+Oscar Barreto,1
+Jose Luis Moreno,1
+Gabriel Diaz Rico,1
+Juan Roa,1
+Diego Gonzalez,1
+Deiver Parra,1
+Jonathan Angulo,1
+Luis Lopez,1
+Victor Arboleda ,1
+Jhon Salazar,1
+Martin Pusic,17
+Mads  Hvilsom,16
+Duncan,13
+Mikael Ishak,11
+Anders Jacobsen,10
+Rasmus Festersen,10
+Uffe Bech,10
+Nicolai Jorgensen,10
+Sly,9
+Marvin Pourie,9
+Djiby Fall,9
+Teemu Pukki,9
+Nicklas Helenius,8
+Pione Sisto,8
+Nicolaj Agger,8
+Viktor Lundberg,7
+Martin Thomsen,6
+Emil Scheel,6
+Andreas Cornelius,6
+Joshua John,5
+Quincy Antipas,5
+Silas Songani,5
+Morten Beck,5
+Rasmus Falk Jensen,5
+Jakob Ankersen,5
+Mick van Buren,5
+Tommy Bechmann,5
+Martin Spelmann,5
+Emiliano Marcondes,5
+Jakob Poulsen,4
+Andrew Hjulsager,4
+David Moberg Karlsson,4
+Mikkel Vestergaard,4
+Bjorn Paulsen,4
+Petter Andersson,4
+Thomas Enevoldsen,4
+Nicolai Brock-Madsen,4
+Kasper Lorentzen,4
+Robin Soder,4
+Mohammed Fellah,3
+Emil Larsen,3
+Marcos Urena,3
+Riza Durmisi,3
+Dennis Sorensen,3
+Rilwan Hassan,3
+Johan Larsson,3
+Kasper Risgaard,3
+Kristian Bach Bak,3
+Elmar Bjarnason,3
+Christian Norgaard,3
+Jim Larsen,3
+Ferhan Hasani,3
+Daniel Amartey,3
+Emil Berggreen,3
+Simon Makienok,3
+Daniel Hoegh,3
+Apostolos Vellios,3
+Jose Nunez,3
+Ari Freyr Skulason,2
+Martin Mikkelsen,2
+Anders Due,2
+Thomas Kahlenberg,2
+Emil Lyng,2
+Elbasan Rashani,2
+Hans Henrik Andreasen,2
+Johan Absalonsen,2
+Steve de Ridder,2
+Thomas Delaney,2
+Anders Egholm,2
+Lasse Kryger,2
+Daniel Larsson,2
+Osama Akharraz,2
+Bashkim Kadrii,2
+Kasper Larsen,2
+Jonas Knudsen,2
+Andreas Bruhn,2
+Anders Kure,2
+Kenneth Emil Petersen,2
+Vladimer Dvalishvili,2
+Kim Aabech,2
+Alexander Kacaniklic,2
+Lasse Rise,2
+Adama Guira,2
+Lasse Nielsen,2
+Kenneth Zohore,2
+Youssef Toutouh,2
+Marcus Ingvartsen,2
+Brandur Hendriksson Olsen,2
+Alexander Szymanowski,1
+Ludwig Augustinsson,1
+Kasper Fisker,1
+Danny Amankwaa,1
+Jesper Lauridsen,1
+Henrik Dalsgaard,1
+Ryan Laursen,1
+Jonas Kamper,1
+Martin Vingaard,1
+Tom Hogli,1
+Ade Runsewe,1
+Casper Nielsen,1
+Robert Skov,1
+Peter Nymann,1
+Mads Jessen,1
+Mathias Wichmann,1
+Mads Justesen,1
+Marc Dal Hende,1
+Andre Romer,1
+Mikkel Thygesen,1
+Daniel Agger,1
+Patrick Kristensen,1
+Thomas Dalgaard,1
+Rasmus Christensen,1
+Erik Sviatchenko,1
+Erik Friberg,1
+Alexander Fischer,1
+Bjorn Sigurdarson,1
+Nicolaj Ritter,1
+Thomas Mikkelsen,1
+Marco Larsen,1
+Oliver Thychosen,1
+Daniel A. Pedersen,1
+Paul Onuachu,1
+Frederik Borsting,1
+Christian Poulsen,1
+Johan Elmander,1
+Thomas Hansen,1
+Rurik Gislason,1
+Jan Kristiansen,1
+Jonas Borring,1
+Niels Lodberg,1
+Danni Konig,1
+Bojan Golubovic,1
+Darko Bodul,1
+Magnus Lekven,1
+Thorbjorn Holst Rasmussen,1
+Zanka,1
+Nicolaj Madsen,1
+Claudemir,1
+Kevin Niclas Mensah,1
+Oliver Lund,1
+Rasmus Jonsson,1
+Soren Frederiksen,1
+Gudjon Baldvinsson,1
+Fredrik Berge,1
+Ivan Runje,1
+Kristian Lindberg,1
+Holmbert Aron Fridjonsson,1
+Eddi Gomes,1
+Marc Rochester Sorensen,1
+Soren Mussmann,1
+Patrick Banggaard,1
+Jean-Claude Bozga,1
+Andreas Oggesen,1
+Mathias Greve,1
+Lebogang Phiri,1
+Jeppe Tverskov,1
+Kasper Pedersen,1
+Nikolai Laursen,1
+Sergio Aguero,26
+Harry Kane,21
+Diego Costa,20
+Charlie Austin,18
+Alexis Sanchez,16
+Eden Hazard,14
+Olivier Giroud,14
+Saido Berahino,14
+Christian Benteke,13
+David Silva,12
+Wayne Rooney,12
+Mame Diouf,12
+Graziano Pell`e,12
+Nacer Chadli,11
+Leonardo Ulloa,11
+Danny Ings,11
+Wilfried Bony,11
+Papiss Demba Cisse,11
+Romelu Lukaku,10
+Sadio Mane,10
+Robin van Persie,10
+Christian Eriksen,10
+Diafra Sakho,10
+Yaya Toure,10
+Juan Mata,9
+Steven Gerrard,9
+Jonathan Walters,8
+Peter Crouch,8
+Nikica Jelavic,8
+Sung-Yong Ki,8
+Santi Cazorla,7
+Gylfi Sigurdsson,7
+Raheem Sterling,7
+Glenn Murray,7
+Steven Naismith,7
+Bafetimbi Gomis,7
+Charlie Adam,7
+Kevin Mirallas,7
+Loic Remy,7
+Ayoze Perez,7
+Jordan Henderson,6
+Stewart Downing,6
+Oscar,6
+Jason Puncheon,6
+Aaron Ramsey,6
+Leroy Fer,6
+Ander Herrera,6
+Frank Lampard,6
+Gabriel Agbonlahor,6
+Marouane Fellaini,6
+Jamie Vardy,5
+James Milner,5
+Shane Long,5
+Coutinho,5
+Mile Jedinak,5
+Adam Lallana,5
+Stevan Jovetic,5
+David Nugent,5
+Steven Fletcher,5
+George Boyd,5
+Ashley Barnes,5
+Esteban Cambiasso,5
+Theo Walcott,5
+Dame NDoye,5
+Andy Carroll,5
+Connor Wickham,5
+Dwight Gayle,5
+John Terry,5
+Yannick Bolasie,4
+Dusan Tadic,4
+Jack Colback,4
+Mesut Ozil,4
+Branislav Ivanovic,4
+Falcao,4
+Danny Welbeck,4
+Enner Valencia,4
+Edin Dzeko,4
+Jordi Gomez,4
+Cheikhou Kouyate,4
+Riyad Mahrez,4
+Adam Johnson,4
+Moussa Sissoko,4
+Daniel Sturridge,4
+Brown Ideye,4
+Wilfried Zaha,4
+Jermain Defoe,4
+Didier Drogba,4
+Bojan Krkic,4
+Morgan Schneiderlin,4
+Abel Hernandez,4
+Phil Jagielka,4
+Fraizer Campbell,4
+Mohamed Diame,4
+Chris Smalling,4
+Cesc F`abregas,3
+Angel Di Maria,3
+Matt Phillips,3
+Danny Rose,3
+Jonjo Shelvey,3
+Bobby Zamora,3
+Fernandinho,3
+Craig Gardner,3
+Victor Moses,3
+Sebastian Larsson,3
+Victor Anichebe,3
+Seamus Coleman,3
+Nathan Dyer,3
+Andreas Weimann,3
+Eduardo Vargas,3
+Jeffrey Schlupp,3
+Samuel Etoo,3
+Wayne Routledge,3
+Morgan Amalfitano,3
+Jack Cork,3
+Steven NZonzi,3
+Victor Wanyama,3
+Jack Rodwell,3
+Andre Schurrle,3
+Tom Cleverley,3
+Laurent Koscielny,3
+Chris Brunt,2
+Leighton Baines,2
+Erik Lamela,2
+Samir Nasri,2
+Ashley Young,2
+Ahmed Elmohamady,2
+Ramires,2
+Aaron Cresswell,2
+Daley Blind,2
+Mark Noble,2
+Ryan Bertrand,2
+James McCarthy,2
+Aleksandar Kolarov,2
+Willian,2
+Marc Albrighton,2
+Scott Dann,2
+Leon Osman,2
+Wes Morgan,2
+Rickie Lambert,2
+Fernando,2
+Andros Townsend,2
+Sammy Ameobi,2
+Ross Barkley,2
+Eric Dier,2
+Tomas Rosicky,2
+Emmanuel Adebayor,2
+Aaron Lennon,2
+Niko Kranjcar,2
+Marouane Chamakh,2
+Yoan Gouffran,2
+Brede Hangeland,2
+Mauro Zarate,2
+James Morrison,2
+Joe Ledley,2
+James McArthur,2
+Ryan Shawcross,2
+Scott Arfield,2
+Jack Wilshere,2
+Ben Mee,2
+Lazar Markovic,2
+Hector Bellerin,2
+Carlton Cole,2
+Eljero Elia,2
+Andrej Kramaric,2
+Andy King,2
+James Chester,2
+Nathaniel Clyne,2
+Craig Dawson,2
+Alberto Moreno,2
+Jefferson Montero,1
+James Ward-Prowse,1
+Marko Arnautovic,1
+Daryl Janmaat,1
+Pablo Zabaleta,1
+Ryan Mason,1
+Joey Barton,1
+Gael Clichy,1
+Aiden McGeady,1
+Graham Dorrans,1
+Stephane Sess`egnon,1
+Stephen Quinn,1
+James Tomkins,1
+Nemanja Matic,1
+Gaston Ramirez,1
+Michael Carrick,1
+Joleon Lescott,1
+Marcin Wasilewski,1
+Mathieu Flamini,1
+Michael Kightly,1
+Ciaran Clark,1
+Remy Cabella,1
+Paul Konchesky,1
+Joe Cole,1
+Kevin Nolan,1
+Mike Williamson,1
+Moussa Dembele,1
+Jonas Gutierrez,1
+Danny Graham,1
+Roberto Soldado,1
+Gabriel Obertan,1
+Joe Allen,1
+Emmanuel Rivi`ere,1
+Jake Livermore,1
+David Meyler,1
+Nelson Oliveira,1
+Maya Yoshida,1
+Fabio Borini,1
+Steven Caulker,1
+Alex Oxlade-Chamberlain,1
+Calum Chambers,1
+Rolando Aarons,1
+Martin Demichelis,1
+Robert Huth,1
+Darren Fletcher,1
+Glen Johnson,1
+Fabricio Coloccini,1
+Arouna Kone,1
+Ross Wallace,1
+Alan Hutton,1
+Michael Dawson,1
+Clint Hill,1
+Steven Taylor,1
+Martin Skrtel,1
+Paul McShane,1
+Jonas Olsson,1
+Mathieu Debuchy,1
+Gary Cahill,1
+Silvestre Varela,1
+Scott Sinclair,1
+Lee Cattermole,1
+Winston Reid,1
+Gareth McAuley,1
+Sone Aluko,1
+Toby Alderweireld,1
+Jan Vertonghen,1
+Mario Balotelli,1
+Siem de Jong,1
+Carlos Sanchez,1
+Sandro,1
+Joel Ward,1
+Chris Wood,1
+Emre Can,1
+Jores Okore,1
+John Stones,1
+James Wilson,1
+Joe Garner,25
+Ian Henderson,22
+Eoin Doyle,21
+Andy Williams,21
+Will Grigg,20
+Izale McLeod,19
+Aaron Wilbraham,18
+Matt Done,17
+Tom Bradshaw,17
+Dele Alli,16
+Cody McDonald,16
+Jonathan Forte,15
+Paddy Madden,14
+Aden Flint,14
+Conor Hourihane,13
+Kieran Agard,13
+Michael Smith,13
+Billy Clarke,13
+Peter Vincenti,13
+Conor Washington,12
+Jermaine Beckford,12
+Garry Thompson,12
+Nathan Tyson,12
+Jamie Murphy,11
+Chris Dagnall,11
+Daniel Johnson,11
+Benik Afobe,10
+Jose Baxter,10
+Freddie Sears,10
+Carl Baker,9
+James Hanson,9
+Bradley Dack,9
+Jay Emmanuel-Thomas,9
+Dave Mooney,9
+Samuel Clucas,9
+Marc McNulty,9
+Sam Winnall,9
+Jordi Hiwula,9
+Ben Gladwin,8
+David Ball,8
+Jamie Proctor,8
+Daniel Powell,8
+Nicky Ajose,8
+Kyle Bennett,8
+Darius Henderson,8
+Josh Morris,8
+Marcus Maddison,8
+Tom Pope,8
+George Moncur,8
+Jonathan Obika,8
+Curtis Main,8
+John Marquis,8
+Devante Cole,8
+Luke Freeman,7
+Paul Gallagher,7
+Gary McSheffrey,7
+Mark Marshall,7
+Harry Forrester,7
+Gavin Massey,7
+Ben Reeves,7
+Dean Bowditch,7
+Jay OShea,7
+Theo Robinson,7
+Chris Porter,7
+Michael Bostwick,7
+Matt Smith,7
+Marcus Haber,7
+Dean Cox,6
+Joe Bryan,6
+Michael OConnor,6
+Gary Roberts,6
+Jim OBrien,6
+Jon Stead,6
+Massimo Luongo,6
+Frank Nouble,6
+Mike Jones,6
+Ben Williamson,6
+Luke Norris,6
+Hakeeb Adelakun,6
+Dominic Samuel,6
+Marvin Elliott,6
+George Waring,6
+Jordan Cook,5
+Lewin Nyatanga,5
+Liam Noble,5
+Jermaine McGlashan,5
+Jack OConnell,5
+Kyle Vassell,5
+Paul Huntington,5
+Gozie Ugwu,5
+Calvin Andrew,5
+Jay Simpson,5
+James Hayter,5
+Reda Johnson,5
+Jason Holt,5
+Danny Philliskirk,4
+Chris Humphrey,4
+Romaine Sawyers,4
+James Coppinger,4
+Anthony Wordsworth,4
+Jimmy Ryan,4
+Callum Robinson,4
+Gwion Edwards,4
+Jabo Ibehre,4
+Liam McAlinden,4
+Carl Winchester,4
+Jacob Murphy,4
+Jamal Campbell-Ryce,4
+Stephen Dobbie,4
+Neal Bishop,4
+Ben Davies,4
+Luke Ayling,4
+Leon Legge,4
+Josh Scowen,4
+Louis Dodds,4
+Lauri Dalla Valle,4
+John Egan,4
+Tom Hopper,4
+Rhys Healey,4
+Marcus Tudgay,4
+Michael Brown,4
+Colin Daniel,4
+Zeli Ismail,4
+Danny Kedwell,4
+Dominic Poleon,4
+Sammie Szmodics,4
+Nathan Byrne,3
+Mark Yeates,3
+Jon Taylor,3
+Bob Harris,3
+Anthony Forde,3
+Jobi McAnuff,3
+Filipe Morais,3
+Gary Jones,3
+Marlon Pack,3
+Gavin Tomlin,3
+Gareth Evans,3
+Niall Canavan,3
+Conor Wilkinson,3
+Joel Grant,3
+Aaron McLean,3
+Gary Madine,3
+Sanchez Watt,3
+Lyle Taylor,3
+Billy Knott,3
+Lewis Baker,3
+Richard Wood,3
+Mark Roberts,3
+Kyle McFadzean,3
+Chris Birchall,3
+Rory McArdle,3
+Simeon Jackson,3
+Sam Hird,3
+Richie Wellens,3
+Andy Butler,3
+James Tavernier,3
+Josh McQuoid,3
+Mike Edwards,3
+Balint Bajner,3
+Jordan Clarke,3
+Jack Payne,3
+Kane Hemmings,3
+Caolan Lavery,3
+Jake Cassidy,3
+Kieffer Moore,3
+George Cooper,3
+Dean Lewington,3
+Peter Ramage,3
+George Elokobi,3
+Rory Fallon,3
+Rob Hall,3
+Aaron Martin,3
+Sanmi Odelusi,3
+Michael Petrasso,3
+Christian Burgess,3
+Alan Browne,3
+Raphael,3
+Rhys Turner,3
+Sam Foley,2
+Samir Carruthers,2
+Rhys Bennett,2
+Dean Furman,2
+Greg Cunningham,2
+Liam ONeil,2
+Louis Thompson,2
+David Fox,2
+Darren Potter,2
+Anthony Grant,2
+Yaser Kasim,2
+John Swift,2
+Michael Cain,2
+Ryan Hedges,2
+Scott Cuthbert,2
+Wade Elliott,2
+Gianvito Plasmati,2
+Josh Wright,2
+Jamie Ness,2
+Ashley Eastham,2
+Sam Morsy,2
+Antoni Sarcevic,2
+Joe Newell,2
+Armand Gnanduillet,2
+Mathias Pogba,2
+Uche Ikpeazu,2
+Joe Bunney,2
+Josh Brownhill,2
+Leroy Lita,2
+Jason Kennedy,2
+Dany NGuessan,2
+Steve Davies,2
+Conor Henderson,2
+Derrick Williams,2
+Kevin van Veen,2
+George Ray,2
+Ryan Colclough,2
+Kieron Morris,2
+James Maddison,2
+Kevin Lisbie,2
+Michael Higdon,2
+Scott Wiseman,2
+Rob Jones,2
+Romain Vincelot,2
+Chris Lines,2
+Scott Wagstaff,2
+Ashley Grimes,2
+Joe Martin,2
+Amari Morgan-Smith,2
+AJ Leitch-Smith,2
+Matthew Lund,2
+Luke Williams,2
+Anton Rodgers,2
+Stephen Arthurworrey,2
+Christopher Routis,2
+Jonson Clarke-Harris,2
+Jordan Slew,2
+Billy Waters,2
+Harry Toffolo,1
+Jake Hessenthaler,1
+Kevin Davies,1
+Doug Loft,1
+Michael Rose,1
+Michael Smith,1
+Reece Wabara,1
+Ryan Dickson,1
+Jimmy Smith,1
+Carl Dickinson,1
+Mark Little,1
+Dale Jennings,1
+Jack Stephens,1
+Andy Taylor,1
+Andy Halliday,1
+Reuben Noble-Lazarus,1
+Oliver Turton,1
+Tendayi Darikwa,1
+Joe Rafferty,1
+Nick Haughton,1
+Michael Doyle,1
+Alan Sheehan,1
+Romuald Boco,1
+Ryan Flynn,1
+Tom Clarke,1
+Danny Green,1
+Gary Liddle,1
+John Brayford,1
+Lee Fowler,1
+Luke Berry,1
+Conor McLaughlin,1
+Dan Gardner,1
+Kieron Freeman,1
+Max Ehmer,1
+Graham Burke,1
+Elliott Whitehouse,1
+Elliott Hewitt,1
+Greg Leigh,1
+Gboly Ariyibi,1
+Scott Tanser,1
+Adam Yates,1
+Sylvan Ebanks-Blake,1
+Simon Gillett,1
+Genseric Kusunga,1
+Antony Kay,1
+Gabriel Zakuani,1
+Francois Zoko,1
+Mathieu Baudry,1
+Enda Stevens,1
+Shaun Batt,1
+Nathan Pond,1
+Liam Kelly,1
+Lee Hodson,1
+Frederic Veseli,1
+Blair Adams,1
+Tom Eastman,1
+Harry Davis,1
+Chris Stokes,1
+Sonny Bradley,1
+Bastien Hery,1
+Stefan Scougall,1
+Kevin Dawson,1
+Adam Morgan,1
+Brad Garmston,1
+Charlie Raglan,1
+Luke James,1
+Jordan Turnbull,1
+Brennan Dickenson,1
+Ryan Haynes,1
+Callum Camps,1
+Macauley Bonne,1
+Jamie Jones,1
+Tom Lapslie,1
+Mason Holgate,1
+Jermaine Hylton,1
+Jay McEveley,1
+Dean Leacock,1
+Stephen Jordan,1
+Darren Ward,1
+Shaun Harrad,1
+Richard Duffy,1
+Chris OGrady,1
+Andrea Dossena,1
+Neill Collins,1
+Martin Cranie,1
+Gary MacKenzie,1
+Tony McMahon,1
+James OConnor,1
+Patrick McCarthy,1
+Kaspars Gorkss,1
+Nick Proschwitz,1
+Kelly Youga,1
+Ian Evatt,1
+Matt Harrold,1
+Paddy McCourt,1
+Miguel Llera,1
+Adam Dugdale,1
+Jamie McCombe,1
+James Wilson,1
+Shaun Miller,1
+Matt Sparrow,1
+Georg Margreitter,1
+Jeff Hughes,1
+Keith Treacy,1
+Andy Little,1
+James Berrett,1
+Lloyd James,1
+Byron Moore,1
+Magnus Okuonghae,1
+Craig Eastmond,1
+Febian Brandy,1
+Shaun Brisley,1
+Andrew Boyce,1
+James Dayton,1
+Josh Simpson,1
+Bradden Inman,1
+Antonio German,1
+Paul Downing,1
+Ronan Murray,1
+Tom Hitchcock,1
+Marcello Trotta,1
+James Spencer,1
+Harry Beautyman,1
+Blair Turgott,1
+George Saville,1
+Vadaine Oliver,1
+Bailey Wright,1
+Joe Walsh,1
+Byron Harrison,1
+George Evans,1
+Kenny McEvoy,1
+Ben Pearson,1
+Jake Reeves,1
+James Baxendale,1
+Mason Bennett,1
+Kgosi Ntlhe,1
+Sam Hoskins,1
+Kortney Hause,1
+Jack King,1
+Alex Gilbey,1
+Billy Daniels,1
+Ben Nugent,1
+Jermaine Anderson,1
+Wes Burns,1
+Jack Marriott,1
+Achille Campion,1
+Erhun Oztumer,1
+Kyle Wootton,1
+Ashley Hunter,1
+Matt Tubbs,21
+Jamie Cureton,19
+Reuben Reid,18
+Marc Richards,18
+Tom Nichols,17
+James Collins,15
+Jed Wallace,14
+Danny Hylton,14
+Barry Corr,14
+Adebayo Akinfenwa,13
+Mark Cullen,13
+Paul Hayes,12
+Lewis Alessandra,11
+Kevin Ellison,11
+Jack Redshaw,11
+Aaron OConnor,11
+Kyle Dempsey,10
+Charlie Wyke,10
+Lucas Akins,10
+Danny Rose,10
+Daniel Nardiello,10
+Alex MacDonald,10
+Charlie Lee,9
+Ryan Lowe,9
+Jean-Louis Akpa Akpro,9
+Ryan Taylor,9
+Joe Pigott,9
+Danny Mayor,8
+Andy Mangan,8
+Tom Elliott,8
+Ivan Toney,8
+Tom Soares,8
+Piero Mingoia,8
+Paul Mullin,8
+Fred Onyedinma,8
+Padraig Amond,8
+Ryan Bird,8
+Robbie Simpson,8
+Jake Hyde,8
+Tyrone Barnett,8
+Lawson DAth,7
+David Wheeler,7
+Bradley Potts,7
+Max Power,7
+Chris Whelpdale,7
+Graham Cummins,7
+Sean Maguire,7
+Tom Pett,7
+Connor Goldson,7
+Chris Zebroski,7
+Peter Murphy,7
+Vadaine Oliver,7
+Rakish Bingham,7
+James Gray,7
+Stuart Beavon,6
+David Worrall,6
+Bobby Grant,6
+Jack Payne,6
+Josh Windass,6
+Kayode Odejayi,6
+Craig Westcarr,6
+Phil Edwards,6
+Paris Cowan-Hall,6
+Kwesi Appiah,6
+Keith Lowe,6
+Adam McGurk,6
+Kemar Roofe,6
+Cameron McGeehan,6
+Wes Fletcher,6
+Shay McCartan,6
+Adebayo Azeez,6
+Alfie Mawson,6
+Terry Gornell,6
+Shaq Coulthirst,6
+Steven Rigg,6
+Scott Fenwick,6
+Liam Lawrence,5
+Ryan Donaldson,5
+Sam Wood,5
+Sean Rigg,5
+Simon Walton,5
+Rory Donnelly,5
+David Amoo,5
+Reggie Lambe,5
+Damien McCrory,5
+Ricky Holmes,5
+Sullay Kaikai,5
+Wes Burns,5
+Alex Jakubiak,5
+Luke Howell,5
+Ashley Hemmings,5
+Jacob Blyth,5
+Matt McClure,5
+Brad Walker,5
+Ryan Cresswell,5
+Jayden Stockley,5
+Michael Coulson,4
+John OSullivan,4
+Matt Palmer,4
+Alex Nicholls,4
+Kaid Mohamed,4
+Yan Klukowski,4
+Luke Summerfield,4
+Liam Sercombe,4
+Billy Bingham,4
+Matt Grimes,4
+Ben Kennedy,4
+Chris Beardsley,4
+Kal Naismith,4
+Mark Byrne,4
+Jake Howells,4
+Miles Storey,4
+Dean Wells,4
+Ryan Harley,4
+Dean Parrett,4
+Callum ODowda,4
+Arron Davies,4
+Peter Hartley,4
+Billy Kee,4
+Aaron Pierre,4
+Byron Harrison,4
+Cole Stockton,4
+Jordan Hugill,4
+Lee Barnard,4
+Rob Atkinson,4
+Abu Ogogo,4
+Derek Asamoah,4
+Darren Jones,4
+Luke Wilkinson,4
+Diego De Girolamo,4
+Jamie Devitt,3
+George Francomb,3
+Bobby Reid,3
+Joel Byrom,3
+Jennison Myrie-Williams,3
+Shaun Whalley,3
+Marlon Harewood,3
+Chris Hackett,3
+Michael Timlin,3
+Joe Jacobson,3
+Danny Grainger,3
+Nasser El Khayati,3
+Andrew Tutte,3
+Lee Minshull,3
+Luke Joyce,3
+Mickey Demetriou,3
+Luke Guttridge,3
+Craig Jones,3
+Anthony OConnor,3
+Jordan Clark,3
+Michael Duckworth,3
+Mark Beck,3
+Jack Smith,3
+Jason Kennedy,3
+Mark Hughes,3
+Alfie Potter,3
+Emile Sinclair,3
+Michael Nelson,3
+Matt Rhead,3
+Adam Marriott,3
+Jimmy Keohane,3
+Ryan Leonard,3
+Liam Hughes,3
+Elliot Lee,3
+Seamus Conneely,3
+Luke Rooney,3
+Alex Lawless,3
+Adam Chapman,3
+Nathan Cameron,3
+Scot Bennett,3
+Abdulai Bell-Baggie,3
+Jack Dunn,3
+Aaron Amadi-Holloway,3
+Kevin Stewart,3
+Alex Kenyon,3
+James Roberts,3
+Koby Arthur,3
+Andy Drury,2
+Matt Richards,2
+Ashley Chambers,2
+Danny Rose,2
+Russell Penn,2
+Harrison Dunk,2
+Lee Beevers,2
+Michael Collins,2
+Myles Weston,2
+Will Atkinson,2
+Jonathan Franks,2
+Jonathan Smith,2
+Josh Carson,2
+Steven Craig,2
+Kelvin Etuhu,2
+John-Joe OToole,2
+Bira Dembele,2
+Christian Ribeiro,2
+Scott Griffiths,2
+Sam Saunders,2
+Shamir Fenelon,2
+Ayo Obileye,2
+Paul Robinson,2
+Ismail Yakubu,2
+John Mousinho,2
+Mark Ellis,2
+Johnny Mullins,2
+Junior Brown,2
+Andy Fleming,2
+Conor Clifford,2
+Joss Labadie,2
+Carl McHugh,2
+James Rowe,2
+Adam Cunnington,2
+Jordan Moore-Taylor,2
+Christian Doidge,2
+Ade Yusuff,2
+David Tutonda,2
+Shane Cansdell-Sherriff,2
+Darius Charles,2
+Neil Austin,2
+Simon Heslop,2
+Stephane Zubar,2
+Danny Holmes,2
+Olly Lee,2
+Marvin Morgan,2
+Jermaine Grandison,2
+Dave Winfield,2
+Shaun Jeffers,2
+Eliot Richards,2
+Dan Gardner,2
+Denny Johnstone,2
+Jake Reeves,2
+Durrell Berry,2
+Armand Gnanduillet,2
+Ryan Brunt,2
+Joe Hanks,2
+Zack Kotwica,2
+Nicky Adams,1
+Kelvin Mellor,1
+Andy Sandell,1
+Michael Harriman,1
+Ben Coker,1
+Darren Carter,1
+Barry Fuller,1
+Brendan Moloney,1
+Josh Coulson,1
+Joe Riley,1
+Pelly Ruddock,1
+Matt Bloomfield,1
+Dominic Blizzard,1
+Hogan Ephraim,1
+Marc Laird,1
+Billy Paynter,1
+Danny Hollands,1
+Max Porter,1
+Antony Sweeney,1
+Aaron Wildig,1
+Patrick Hoban,1
+Jordan Slew,1
+Courtney Meppen-Walter,1
+Josh Scowen,1
+Frankie Raymond,1
+Johnny Hunt,1
+Marcus Carver,1
+Jack Thomas,1
+Nigel Atangana,1
+Adam Murray,1
+Shaun Harrad,1
+Michael Woods,1
+Stephen Elliott,1
+Danny Haynes,1
+Adam Barrett,1
+Matt Harrold,1
+Dave Martin,1
+Scott Vernon,1
+Matt Sparrow,1
+Kelvin Maynard,1
+Lee Molyneux,1
+Andy Barcham,1
+Troy Brown,1
+Troy Archibald-Henville,1
+Robbie Willmott,1
+Gary Dicker,1
+Paul Benson,1
+Laurence Wilson,1
+Enda Stevens,1
+Chris Clements,1
+Roarie Deacon,1
+Nathaniel Knight-Percival,1
+Stewart Murdoch,1
+Jamie McGuire,1
+Zak Ansah,1
+Nico Yennaris,1
+Adam Buxton,1
+Fergus Bell,1
+George Porter,1
+Curtis Nelson,1
+Bruno Andrade,1
+Stephen McLaughlin,1
+George Green,1
+Sam Long,1
+Matt Partridge,1
+Ryan Tafazolli,1
+Tyler Harvey,1
+Tareiq Holmes-Dennis,1
+Bradley Halliday,1
+Ollie Palmer,1
+Sean OHanlon,1
+Luke Chadwick,1
+David Connolly,1
+Zander Diamond,1
+Steve Elliott,1
+Kevan Hurst,1
+Marcus Bean,1
+Lee Bell,1
+Johannes Ertl,1
+Matthew Bates,1
+Adam El-Abd,1
+James Wesolowski,1
+James Dunne,1
+Rhys Murphy,1
+Steve Jennings,1
+Adam Dugdale,1
+Joe Devera,1
+Deane Smalley,1
+Alex Fisher,1
+Matt Taylor,1
+Anthony Straker,1
+Tom Aldred,1
+Scott Doe,1
+Dannie Bulman,1
+Ricky Miller,1
+Florent Cuvelier,1
+Jordan Wynter,1
+Nathaniel Mendez-Laing,1
+Issaga Diallo,1
+Will Packwood,1
+John Marquis,1
+Cian Bolger,1
+Callum McFadzean,1
+Tom Eaves,1
+Paul Corry,1
+Michael Ihiekwe,1
+George Baldock,1
+Frankie Sutherland,1
+Andy Kellett,1
+George Taft,1
+Joe Ironside,1
+Cameron Lancaster,1
+Darragh Lenihan,1
+Josh Gillies,1
+Andrew Hughes,1
+John Campbell,1
+Adedeji Oshilaja,1
+Scott Harrison,1
+Alex Wall,1
+Adam Webster,1
+Jake Goodman,1
+Nathan Thomas,1
+Jake Kirby,1
+Lloyd Jones,1
+David Moyo,1
+Aaron McGowan,1
+Danny Carr,1
+Jim Stevenson,1
+Kyle Vassell,1
+Omari Sterling-James,1
+Connor Calcutt,1
+Conor Chaplin,1
+Jodi Jones,1
+Daryl Murphy,27
+Troy Deeney,21
+Jordan Rhodes,21
+Callum Wilson,20
+Rudy Gestede,20
+Odion Ighalo,20
+Cameron Jerome,18
+Chris Martin,18
+Ross McCormack,17
+Patrick Bamford,17
+Andre Gray,16
+Matej Vydra,16
+Matt Ritchie,15
+Yann Kermorgant,15
+Bakary Sako,15
+Clayton Donaldson,15
+Bradley Johnson,15
+Britt Assombalonga,15
+Michail Antonio,14
+Nouha Dicko,14
+Benik Afobe,13
+Brett Pitman,13
+Grant Leadbitter,12
+Alex Pritchard,12
+Gary Hooper,12
+Kenwyne Jones,12
+Lewis Grabban,12
+Darren Bent,12
+Igor Vetokele,11
+Nahki Wells,11
+Adam Le Fondre,11
+Jota,11
+Tom Ince,11
+Hugo Rodallega,10
+Henri Lansbury,10
+Johann Berg Gudmundsson,10
+Mirco Antenucci,10
+David Cotterill,9
+Marc Pugh,9
+Harry Arter,9
+Freddie Sears,9
+Kike,9
+Matt Derbyshire,9
+Harry Bunn,9
+Almen Abdi,9
+Alex Mowatt,9
+Jonathan Douglas,8
+Simon Cox,8
+Chris Maguire,8
+Yoni Buyens,8
+Atdhe Nuhiu,8
+Lee Gregory,8
+Glenn Murray,8
+Lee Tomlin,7
+Jeff Hendrick,7
+David McGoldrick,7
+Jonathan Howson,7
+Jelle Vossen,7
+James Vaughan,7
+Sean Morrison,7
+Stevie May,7
+Johnny Russell,6
+Peter Whittingham,6
+Ben Marshall,6
+Jacob Butterfield,6
+James McClean,6
+Paul Caddis,6
+Chris Burke,6
+Christophe Berra,6
+Jamie Ward,6
+Matty Fryatt,6
+David Edwards,6
+Stuart Dallas,6
+Jon Toral,6
+Demarai Gray,6
+Pavel Pogrebnyak,6
+Craig Davies,6
+Alex Revell,6
+Kieran Lee,6
+Federico Macheda,6
+Gary Gardner,6
+Nathan Redmond,5
+Lasse Vigen Christensen,5
+Fernando Forestieri,5
+Daniel Tozser,5
+Jamie Mackie,5
+James Henry,5
+Albert Adomah,5
+Joao Carlos Teixeira,5
+Souleymane Doukara,5
+Eidur Gudjohnsen,5
+Matt Smith,5
+Magaye Gueye,5
+Frederic Bulot,5
+Tony Watt,5
+Lewis Dunk,5
+Dexter Blackstock,5
+Ishmael Miller,5
+Billy Sharp,5
+Callum McManaman,5
+Eoin Doyle,5
+Steve Cook,5
+Jordan Bowery,5
+Joe Mason,5
+Jordon Ibe,5
+Zach Clough,5
+Steve Davies,5
+Wesley Hoolahan,4
+Sean Scannell,4
+Craig Bryson,4
+Robert Tesche,4
+Aron Gunnarsson,4
+Matthew Mills,4
+Bryan Ruiz,4
+Ricardo Fuller,4
+Darren Pratley,4
+Inigo Calderon,4
+Tim Hoogland,4
+Andrea Orlandi,4
+Tommy Smith,4
+Wes Thomas,4
+Conor Sammon,4
+Daniel Ayala,4
+Daniel Batth,4
+Chris Long,4
+Alan Judge,3
+Craig Conway,3
+Ben Pringle,3
+Tom Cairney,3
+Liam Feeney,3
+Moses Odubajo,3
+Ben Osborn,3
+Gianni Munari,3
+Andrew Surman,3
+Adrian Colunga,3
+Sam Baldock,3
+Adl`ene Guedioura,3
+Jermaine Pennant,3
+Scott Parker,3
+Leon Clarke,3
+Lewis McGugan,3
+Kazenga LuaLua,3
+Simon Dawkins,3
+Chung-Yong Lee,3
+Conor Coady,3
+Jordan Cousins,3
+Sam Byram,3
+Paul Green,3
+Gary Madine,3
+Rodolph Austin,3
+Luke Murphy,3
+Martyn Woolford,3
+Danny Ward,3
+Michael Hector,3
+Noel Hunt,3
+Graham Dorrans,3
+Jake Buxton,3
+Bruno,3
+Craig Cathcart,3
+Martyn Waghorn,3
+Nick Blackman,3
+David Davis,3
+Cauley Woodrow,3
+Alex Baptiste,3
+Chris Eagles,3
+Kari Arnason,3
+Joel Lynch,3
+James Perch,3
+Bruno Ecuele Manga,3
+Nathan Delfouneso,3
+Will Keane,3
+Jonson Clarke-Harris,3
+Jamie OHara,2
+Adam Reach,2
+Will Hughes,2
+Jay Spearing,2
+Russell Martin,2
+Steven Whittaker,2
+Grant Holt,2
+Scott McDonald,2
+Jay Tabb,2
+Gabriele Angella,2
+Shaun Maloney,2
+Andrew Shinnie,2
+Shaun Williams,2
+Ryan Shotton,2
+Lloyd Dyer,2
+Michael Turner,2
+Peter Clarke,2
+Ed Upson,2
+Simon Church,2
+Steve Morison,2
+Jake Taylor,2
+George Tucudean,2
+Aiden OBrien,2
+Joe Ralls,2
+Mark Hudson,2
+Gordon Greer,2
+Alan Dunne,2
+Johnnie Jackson,2
+Mark Davies,2
+Jonathan Parr,2
+Lee Frecklington,2
+Mark Beevers,2
+Alexander Kacaniklic,2
+Shaun Hutchinson,2
+Jesse Lingard,2
+Charlie Taylor,2
+Jacob Murphy,2
+Jos Hooiveld,2
+Danny Shittu,2
+Chris McCann,2
+Jason Pearce,2
+Dale Stephens,2
+Giuseppe Bellusci,2
+Sam Saunders,2
+Luciano Becchio,2
+Nile Ranger,2
+Conor McAleny,2
+Caolan Lavery,2
+Bo-Kyung Kim,2
+Ethan Ebanks-Landell,2
+Yanic Wildschut,2
+Murray Wallace,2
+Tokelo Rantie,2
+Jake Cooper,2
+Joe Lolley,2
+Rajiv van La Parra,1
+Simon Francis,1
+Paul Anderson,1
+Teddy Bishop,1
+Martin Olsson,1
+Kevin Bru,1
+Charlie Daniels,1
+Lee Martin,1
+Craig Forsyth,1
+Oliver Norwood,1
+Tyrone Mings,1
+Emile Heskey,1
+Garath McCleary,1
+Stephen Warnock,1
+Tony McMahon,1
+Danny Holla,1
+Luke Chambers,1
+Jamie Paterson,1
+Neil Danns,1
+Tommy Smith,1
+Chris OGrady,1
+Andrew Taylor,1
+Fernando Amorebieta,1
+Kyle Lafferty,1
+Tommy Elphick,1
+James McArthur,1
+Francois Zoko,1
+Cole Skuse,1
+Jonathan Grounds,1
+Anthony Pilkington,1
+Oriol Riera,1
+George Friend,1
+Oscar Gobern,1
+Joe Bennett,1
+Luke Hyam,1
+Rohan Ince,1
+James Tarkowski,1
+Max Clayton,1
+Sean Kavanagh,1
+Keith Andrews,1
+Alexander Tettey,1
+Andre Bikey-Amougou,1
+Alan McCormack,1
+Jermaine Easter,1
+Liam Trotter,1
+David Edgar,1
+Chris Taylor,1
+Craig Mackail-Smith,1
+Diego Fabbrini,1
+Jem Karacan,1
+Emmanuel Ledesma,1
+Joel Ekstrand,1
+Roger Espinoza,1
+Corry Evans,1
+Craig Noone,1
+Rob Kiernan,1
+Scott Malone,1
+Jeremy Helan,1
+Lee Novak,1
+Tom Adeyemi,1
+Harlee Dean,1
+Adam Forshaw,1
+Sergiu Bus,1
+Nathaniel Chalobah,1
+Kadeem Harris,1
+Richard Smallwood,1
+Adam Henley,1
+Harry Maguire,1
+Saidy Janko,1
+Solomon March,1
+Callum Reilly,1
+Tom Lawrence,1
+Reece James,1
+Tom Walker,1
+Henry Cameron,1
+Dom Telford,1
+Alou Diarra,1
+Jonathan Woodgate,1
+Matthew Kilgallon,1
+Marc-Antoine Fortune,1
+Richard Chaplow,1
+John Eustace,1
+Ben Watson,1
+Luke Varney,1
+Jon Stead,1
+Nadjim Abdou,1
+Danny Collins,1
+Sol Bamba,1
+Danny Graham,1
+David Wheater,1
+Nick Proschwitz,1
+Stefan Maierhofer,1
+Matthew Connolly,1
+Ryan Hall,1
+Royston Drenthe,1
+Daniel Williams,1
+Tomasz Cywka,1
+Nicky Maynard,1
+Franck Moussa,1
+Shaun Cummings,1
+Biram Kayal,1
+Anthony Wordsworth,1
+Claude Dielna,1
+Giles Coke,1
+Hal Robson-Kanu,1
+Liam Cooper,1
+Dean Moxey,1
+Nikolay Bodurov,1
+Junior Stanislas,1
+Joshua King,1
+Filip Twardzik,1
+Ryan Tunnicliffe,1
+Shane Duffy,1
+Kwesi Appiah,1
+Grant Hanley,1
+Michael Jacobs,1
+Grant Hall,1
+Jack Price,1
+Dan Burn,1
+Ryan Fraser,1
+Jake Forster-Caskey,1
+Todd Kane,1
+Jonathan Williams,1
+Callum Harriott,1
+Seko Fofana,1
+Jamaal Lascelles,1
+Tim Chow,1
+Donervon Daniels,1
+Josh Murphy,1
+Jamar Loza,1
+David Ferguson,1
+Lee Evans,1
+Jamie Hanson,1
+Tyler Walker,1
+Kalvin Phillips,1
+Jamie Philpot,1
+Alexandre Lacazette,27
+Andre-Pierre Gignac,21
+Zlatan Ibrahimovic,19
+Edinson Cavani,18
+Max Gradel,17
+Claudio Beauvue,17
+Diego Rolan,15
+Wissam Ben Yedder,14
+Nabil Fekir,13
+Jordan Ayew,12
+Christophe Mandanne,11
+Lucas Barrios,11
+Andre Ayew,10
+Carlos Eduardo,10
+Mathieu Duhamel,10
+Anthony Mounier,9
+Wahbi Khazri,9
+Paul-Georges Ntep,9
+Anthony Martial,9
+Nolan Roux,9
+Bernardo Silva,9
+Modibo Maiga,9
+Michy Batshuayi,9
+Eric Bautheac,8
+Ezequiel Lavezzi,8
+Daniel Wass,8
+Divock Origi,8
+Cheick Diabate,8
+Mevlut Erdinc,8
+Benjamin Moukandjo,8
+Yoann Touzghar,8
+Dimitri Payet,7
+Clinton NJie,7
+Jordan Veretout,7
+Lucas,7
+Benjamin Jeannot,7
+Raphael Guerreiro,7
+Herve Bazile,7
+Corentin Tolisso,7
+David NGog,7
+Pablo Chavarria,7
+Dimitar Berbatov,7
+Ola Toivonen,7
+Yannick Carrasco,6
+Julien Feret,6
+Aleksandar Pesic,6
+Gaetan Charbonnier,6
+Morgan Sanson,6
+Floyd Ayite,6
+Emiliano Sala,6
+Aissa Mandi,6
+Martin Braithwaite,6
+Sloan Privat,6
+Javier Pastore,5
+Diego,5
+Florian Thauvin,5
+Ricky van Wolfswinkel,5
+Ryad Boudebouz,5
+Yeni NGbakoto,5
+Clarck NSikulu,5
+Alexy Bosetti,5
+Giovanni Sio,5
+Joao Moutinho,4
+Cedric Barbosa,4
+Oscar Trejo,4
+Kevin Berigaud,4
+Idrissa Gueye,4
+Lenny Nangis,4
+Yacine Bammou,4
+Francois Kamano,4
+Blaise Matuidi,4
+Adamo Coulibaly,4
+Gilles Sunu,4
+Val`ere Germain,4
+Yohan Mollo,4
+Nicolas Benezet,4
+Adrien Rabiot,4
+Juan Falcon,4
+Mexer,4
+Junior Tallo,4
+Jordan Amavi,4
+Romain Hamouma,3
+Alassane Plea,3
+Abdoulaye Doucoure,3
+Sofiane Boufal,3
+Florent Malouda,3
+Adrien Regattin,3
+Yoann Gourcuff,3
+Romain Alessandrini,3
+Maxwell,3
+Souleymane Camara,3
+Serge Gakpe,3
+Nicolas de Preville,3
+Rony Lopes,3
+Prince Oniangue,3
+Bengali-Fode Koita,3
+Tongo Doumbia,3
+Lucas Ocampos,3
+Steed Malbranque,3
+Johan Audel,3
+Habib Habibou,3
+Alejandro Bedoya,3
+Christopher Maboulou,3
+Valentin Lavigne,3
+Hilton,3
+Dario Cvitanich,3
+Alharbi El Jadeyaoui,3
+Marco Verratti,2
+Jeremy Pied,2
+Adrien Thomasson,2
+Nicolas Maurice-Belay,2
+Modou Sougou,2
+Valentin Eysseric,2
+NGolo Kante,2
+Fabien Lemoine,2
+Gaetan Bussmann,2
+Thomas Toure,2
+Pedro Henrique,2
+Rod Fanni,2
+Alaixys Romao,2
+Giannelli Imbula,2
+Bryan Dabo,2
+Jean-Christophe Bahebeck,2
+Jean-Daniel Akpa Akpro,2
+Bouna Sarr,2
+Guillaume Gillet,2
+Julian Palmieri,2
+Ryan Mendes,2
+Djibril Sidibe,2
+Wylan Cyprien,2
+Georges-Kevin NKoudou,2
+Thibault Giresse,2
+Mathieu Bodmer,2
+Siaka Tiene,2
+Jean Calve,2
+Nabil Dirar,2
+Kevin Monnet-Paquet,2
+Ronnie Schwartz,2
+Paul Lasne,2
+Gianni Bruno,2
+Michael Frey,2
+Romain Philippoteaux,2
+Adama Traore,2
+Baptiste Guillaume,2
+Benjamin Bourigeaud,2
+Alaeddine Yahia,2
+Francois Modesto,2
+Falcao,2
+David Luiz,2
+Oswaldo Vizcarrondo,2
+Nicolas NKoulou,2
+Anders Konradsen,2
+Francois Bellugou,2
+Jonathan Delaplace,2
+Mario Lemina,2
+Gaetan Courtet,2
+Marquinhos,2
+Yassine Benzia,2
+Jordan Ferri,1
+Franck Tabanou,1
+Florent Balmont,1
+Gael Danic,1
+Sylvain Marveaux,1
+Odair Fortes,1
+Jonas Martin,1
+Thomas Lemar,1
+Christophe Jallet,1
+Kevin Lejeune,1
+Yannick Cahuzac,1
+Gregory van der Wiel,1
+Mariano,1
+Lalaina Nomenjanahary,1
+Sambou Yatabare,1
+Florian Raspentino,1
+Isaac Thelin,1
+Nicolas Seube,1
+Sergey Krivets,1
+Maxime Gonalons,1
+Clement Grenier,1
+Samuel Umtiti,1
+Mohamed Yattara,1
+Ferjani Sassi,1
+Yeltsin Tejeda,1
+Said Benrahma,1
+Lars Jacobsen,1
+Sylvain Armand,1
+Olivier Sorlin,1
+Jeremy Clement,1
+Jeremy Morel,1
+Yohan Cabaye,1
+Pavle Ninkov,1
+Mustapha Diallo,1
+Djamel Bakar,1
+Didier Digard,1
+Damien Da Silva,1
+Lamine Kone,1
+Romain Genevois,1
+Lamine Gassama,1
+Pierrick Valdivia,1
+Lacina Traore,1
+Mehdi Mostefa,1
+Gregory Sertic,1
+Lamine Sane,1
+Sebastien Corchia,1
+Niklas Hult,1
+Vincent Le Goff,1
+Dorian Leveque,1
+Sanjin Prcic,1
+Maxime Poundje,1
+Geoffrey Kondogbia,1
+Mathias Autret,1
+Gregoire Puel,1
+Lloyd Palun,1
+Matheus Carvalho,1
+Issiaga Sylla,1
+Fabinho,1
+Aristote Madiani,1
+Enzo Crivelli,1
+Pantxi Sirieix,1
+Zoumana Camara,1
+Marc Planus,1
+Gregory Bourillon,1
+Rio Mavuba,1
+Marko Basa,1
+Victor Montano,1
+Renaud Cohade,1
+Loic Perrin,1
+Jonathan Brison,1
+Thiago Silva,1
+Ahmed Kantari,1
+Landry NGuemo,1
+Ismael Bangoura,1
+Paul Baysse,1
+Moustapha Sall,1
+Itay Shechter,1
+Nicki Bille Nielsen,1
+Simon Kjaer,1
+Bakary Kone,1
+Antoine Devaux,1
+Jean-Armel Kana-Biyik,1
+Elderson,1
+Guido Milan,1
+Ahmed Kashi,1
+Benjamin Andre,1
+Ladislas Douniama,1
+Abdelaziz Barrada,1
+Jonathan Mensah,1
+Cedric Cambon,1
+Dany Nounkeu,1
+Djakaridja Kone,1
+Jose Luis Palomino,1
+Alexis Peuget,1
+Billel Omrani,1
+Florentin Pogba,1
+Vincent Aboubakar,1
+Nicolas Blandi,1
+Yrondu Musavu-King,1
+Tiago Ilori,1
+Baptiste Aloe,1
+Almamy Toure,1
+Neal Maupay,1
+Cedric Yambere,1
+Grejohn Kyei,1
+Mickael Le Bihan,18
+Seydou Kone,15
+Jonathan Kodjia,15
+Youssouf Hadji,14
+Karl Toko Ekambi,14
+Anthony Le Tallec,13
+Youssef Adnane,13
+Nicolas Fauvergue,12
+Mana Dembele,12
+Benjamin Nivet,11
+Toifilou Maoulida,11
+Idriss Saadi,11
+Cheikh Ndoye,11
+Julio Tavares,10
+Corentin Jean,10
+Riad Nouri,9
+Bryan Bergougnoux,8
+Remy Dugimont,8
+Billy Ketkeophomphone,8
+Frederic Piquionne,8
+Mohamed Larbi,8
+Vincent Gragnic,8
+Romain Philippoteaux,7
+Anthony Koura,7
+Ima Andriatsima,7
+Rydell Poepon,7
+Robert Maah,7
+Alexandre Bonnet,6
+Stephane Darbion,6
+Amara Baby,6
+Khalid Boutaib,6
+Jean-Michel Lesage,6
+Abdoul Camara,6
+Jimmy Roye,6
+Kevin Mayi,6
+Gregory Thil,6
+Christian Bekamenga,6
+Florin Berenguer,6
+Jeremie Bela,6
+Karim Coulibaly,6
+Christian Kouakou,6
+Alexandre Alphonse,6
+Mamadou Diallo,6
+Ande Dona Ndoh,6
+Sehrou Guirassy,6
+Florian Martin,5
+Maurice Dale,5
+Jean-Paul Mendy,5
+Cheick Diarra,5
+Hugo Videmont,5
+Bruno Grougi,5
+Hassane Alla,5
+Henri Bienvenu,5
+Sacha Clemence,5
+Arnaud Lusamba,5
+Moussa Sao,5
+Larsen Toure,5
+Edouard Butin,5
+John Tshibumbu,5
+Gaetan Courtet,5
+Cesar Zeoula,5
+Maxime Brillault,5
+Koro Kone,5
+Johan Cavalli,4
+Loic Puyo,4
+Gregory Pujol,4
+Anthony Robic,4
+David Ducourtioux,4
+Charles Diers,4
+Wesley Said,4
+Sofiane Boufal,4
+Ghislain Gimbert,4
+Louis Poggi,4
+Opa Nguette,4
+Karim Azamoum,4
+Hassane Kamara,4
+Sebastien Puygrenier,4
+Luigi Glombard,4
+Raphael Cacer`es,4
+Samuel Gigot,4
+Baptiste Santamaria,4
+Julien Viale,4
+Dennis Oliech,4
+William Remy,4
+Terence Makengo,4
+Adrien Hunou,4
+Marcel Essombe,3
+Lois Diony,3
+Teji Savanier,3
+Gregory Berthier,3
+Mathieu Robail,3
+Ibrahima Tandia,3
+Nasser Chamed,3
+Thomas Ayasse,3
+Frederic Sammaritano,3
+Fousseyni Cisse,3
+Florian Raspentino,3
+Adama Ba,3
+Famara Diedhiou,3
+Yohann Rivi`ere,3
+Baptiste Martin,3
+Cedric Avinel,3
+Romain Thomas,3
+Romain Grange,3
+Livio Nabab,3
+Anthony Marin,3
+Yanis Mbombo,3
+Alexandre Mendy,3
+Ulrich NNomo,3
+Marvin Diop,3
+Chaouki Ben Saada,2
+Andy Delort,2
+Bagaliy Dabo,2
+Jerome Mombris,2
+Florian Fabre,2
+Sebastien Roudet,2
+Jean-Pascal Fontaine,2
+Anthony Goncalves,2
+Kevin Malcuit,2
+Remi Mulumba,2
+Thomas Mangani,2
+Panagiotis Vlachodimos,2
+Thibault Moulin,2
+Bryan Pele,2
+Gaetan Laborde,2
+Romain Saiss,2
+Pierrick Capelle,2
+Nicolas Verdier,2
+Souleymane Sawadogo,2
+Benoit Pedretti,2
+Mamadou Niang,2
+Guillaume Loriot,2
+Mamadou Samassa,2
+Johan Gastien,2
+Geoffrey Malfleury,2
+Pessalli,2
+Haris Belkebla,2
+Yoann Barbet,2
+Ali MMadi,2
+Romain Habran,2
+Amos Youga,2
+Ibrahim Amadou,2
+Gino van Kessel,2
+Jeremie Brechet,2
+Cedric Varrault,2
+Jerome Leroy,2
+Jean-Pascal Mignot,2
+Jonathan Martins Pereira,2
+Fabien Barrillon,2
+Rincon,2
+Chahir Belghazouani,2
+Matthieu Saunier,2
+Wilfried Louisy-Daniel,2
+Harry Novillo,2
+Joseph Mendes,2
+Denys Bain,2
+Samir Benmeziane,2
+Roderic Filippi,2
+Pierre Slidja,2
+Alexandre Vincent,2
+Flavien Tait,1
+Martin Mimoun,1
+Benjaloud Youssouf,1
+Cyriaque Rivieyran,1
+Damien Plessis,1
+Wilfried Moimbe,1
+Ousseynou Cisse,1
+Boris Mahon de Monaghan,1
+Fawzi Ouaamar,1
+Augusto,1
+Axel Ngando,1
+Thomas Guerbert,1
+Houssine Kharja,1
+Benoit Lesoimier,1
+Aurelien Montaroup,1
+Khaled Ayari,1
+Vincent Manceau,1
+Abdelhakim Omrani,1
+Maxime Blanc,1
+Ziri Hammar,1
+Quentin NGakoutou,1
+Jessy Pi,1
+Jean-Charles Castelletto,1
+Tobias Badila,1
+Jordan NKololo,1
+Arnold Garita,1
+Harisson Manzala,1
+Christophe Diedhiou,1
+Pablo Martinez,1
+Mouaad Madri,1
+Issam Chebake,1
+Vivian,1
+Adama Coulibaly,1
+Romain Sartre,1
+Benjamin Psaume,1
+Malik Couturier,1
+Jacques Salze,1
+Jonathan Lacourt,1
+Antoine Ponroy,1
+Ismael Traore,1
+Thiago Xavier,1
+Alexandre Cuvillier,1
+Yoann Court,1
+Maxime Le Marchand,1
+Leo Schwechlen,1
+Samuel Souprayen,1
+Ousmane NDiaye,1
+Johan Martial,1
+Pierre Gibaud,1
+Matthieu Sans,1
+Guy NGosso,1
+Bilal Hamdi,1
+Rafael Dias,1
+Maxime Bourgeois,1
+Pape Camara,1
+Ben Sangare,1
+Julien Delonglee,1
+Jonathan Nanizayamo,1
+Simon Falette,1
+Fabien Boyer,1
+Georges Gope-Fenepej,1
+Abdoul Aziz Kabore,1
+Abdelmalik Hsissane,1
+Yunis Abdelhamid,1
+Marco Ilaimaharitra,1
+Jimmy Cabot,1
+Ibrahima Seck,1
+Abel Khaled,1
+Samed Kilic,1
+Birama Toure,1
+Modou Diagne,1
+Isaac Mbenza,1
+Saif-Eddine Khaoui,1
+Tony Mauricio,1
+Tafsir Cherif,1
+Chris Bedia,1
+Ousmane Sidibe,1
+Lamine Ndao,1
+Thibault Cillard,1
+Hugo Boumous,1
+Alexander Meier,19
+Arjen Robben,17
+Robert Lewandowski,17
+Pierre-Emerick Aubameyang,16
+Bas Dost,16
+Thomas Muller,13
+Franco Di Santo,13
+Karim Bellarabi,12
+Shinji Okazaki,12
+Raffael,12
+Max Kruse,11
+Patrick Herrmann,11
+Heung-Min Son,11
+Kevin De Bruyne,10
+Haris Seferovic,10
+Lars Stindl,10
+Raul Bobadilla,10
+Anthony Ujah,10
+Eric Maxim Choupo-Moting,9
+Klaas-Jan Huntelaar,9
+Stefan Kiessling,9
+Mario Gotze,9
+Davie Selke,9
+Martin Harnik,9
+Stefan Aigner,9
+Nils Petersen,9
+Kevin Volland,8
+Hakan Calhanoglu,8
+Tobias Werner,8
+Joselu,8
+Roberto Firmino,7
+Marco Reus,7
+Daniel Caligiuri,7
+Naldo,7
+Anthony Modeste,7
+Daniel Ginczek,7
+Ivica Olic,7
+Julian Schieber,7
+Zlatko Junuzovic,6
+Ricardo Rodriguez,6
+Yunus Malli,6
+Salomon Kalou,6
+Paul Verhaegh,6
+Elias Kachunga,6
+Josip Drmic,6
+Vladimir Darida,6
+Franck Ribery,5
+Ivan Perisic,5
+Shinji Kagawa,5
+Hiroshi Kiyotake,5
+Bastian Schweinsteiger,5
+Christian Gentner,5
+Marcel Risse,5
+Matthias Lehmann,5
+Ja-Cheol Koo,5
+Max Meyer,5
+Eugen Polanski,5
+Jonathan Schmid,4
+Fin Bartels,4
+Anis Ben-Hatira,4
+Adam Szalai,4
+Johannes Geis,4
+Sebastian Rudy,4
+Maximilian Arnold,4
+Moritz Stoppelkamp,4
+Lukas Rupp,4
+Julian Brandt,4
+Rafael van der Vaart,4
+Roy Beerens,4
+Mike Frantz,4
+Tarik Elyounoussi,4
+Admir Mehmedi,4
+Alexander Madlung,4
+Daniel Didavi,4
+Pierre-Michel Lasogga,4
+Valentin Stocker,3
+Jimmy Briand,3
+Halil Altintop,3
+Henrikh Mkhitaryan,3
+Marc Stendera,3
+Filip Kostic,3
+Tranquillo Barnetta,3
+Ilkay Gundogan,3
+Yuya Osako,3
+Andre Hahn,3
+Zoltan Stieber,3
+Florian Klein,3
+Ronny,3
+Sven Schipplock,3
+Stefan Bell,3
+Sebastian Prodl,3
+Elkin Soto,3
+Tim Matavz,3
+Theodor Gebre Selassie,3
+Ciro Immobile,3
+Timo Werner,3
+Leroy Sane,3
+Jonas Hofmann,3
+Alban Meha,3
+Gojko Kacar,3
+Gonzalo Castro,2
+Alexandru Maxim,2
+Sebastian Rode,2
+Jairo Samperio,2
+Christian Fuchs,2
+Xabi Alonso,2
+Marco Russ,2
+Marcell Jansen,2
+Ibrahima Traore,2
+Felix Klaus,2
+Pawel Olkowski,2
+Pierre-Emile Hojbjerg,2
+Branimir Hrgota,2
+Philipp Lahm,2
+Uwe Hunemeier,2
+Assani Lukimya,2
+Srdjan Lakic,2
+Marcelo,2
+Adrian Ramos,2
+Christoph Kramer,2
+Lucas Piazon,2
+Luiz Gustavo,2
+Oscar Wendt,2
+Ragnar Klavan,2
+Sami Allagui,2
+Mario Vrancic,2
+Havard Nordtveit,2
+Kyriakos Papadopoulos,2
+David Alaba,2
+Artur Sobiech,2
+Julian Draxler,2
+Granit Xhaka,2
+Tin Jedvaj,2
+Aaron Hunt,2
+Sejad Salihovic,2
+Benedikt Howedes,2
+Mats Hummels,2
+Roman Neustadter,2
+Neven Subotic,2
+Joel Matip,2
+Robin Knoche,2
+Jannik Vestergaard,2
+Jonas Hector,2
+Salif Sane,2
+Marc-Oliver Kempf,2
+Takashi Inui,1
+Thorgan Hazard,1
+Pirmin Schwegler,1
+Fabian Johnson,1
+Vieirinha,1
+Bastian Oczipka,1
+Nicolai Muller,1
+Suleyman Koc,1
+Pablo de Blasis,1
+Mitchell Weiser,1
+Lars Bender,1
+Alexander Esswein,1
+Oliver Sorg,1
+Andre Schurrle,1
+Kevin Vogt,1
+Leonardo Bittencourt,1
+Artjoms Rudnevs,1
+Maximilian Philipp,1
+Levin Oztunali,1
+Marcel Ndjeng,1
+Georg Niedermeier,1
+Nikola Djurdjic,1
+Timothy Chandler,1
+Stefan Kutschke,1
+Marvin Bakalorz,1
+Marco Hoger,1
+Edgar Prib,1
+Genki Haraguchi,1
+Moritz Leitner,1
+Xherdan Shaqiri,1
+Christian Gunter,1
+Wendell,1
+Simon Rolfes,1
+Mahir Saglik,1
+Jan-Ingwer Callsen-Bracker,1
+Daniel Baier,1
+Jens Wemmer,1
+Niko Bungert,1
+Junior Diaz,1
+Daniel Schwaab,1
+Jens Hegeler,1
+Caiuby,1
+Nico Schulz,1
+Erik Durm,1
+Gotoku Sakai,1
+Dominik Kohr,1
+Yannick Gerhardt,1
+Juan Bernat,1
+Alejandro Galvez,1
+Bard Finne,1
+Christian Schulz,1
+Markus Feulner,1
+Nelson Valdez,1
+Johnny Heitinga,1
+Roel Brouwers,1
+Peter Niemeyer,1
+Sascha Molders,1
+Leon Andreasen,1
+Emir Spahic,1
+Nuri Sahin,1
+Sokratis,1
+Nicklas Bendtner,1
+Slobodan Rajkovic,1
+Ceyhun Gulselam,1
+Sebastian Langkamp,1
+Didier Ya Konan,1
+Dominic Maroh,1
+Philipp Bargfrede,1
+Stefan Reinartz,1
+Omer Toprak,1
+Christian Clemens,1
+Medhi Benatia,1
+Tony Jantschke,1
+Marc Vucinovic,1
+Ermin Bicakcic,1
+Marwin Hitz,1
+Timm Klose,1
+Izet Hajrovic,1
+Immanuel Hohn,1
+Simon Zoller,1
+Luca Caldirola,1
+Vaclav Kadlec,1
+Josuha Guilavogui,1
+Levent Aycicek,1
+Marnon Busch,1
+Sebastian Kerk,1
+John Anthony Brooks,1
+Marvin Ducksch,1
+Melvyn Lorenzen,1
+Niklas Sule,1
+Carlos Gruezo,1
+Cleber Reis,1
+Deyverson,1
+Rouwen Hennings,17
+Simon Terodde,16
+Florian Niederlechner,15
+Sebastian Polter,14
+Charlison Benschop,13
+Rubin Okotie,13
+Marc Schnatterer,11
+Yussuf Poulsen,11
+Joel Pohjanpalo,11
+Edmond Kapllani,11
+Dominik Stroh-Engel,10
+Stanislav Sestak,9
+Jakub Sylvestr,9
+Stefan Lex,9
+Aziz Bouhaddouz,9
+Lukas Hinterseer,9
+Robert Leipertz,8
+Michael Liendl,8
+Dominik Kaiser,8
+Havard Nielsen,8
+Andrew Wooten,8
+Pascal Gross,7
+Vincenzo Grifo,7
+Mathew Leckie,7
+Damir Kreilach,7
+Michael Gregoritsch,7
+Zlatko Dedic,7
+Hiroki Yamada,6
+Jurgen Gjasula,6
+Srdjan Lakic,6
+Collin Quaner,6
+Romain Bregerie,6
+Philipp Hofmann,6
+Guido Burgstaller,6
+Alexander Ring,6
+Daniel Adlung,5
+Alessandro Schopf,5
+Manuel Torres,5
+Marco Terrazzino,5
+Ilian Micanski,5
+Kacper Przybylko,5
+Lennart Thy,5
+Benjamin Kessel,5
+Tom Weilandt,5
+Moritz Hartmann,5
+Reinhold Yabo,5
+Robert Zulj,5
+Emil Berggreen,5
+Christopher Nothe,5
+Hanno Behrens,5
+Tobias Kempe,4
+Romario Kortzorg,4
+Marco Stiepermann,4
+Niko Giesselmann,4
+Maximilian Thiel,4
+Aytac Sulu,4
+Ken Reichel,4
+Erwin Hoffer,4
+Christopher Quiring,4
+Jean Zimmer,4
+Soren Brandy,4
+Lasse Sobiech,4
+Stefan Mugosa,4
+Daniel Frahn,4
+John Verhoek,4
+Willi Orban,4
+Goran Sukalo,4
+Leon Balogun,4
+Seung-Woo Ryu,4
+Marcel Heller,3
+Niclas Fullkrug,3
+Hendrick Zuck,3
+Yusuke Tasaka,3
+Valdet Rama,3
+Mirko Boland,3
+Markus Steinhofer,3
+Andreas Ludwig,3
+Simon Zoller,3
+Danny Blum,3
+Peniel Mlapa,3
+Jerome Gondorf,3
+Rico Benatelli,3
+Stipe Vucur,3
+Dennis Kruppke,3
+Marvin Matip,3
+Patrick Mayer,3
+Marcel Halstenberg,3
+Bobby Wood,3
+Alexander Bieler,3
+Orhan Ademi,3
+Martin Kobylanski,3
+Odise Roshi,3
+Mikael Forssell,3
+Marc Rzatkowski,3
+Joni Kauko,3
+Georg Teigl,3
+Dennis Daube,2
+Axel Bellinghausen,2
+Karim Matmour,2
+Mario Engels,2
+Philip Heise,2
+Alfredo Morales,2
+Chris Lowe,2
+Benjamin Kohler,2
+Sebastian Kerk,2
+Sebastian Maier,2
+Ben Halloran,2
+Frank Loning,2
+Dominick Drexler,2
+Patrick Schonfeld,2
+Kevin Stoger,2
+Soren Gonther,2
+Jan Hochscheidt,2
+Dimitrij Nazarov,2
+Marcel Gaus,2
+Gary Kagelmacher,2
+Arvydas Novikovas,2
+Selcuk Alibaz,2
+Steven Skrzybski,2
+Joshua Kimmich,2
+Jannik Bandowski,2
+Marius Wolf,2
+Nicky Adler,2
+Seyi Olajengbesi,2
+Daniel Gordon,2
+Fabian Muller,2
+Nejmeddin Daghfous,2
+Robert Koch,2
+Daniel Candeias,2
+Smail Morabit,2
+Manuel Stiefler,2
+Kevin Kraus,2
+Bjorn Jopek,2
+Amin Younes,2
+Mushaga Bakenga,2
+Niklas Stark,2
+Abdul Rahman Baba,2
+Kyoung-Rok Choi,2
+Rene Klingbeil,2
+Oliver Barth,2
+Leonardo,2
+Oliver Fink,2
+Tim Gohlert,2
+Tobias Weis,2
+Manuel Gulde,2
+Yannick Stark,2
+Benjamin Hubner,2
+Clemens Fandrich,2
+Terrence Boyd,2
+Waldemar Sobota,2
+Mohamed Amine Aoudia,2
+Sebastian Jacob,2
+Ihlas Bebou,2
+Fabian Schonheim,1
+Raffael Korte,1
+Marcel Titsch-Rivero,1
+Anthony Losilla,1
+Marco Thiede,1
+Marco Sailer,1
+Michael Parensen,1
+Milan Ivana,1
+Markus Karl,1
+Matthias Morys,1
+Lukas Schmitz,1
+Kerem Demirbay,1
+Maximilian Wittek,1
+Sergio da Silva Pinto,1
+Hanno Balitsch,1
+Javier Pinola,1
+Jan-Philipp Kalla,1
+Guillermo Vallori,1
+Vegar Eggen Hedenstad,1
+Mathis Bolly,1
+Thomas Eisfeld,1
+Johannes Wurtz,1
+Daniel Buballa,1
+Korbinian Vollmann     ,1
+Phil Ofosu-Ayeh,1
+Fabio Kaufmann,1
+Ranisav Jovanovic,1
+Ronny Konig,1
+Enis Alushi,1
+Jan Rosenthal,1
+Marc Pfitzner,1
+Arne Feick,1
+Danny Latza,1
+Timo Gebhart,1
+Leandro Grech,1
+Adriano Grimaldi,1
+Christopher Buchtmann,1
+Nik Omladic,1
+Florian Hubner,1
+Mateusz Klich,1
+Bruno Soares,1
+Rodri,1
+Sebastian Griesbeck,1
+Danilo Soares,1
+Lukas Klostermann,1
+Bjorn Schlicke,1
+Fabio Coltorti,1
+Alper Bagceci,1
+Rene Gartler,1
+Sebastian Schachten,1
+Niklas Hoheneder,1
+Solomon Okoronkwo,1
+Andre Mijatovic,1
+Sebastian Freis,1
+Tobias Levels,1
+Andreas Hofmann,1
+Manuel Junglas,1
+Martin Mannel,1
+Andre Hainault,1
+Faton Toski,1
+Even Hovland,1
+Mathias Wittek,1
+Stephan Hain,1
+Fabian Holland,1
+Christopher Schindler,1
+Rodnei,1
+Florian Trinks,1
+Ilie Sanchez,1
+Zsolt Korcsmar,1
+Joan Oumari,1
+Toni Leistner,1
+Marco Rapp,1
+Denis Thomalla,1
+Fabian Weiss,1
+Karl-Heinz Lappe,1
+Krisztian Simon,1
+Tom Beugelsdijk,1
+Onur Bulut,1
+Selim Gunduz,1
+Erik Thommy,1
+Dave Bulthuis,1
+Max Christiansen,1
+Yordy Reyna,1
+Jeronimo Barrales,17
+Konstantinos Mitroglou,16
+Alejandro Dominguez,15
+Marcus Berg,13
+Nikolaos Karelis,13
+Stefano Napoleoni,13
+Nikolaos Kaltsas,12
+Igor,11
+Facundo Pereyra,11
+Pantelis Kapetanos,11
+Stefanos Athanasiadis,11
+Dimitrios Kolovos,11
+El Fardou Ben Nabouhane,10
+Cleyton,10
+Apostolos Giannou,10
+Vangelis Mantzios,9
+Alexandros Kontos,8
+Cristian Chavez,8
+Michalis Manias,8
+Brana Ilic,7
+Javier Umbides,7
+Robert Mak,7
+Mladen Petric,7
+Pablo Mazza,7
+Dimitrios Papadopoulos,7
+Konstantinos Fortounis,7
+Christos Tzanis,7
+Juanma,7
+David Torres,6
+Karim Soltani,6
+Mohamed Youssouf,6
+Nicolao Dumitru,6
+Marko Markovski,6
+Lucas Villafanez,6
+Jorge Benitez,6
+Erick Moreno,6
+Adrian Lucero,5
+Olivier Boumal,5
+Sasa Kajkut,5
+Javier Campora,5
+Carlos Milhazes,5
+Bruno Chalkiadakis,5
+Facundo Parra,5
+Andre Alves,5
+Leandro Kappel,5
+Martin Rolle,4
+Danijel Pranjic,4
+Jose Maria Cases,4
+Taxiarchis Fountas,4
+Ibrahim Afellay,4
+Javito,4
+Athanasios Papazoglou,4
+Vladan Milosavljev,4
+Pajtim Kasami,4
+Abdul Ajagun,4
+Giannis Gianniotas,4
+Noe Acosta,4
+Antonis Petropoulos,4
+Georgios Makris,4
+Emmanuel Kone,4
+Leozinho,4
+Giorgi Merebashvili,4
+Nicolas Diguiny,4
+Ergys Kace,4
+Themistoklis Tzimopoulos,4
+Marcelinho,4
+Vasil Shkurtaj,4
+Nicolas Martinez,3
+Dimitrios Salpingidis,3
+Viktor Klonaridis,3
+Razvan Rat,3
+Nicolas Fernandez,3
+Stavros Tsoukalas,3
+Mathieu Dossevi,3
+Gilvan Gomes,3
+Nikolaos Korovesis,3
+Khalifa Sankare,3
+Sebastian Nayar,3
+Xavier Tomas,3
+Georgios Manousos,3
+Luka Milunovic,3
+Abdul Aziz Tetteh,3
+Christos Lisgaras,3
+Vladimir Djilas,3
+Franco Jara,3
+Thomas Nazlidis,3
+Angelos Chanti,3
+Giannis Skondras,2
+Zeca,2
+Anastasios Bakasetas,2
+Simon Vukcevic,2
+Luka Milivojevic,2
+Jimmy Durmaz,2
+Anastasios Karamanos,2
+Mayron George,2
+Diego Bejarano,2
+Giannis Maniatis,2
+Kaspars Gorkss,2
+Andreas Lampropoulos,2
+Alexios Michail,2
+Daniel Adejo,2
+Pavlos Mitropoulos,2
+Georgios Kousas,2
+Alexandros Vergonis,2
+Christos Mingas,2
+Nikolaos Lazaridis,2
+Christian Noboa,2
+Anastasios Avlonitis,2
+Anastasios Lagos,2
+Ousmane Coulibaly,2
+Mathieu Gomes,2
+Kevin,2
+Nikolaos Kaltsas,2
+Ilias Kotsios,2
+Vangelis Ikonomou,2
+David Fuster,2
+Miguel Vitor,2
+Juan Aguilera,2
+Dimitrios Diamantakos,2
+Dimitrios Goutas,2
+Omar Elabdellaoui,1
+Andreas Bouchalakis,1
+Vasilios Koutsianikoulis,1
+Pitu,1
+Theodoros Vasilakakis,1
+Raul Llorente,1
+Diamantis Chouchoumis,1
+Greg Houla,1
+Konstantinos Katsouranis,1
+Deniz Baykara,1
+Georgios Fotakis,1
+Pele,1
+Roberto Battion,1
+William Edjenguele,1
+Panagiotis Zorbas,1
+Andriy Bogdanov,1
+Savvas Tsabouris,1
+Alfredo Mejia,1
+Nikolaos Tsoumanis,1
+Kenan Bargan,1
+Chrysovalantis Kozoronis,1
+Raul Bravo,1
+Anastasios Tsokanis,1
+Esteban Solari,1
+Fanouris Goundoulakis,1
+Eduardo Brito,1
+Gordon Schildenfeld,1
+Efstratios Valios,1
+Rogerio Martins,1
+Elini Dimoutsos,1
+Athanasios Tsourakis,1
+Athanasios Dinas,1
+Delvin NDinga,1
+Juan Sanchez Sotelo,1
+Evripidis Giakos,1
+Elton Cale,1
+Yann Boe-Kane,1
+Charalampos Lykogiannis,1
+Georgios Katidis,1
+Dimitrios Kourbelis,1
+Fabio Tavares,1
+Michael Olaitan,1
+Vangelis Anastasopoulos,1
+Stathis Tavlaridis,1
+Henri Camara,1
+Christian Obodo,1
+Jonas Ivens,1
+Anestis Anastasiadis,1
+Melli,1
+Sokratis Fytanidis,1
+Hedwiges Maduro,1
+Matias Sanchez,1
+Antonio Ghomsi,1
+Fernando Usero,1
+Sotiris Balafas,1
+Stelios Malezas,1
+Dorin Goian,1
+Georgios Tzavellas,1
+Vladimir Dimitrovski,1
+Manolis Moniakis,1
+Andi Lila,1
+Borislav Jovanovic,1
+Alberto Botia,1
+Gevorg Ghazaryan,1
+Pape MBow,1
+Walter Iglesias,1
+Anastasios Papazoglou,1
+Ignacio Fideleff,1
+Carlos Caballero,1
+Dimitrios Chasomeris,1
+Aleksandar Noskovic,1
+Luis Bustamante,1
+Jordao Diogo,1
+Charalampos Pavlidis,1
+Alexandros Perogamvrakis,1
+Alan Pulido,1
+Stelios Marangos,1
+Paul Keita,1
+Manolis Nikolakakis,1
+Kyriakos Andreopoulos,1
+Konstantinos Triantafyllopoulos,1
+Georgios Giakoumakis,1
+Dimitrios Chatziisaias,1
+Memphis Depay,22
+Luuk de Jong,20
+Michiel Kramer,17
+Michael de Leeuw,17
+Mark Uth,15
+Tjaronn Chery,15
+Georginio Wijnaldum,14
+Adnane Tighadouini,14
+Hakim Ziyech,13
+Bertrand Traore,13
+Tom van Weert,13
+Bartholomew Ogbeche,13
+Colin Kazim-Richards,11
+Steven Berghuis,11
+Sebastien Haller,11
+Luciano Slagveer,11
+Arkadiusz Milik,11
+Tomas Necid,11
+Stef Nijland,11
+Nemanja Gudelj,11
+Samuel Armenteros,11
+Marko Vejinovic,10
+Bryan Linssen,10
+Jeff Stans,10
+Luc Castaignos,10
+Anwar El Ghazi,9
+Valeri Qazaishvili,9
+Jesus Corona,9
+Aron Johannsson,9
+Ruud Boymans,9
+Lasse Schone,8
+Roland Alberg,8
+Jesper Drost,8
+Wout Weghorst,8
+Jens Toornstra,8
+Sam Larsson,8
+Zakaria Labyad,8
+Albert Rusnak,7
+Edouard Duplan,7
+Adam Maher,7
+Ben Sahar,7
+Lex Immers,7
+Markus Henriksen,7
+Elvis Manu,7
+Kolbeinn Sigthorsson,7
+Thomas Bruns,7
+Sander van de Streek,7
+Mitchell te Vrede,7
+Luciano Narsingh,6
+Davy Klaassen,6
+Abiola Dauda,6
+Jurgen Locadia,6
+Mustafa Saymak,6
+Yassine Ayoub,5
+Ali Messaoud,5
+Youness Mokhtar,5
+Ricardo Kishna,5
+Oussama Tannane,5
+Davy Propper,5
+Muamer Tankovic,5
+Robbie Haemhouts,5
+Erik Falkenburg,5
+Mike van Duinen,5
+Ben Rienstra,5
+Erik Bakker,5
+Renato Tapia,5
+Bruno Andrade,4
+Iliass Bel Hassani,4
+Adil Auassar,4
+Jean-Paul Boetius,4
+Martijn Barto,4
+Robert Muhren,4
+Daley Sinkgraven,4
+Denni Avdic,4
+Mikhael Rosheuvel,4
+Maikel van der Werff,4
+Mats Seuntjens,4
+Joel Veltman,4
+Anass Achahbar,4
+Alex Schalk,4
+Ryan Thomas,3
+Rubio Rubin,3
+Denys Oliynyk,3
+Jeffrey Rijsdijk,3
+Simon Poulsen,3
+Andreas Bjelland,3
+Mart Lieder,3
+Robert Braber,3
+Eric Botteghin,3
+Kyle Ebecilio,3
+Christian Kum,3
+Michiel Hemmen,3
+Xander Houtkoop,3
+Gevero Markiet,3
+Jeffrey Bruma,3
+Jeffry Fortes,3
+Stipe Perica,3
+Willem Janssen,3
+Marnix Kolder,3
+Mathias Gehrt,3
+Viktor Fischer,3
+Simon Thern,3
+Bart Vriends,3
+Giovanni Korte,3
+Carlo de Reuver,3
+Jetro Willems,2
+Dabney dos Santos,2
+Jarchinio Antonia,2
+Joey van den Berg,2
+Jeffrey Sarpong,2
+Jordy Clasie,2
+Terell Ondaan,2
+Daryl van Mieghem,2
+Joris van Overeem,2
+Ninos Gouriye,2
+Daniel de Ridder,2
+Demy de Zeeuw,2
+Luigi Bruins,2
+Daan Bovenberg,2
+Lucas Andersen,2
+Jody Lukoki,2
+Henk Veerman,2
+Stijn Wuytens,2
+Florian Jozefzoon,2
+Thomas Lam,2
+Kristoffer Peterson,2
+Renato Ibarra,2
+Deniz Turuc,2
+Karim El Ahmadi,2
+Oleksandr Yakovenko,2
+Wesley Verhoek,2
+Nacer Barazite,2
+Wilson Eduardo,2
+Jeroen Veldmate,2
+Ryan Koolwijk,2
+Jules Reimerink,2
+Danny Hoesen,2
+Kelvin Leerdam,2
+Fernando Lewis,2
+Guus Hupperts,2
+Ricardo van Rhijn,2
+Mark Diemers,2
+Jaroslav Navratil,2
+Sean Klaiber,2
+Everon Pisas,2
+Orlando Engelaar,2
+Jan-Arie van der Heijden,2
+Guyon Fernandez,2
+Nick Viergever,2
+Danny Verbeek,2
+Jerson Cabral,2
+Mike van der Hoorn,2
+Brahim Darri,2
+Sebastian Steblecki,2
+Kevin Vermeulen,2
+Wesley Hoedt,2
+Robin Gosens,2
+Bart van Hintum,1
+Kamohelo Mokotjo,1
+Jordan Botaka,1
+Rochdi Achenteh,1
+Jop van der Linden,1
+Etienne Reijnen,1
+Jeffrey Gouweleeuw,1
+Mark-Jan Fledderus,1
+Ramon Zomer,1
+Guram Kashia,1
+Freek Heerkens,1
+Uros Matic,1
+Mark van der Maarel,1
+Mattias Johansson,1
+Dejan Meleg,1
+Sheraldo Becker,1
+Mimoun Mahi,1
+Frank van der Struijk,1
+Andres Guardado,1
+Thomas Kristensen,1
+Nick van der Velden,1
+Rasmus Lindgren,1
+Bram van Polen,1
+Josimar Lima,1
+Sander Fischer,1
+Rick ten Voorde,1
+Charlton Vicento,1
+Santiago Arias,1
+Wallace,1
+Lesly de Sa,1
+Kingsley Boateng,1
+Kenny van der Weg,1
+Soufian Moro,1
+Danny Bakker,1
+Richairo Zivkovic,1
+Sven van Beek,1
+Anthony Biekman,1
+Jeff Hardeveld,1
+Bart Ramselaar,1
+Joost Broerse,1
+Gianni Zuiverloon,1
+Ruben Schaken,1
+Rasmus Bengtsson,1
+Rihairo Meulens,1
+Jukka Raitala,1
+Ricky van Haaren,1
+Glynor Plet,1
+Sjoerd Overgoor,1
+Dries Wuytens,1
+Lerin Duarte,1
+Thulani Serero,1
+Lorenzo Burnet,1
+Torgeir Borven,1
+Marten de Roon,1
+Nicolas Isimat-Mirin ,1
+Leon de Kogel,1
+Mawouna Amevor,1
+Erik Cummins,1
+Karim Rekik,1
+Sven Nieuwpoort,1
+Joey Pelupessy,1
+Yoell van Nieff,1
+Uros Djurdjevic,1
+Khalid Karami,1
+Simon Tibbling,1
+Jorrit Hendrix,1
+Joshua Brenet,1
+Riechedly Bazoer,1
+Elson Hooi,1
+Gervane Kastaneer,1
+Bilal Ould-Chikh,1
+Derrick Luckassen,1
+Joachim Andersen,1
+Shadrach Eghan,1
+Gyrano Kerk,1
+Rodney Antwi,1
+Richie Towell,25
+Karl Sheppard,13
+Vinny Faherty,12
+Michael Drennan,12
+David McMillan,12
+Enda Curran,12
+Dinny Corcoran,12
+Jake Keegan,12
+Christopher Forrester,11
+Brandon Miele,11
+Billy Dennehy,10
+Ismahil Akinade,10
+Mark Timlin,10
+Danny North,9
+Aaron Greene,9
+Dean Kelly,9
+Daryl Horgan,9
+Mark OSullivan,9
+Ian Turner,8
+Ciaran Kilduff,7
+Conan Byrne,7
+David OSullivan,7
+Lee Duffy,7
+David Cassidy,6
+Chris Fagan,6
+Jake Kelly,6
+Kieran Marty Waters,6
+Brian Gartland,6
+Dean Clarke,6
+Morten Nielsen,5
+James Chambers,5
+Ronan Finn,5
+Gary Shaw,5
+Mark Salmon,5
+Steven Beattie,5
+Adam Evans,5
+Sean Thornton,4
+Sander Puri,4
+Killian Brennan,4
+Anthony Elding,4
+Michael Daly,4
+Anthony Murphy,4
+Dane Massey,4
+Shane Duggan,4
+Tiarnan Mulvenna,4
+Maxime Blanchard,4
+Derek Prendergast,4
+Paul OConor,4
+Gary Shanahan,4
+Padraic Cunningham,4
+Ross Gaynor,3
+Kevin OConnor,3
+Pat Kavanagh,3
+Darren Dennehy,3
+Peter McGlynn,3
+Stephen Rice,3
+Darren Meenan,3
+Daryl Kavanagh,3
+Ryan Connolly,3
+Sean Russell,3
+Keith Buckley,3
+John Mountney,3
+Gavin Brennan,3
+Morgan Langley,3
+David Scully,3
+Barry McNamee,3
+Ayman Ben Mohamed,3
+Ciaran OConnor,3
+Colin Healy,2
+Sean OConnor,2
+Alan Bennett,2
+John OFlynn,2
+Sam Oji,2
+Stephen ODonnell,2
+Robbie Williams,2
+Shane Tracy,2
+Keith Treacy,2
+Gary McCabe,2
+Kieran Djilali,2
+Greg Bolger,2
+Robbie Creevy,2
+Pat Flynn,2
+Philip Lowry,2
+Dean Jarvis,2
+John Sullivan,2
+Stephen Dooley,2
+Mark Griffin,2
+Ryan McEvoy,2
+David Cawley,2
+Graham Kelly,2
+Danny Morrissey,2
+Hugh Douglas,2
+Chris Lyons,2
+Ryan Curran,2
+Adam Hanlon,2
+Garry Buckley,2
+Kaleem Simon,2
+Jamie McGrath,2
+Lloyd Buckley,2
+Stephen McPhail,1
+Mark Rossiter,1
+Tim Clancy,1
+Jason Byrne,1
+Patrick Cregg,1
+Liam Kearney,1
+Dan Murray,1
+Alan Keane,1
+John Russell,1
+Lorcan Fitzgerald,1
+Karl Moore,1
+Alan Byrne,1
+Noel Haverty,1
+Dave Mulcahy,1
+Emeka Onwubiko,1
+Pat Sullivan,1
+Gavin Peers,1
+Jason Molloy,1
+Sean Harding,1
+Conor Kenna,1
+Alan McNally,1
+Keith Ward,1
+Sean Houston,1
+Don Cowan,1
+Eoin Wearen,1
+Patrick McEleney,1
+Gavan Holohan,1
+Andrew Boyle,1
+Ryan Brennan,1
+Lee Lynch,1
+Neil Yadolahi,1
+Seanan Clucas,1
+Cathal Brady,1
+Daniel Ledwith,1
+Kealan Dillon,1
+Sean Gannon,1
+David OLeary,1
+Jason Hughes,1
+Sean Brennan,1
+Jason Marks,1
+Kevin Devaney,1
+Lorcan Shannon,1
+Luke Byrne,1
+Kevin OConnor,1
+Robert Cornwall,1
+Darragh Rainsford,1
+Robert Lehane,1
+Rhys Gorman,1
+Gareth McCaffrey,1
+Ruairi Keating,1
+Adam Whelan,1
+Gary Armstrong,1
+Ronan Curtis,1
+Paudie OConnor,1
+Mauro Icardi,22
+Luca Toni,22
+Carlos Tevez,20
+Gonzalo Higuain,18
+Jeremy Menez,16
+Domenico Berardi,15
+Manolo Gabbiadini,15
+Antonio Di Natale,14
+Paulo Dybala,13
+Miroslav Klose,13
+Iago Falque,13
+Fabio Quagliarella,13
+Jose Callejon,11
+Simone Zaza,11
+Antonio Candreva,10
+Franco Vazquez,10
+Felipe Anderson,10
+Massimo Maccarone,10
+Marco Parolo,10
+Cyril Thereau,10
+Gregoire Defrel,9
+Eder,9
+Maxi Lopez,9
+Alberto Paloschi,9
+Stefano Mauri,9
+Mauricio Pinilla,9
+Luca Rigoni,9
+Rodrigo Palacio,8
+Paul Pogba,8
+Francesco Totti,8
+Franco Brienza,8
+Alvaro Morata,8
+Josip Ilicic,8
+Filip Djordjevic,8
+Adem Ljajic,8
+German Denis,8
+Mattia Destro,8
+Marek Hamsik,7
+Alessandro Matri,7
+Arturo Vidal,7
+Marco Sau,7
+Giacomo Bonaventura,7
+Riccardo Saponara,7
+Leonardo Pavoletti,7
+Kamil Glik,7
+Khouma Babacar,7
+Sergio Pellissier,7
+Fernando Llorente,7
+Gonzalo Rodriguez,7
+Dries Mertens,6
+Fredy Guarin,6
+Andrea Bertolacci,6
+Keisuke Honda,6
+Juanito Gomez,6
+Diego Farias,6
+Mohamed Salah,6
+Andrea Belotti,6
+Duvan Zapata,6
+Miralem Pjanic,5
+Maxi Moralez,5
+Mateo Kovacic,5
+Nicola Sansone,5
+Radja Nainggolan,5
+Hernanes,5
+Alessandro Florenzi,5
+Daniel Osvaldo,5
+Albin Ekdal,5
+MBaye Niang,5
+Manuel Pucciarelli,5
+Antonio Cassano,5
+Joao Pedro,5
+Nico Lopez,5
+Alejandro Rodriguez,5
+Lorenzo Tonelli,5
+Simone Missiroli,4
+Diego Perotti,4
+Andrea Pirlo,4
+Danilo Avelar,4
+Riccardo Meggiorini,4
+Roberto Soriano,4
+Luis Muriel,4
+Lorenzo De Silvestri,4
+Juan Cuadrado,4
+Roberto Pereyra,4
+Alberto Gilardino,4
+Mario Gomez,4
+Stefano Okaka,4
+Luca Antonelli,4
+Giampaolo Pazzini,4
+Raffaele Palladino,4
+Duje Cop,4
+Levan Mchedlidze,4
+Senad Lulic,3
+Claudio Marchisio,3
+Stephan Lichtsteiner,3
+Bruno Peres,3
+Omar El Kaddouri,3
+Alejandro Gomez,3
+Panagiotis Tachtsidis,3
+Stephan El Shaarawy,3
+Saphir Taider,3
+Josef Martinez,3
+Lucas Biglia,3
+Luca Rossettini,3
+Paul-Jose Mpoku,3
+Marco Benassi,3
+Bruno Fernandes,3
+Antonio Nocerino,3
+Jonathan de Guzman,3
+Silvestre Varela,3
+Pedro Obiang,3
+Carlos Carbonero,3
+Davide Zappacosta,3
+Nigel de Jong,3
+Leonardo Bonucci,3
+Paolo De Ceglie,3
+Richmond Boakye,3
+Francesco Acerbi,3
+Daniele Rugani,3
+Ivaylo Chochev,3
+Mati Fernandez,2
+Edgar Barreto,2
+Silvan Widmer,2
+Gervinho,2
+Joaquin,2
+Massimo Coda,2
+Borja Valero,2
+Victor Ibarbo,2
+Andrea Cossu,2
+Manuel Pasqual,2
+Lorenzo Insigne,2
+Achraf Lazaar,2
+Matias Vecino,2
+Samuel Etoo,2
+Philippe Mex`es,2
+Emiliano Moretti,2
+Daniele De Rossi,2
+Antonio Floro Flores,2
+Mariano Izco,2
+Ervin Zukanovic,2
+Milan Djuric,2
+Juraj Kucka,2
+Tino Costa,2
+Juan Iturbe,2
+Jacopo Sala,2
+Artur Ionita,2
+Daniele Baselli,2
+Alessio Romagnoli,2
+Jose Mauri,2
+Seydou Keita,2
+Francesco Tavano,2
+Francesco Lodi,2
+Vangelis Moras,2
+Matteo Darmian,2
+Stefan Savic,2
+Federico Barba,2
+Robin Quaison,2
+Godfred Donsah,2
+Daniele Gastaldello,2
+Sulley Muntari,2
+Giuseppe Biava,2
+Guglielmo Stendardo,2
+Alessandro Diamanti,2
+Vasilis Torosidis,2
+Davide Succi,2
+Sergio Floccari,2
+Danilo,2
+Andrea Ranocchia,2
+Andi Lila,2
+Jose Maria Basanta,2
+Seydou Doumbia,2
+Giannis Fetfatzidis,2
+Molla Wague,2
+Emil Hallfredsson,1
+Alexander Farnerud,1
+Alessio Cerci,1
+Lazaros Christodoulopoulos,1
+Giuseppe Vives,1
+Allan,1
+Angelo Palombo,1
+Lukas Podolski,1
+Panagiotis Kone,1
+Ishak Belfodil,1
+Marcos Alonso,1
+Marco van Ginkel,1
+Patrice Evra,1
+Francesco Magnanelli,1
+Javier Saviola,1
+Bosko Jankovic,1
+Giovanni Marchese,1
+Daniele Croce,1
+Daniele Dessena,1
+Milan Badelj,1
+Ivan Radovanovic,1
+Nenad Tomovic,1
+Cristobal Jorquera,1
+Jasmin Kurtic,1
+Xherdan Shaqiri,1
+Maxime Lestienne,1
+Simone Verdi,1
+Alfred Duncan,1
+Federico Bernardeschi,1
+Keita Balde,1
+Cristian Zaccardo,1
+Emmanuel Cascione,1
+Simone Pepe,1
+Maicon,1
+Daniele Conti,1
+Alessandro Lucarelli,1
+Juan Vargas,1
+Jose Holebas,1
+Andrea Poli,1
+Mato Jajalo,1
+Michel Morganella,1
+Adil Rami,1
+Gonzalo Bergessio,1
+Martin Caceres,1
+Sebastien De Maio,1
+Mapou Yanga-Mbiwa,1
+Ze Eduardo,1
+Dejan Lazarevic,1
+Kalidou Koulibaly,1
+Emmanuel Badu,1
+Thomas Heurtaux,1
+David Lopez,1
+Ogenyi Onazi,1
+Marcelo Brozovic,1
+Mattia Valoti,1
+Giampiero Pinzi,1
+Stefano Lucchini,1
+Amauri,1
+Luca Antonini,1
+Fernando Torres,1
+Alex,1
+Alex Geijo,1
+Felipe,1
+Gokhan Inler,1
+Nemanja Vidic,1
+Mounir El Hamdaoui,1
+Giulio Migliaccio,1
+Roberto Vitiello,1
+Ederson,1
+Mounir Obbadi,1
+Santiago Gentiletti,1
+Armando Izzo,1
+Migjen Basha,1
+Andrea Costa,1
+Nico Pulzetti,1
+Joel Obi,1
+Yohan Benalouane,1
+Guido Marilungo,1
+Ezequiel Munoz,1
+Marcelo Estigarribia,1
+Miguel Britos,1
+Davide Astori,1
+Giancarlo Gonzalez,1
+Afriyie Acquah,1
+Franco Signorelli,1
+Leandro Paredes,1
+Stefano Sturaro,1
+Luca Rizzo,1
+Rodrigo Aguirre,1
+Stipe Perica,1
+Pablo Granoche,19
+Andrea Catellani,19
+Andrea Cocco,19
+Emanuele Calai`o,18
+Riccardo Maniero,18
+Camillo Ciano,17
+Ettore Marchi,17
+Luigi Castaldo,16
+Daniele Vantaggiato,15
+Jerry Mbakogu,15
+Federico Dionisi,14
+Federico Melchiorri,14
+Andrea Caracciolo,14
+Diego Falcinelli,14
+Daniel Ciofani,13
+Davis Curiale,13
+Felipe Avenatti,11
+Daniele Cacia,11
+Daniele Corvia,11
+Luca Siligardi,10
+Ferdinando Sforzini,10
+Birkir Bjarnason,10
+Marco Sansovini,10
+Fabio Ceravolo,10
+Francesco Caputo,10
+Matteo Mancosu,10
+Alessandro Sgrigna,9
+Claudio Coralli,9
+Ahmad Benali,9
+Karim Laribi,8
+Alessandro Rosina,8
+Giuseppe De Luca,8
+Ernesto Torregrossa,8
+Aniello Cutolo,8
+Mame Thiam,8
+Federico Viviani,8
+Antonio Piccolo,8
+Giovanni Abate,8
+Neto,8
+Antonio Di Gaudio,8
+Federico Gerardi,7
+Arturo Lupoli,7
+Gaetano Monachello,7
+Andrea Mazzarani,7
+Cristian Pasquato,6
+Gianmario Comi,6
+Francesco Stanco,6
+Ledian Memushaj,6
+Andrey Galabinov,6
+Niccol`o Giannetti,6
+Lucas Castro,6
+Roberto Inglese,6
+Matteo Ardemagni,6
+Valeri Bojinov,6
+Federico Moretti,6
+Alessio Sestu,5
+Leonardo Gatto,5
+Matteo Politano,5
+Antonino Barill`a,5
+Mario Situm,5
+Valerio Verre,5
+Kevin Lasagna,5
+Osarimen Ebagua,5
+Christian Terlizzi,5
+Riccardo Gagliolo,5
+Gaetano Vastola,5
+Gianluca Sansone,5
+Martino Borghese,5
+Marcello Trotta,5
+Josip Brezovec,4
+Daniele Sciaudone,4
+Enis Nadarevic,4
+Davide Di Gennaro,4
+Gaetano Masucci,4
+Enej Jelenic,4
+Vittorio Parigini,4
+Tomasz Kupisz,4
+Luca Paganini,4
+Danilo Soddimo,4
+Nene,4
+Cristian Galano,4
+Victor da Silva,4
+Luigi Falcone,4
+Alberto Cerri,4
+Valerio Di Cesare,4
+Marios Oikonomou,4
+Carlo Mammarella,3
+Franco Zuculini,3
+Nunzio Di Roberto,3
+Fabio Concas,3
+Raffaele Maiello,3
+Raphael Martinho,3
+Lorenzo Pasciuti,3
+Massimiliano Carlini,3
+Robert Gucher,3
+Edgar Cani,3
+Paolo Grossi,3
+Ronaldo,3
+Lorenzo Lollo,3
+Giacomo Beretta,3
+Antonino Ragusa,3
+Marco Fossati,3
+Marcel Buchel,3
+Simone Basso,3
+Nicolas Viola,3
+Stefano Giacomelli,3
+Nnamdi Oduamadi,3
+Stefano Pettinari,3
+Luca Garritano,3
+Rodrigo Taddei,3
+Maurizio Ciaramitaro,3
+Stefano Padovan,3
+Robert Acquafresca,3
+Francesco Valiani,3
+Simone Romagnoli,3
+Davide Luppi,3
+Nicol`o Brighenti,3
+Leonardo Blanchard,3
+Luca Miracoli,3
+Niko Datkovic,3
+Doudou Mangni,3
+Kingsley Boateng,3
+Mattia Sprocati,3
+Raffaele Schiavi,3
+Andrea Luci,3
+Nicola Rigoni,3
+Nahuel Valentini,3
+Riccardo Brosco,3
+Eric Lanini,3
+Francesco Fedato,3
+Edoardo Goldaniga,3
+Joseph Marie Minala,3
+Filippo Falco,2
+Gianpietro Zecchin,2
+Gaetano Letizia,2
+Antonio Zito,2
+Leonardo Capezzi,2
+Fabinho,2
+Raffaele Bianco,2
+Felipe Sodinha,2
+Soufiane Bidaoui,2
+Alen Stevanovic,2
+Costa Ferreira,2
+Andrea Schiavone,2
+Luigi Alberto Scaglia,2
+Mattia Minesso,2
+Matteo Scozzarella,2
+Pietro De Giorgio,2
+Davide Gavazzi,2
+Marco Crimi,2
+Simone Iacoponi,2
+Emerson,2
+Nicola Bellomo,2
+Alessandro Sbaffo,2
+Angelo DAngelo,2
+Massimo Donati,2
+Alessandro Frara,2
+Michele Troiano,2
+Jefferson,2
+Francesco Cosenza,2
+Mohamed Coly,2
+Lorenzo Del Prete,2
+Daniele Corti,2
+Fabian Rinaudo,2
+Antonini Culina,2
+Fabrizio Poli,2
+Gaston Brugman,2
+Massimiliano Busellato,2
+Luca Pagliarulo,2
+Stefano Sabelli,2
+Niccol`o Belloni,2
+Luca Forte,2
+Davide Zoboli,2
+Paolo Hernan Dellafiore,2
+Manuel Scavone,2
+Stefano Ferrario,2
+Sebastian Leto,2
+Michele Paolucci,2
+Maicon,2
+Mattia Caldara,2
+Mattia Aramu,2
+Paolo Regoli,2
+Antonio Barreca,1
+Lorenzo Laverone,1
+Antonio Cinelli,1
+Davide Faraoni,1
+Adrian Stoian,1
+Zoran Kvrzic,1
+Federico Casarini,1
+Francesco Migliore,1
+Davide Lanzafame,1
+Francesco Signori,1
+Daniel Cappelletti,1
+Mirko Gori,1
+Juri Cisotti,1
+Ismail HMaidat,1
+Angelo Rea,1
+Alessandro Bernardini,1
+Nicola Ferrari,1
+Luca Ceccarelli,1
+Marcelinho,1
+Gianluca Litteri,1
+Gianni Fabiano,1
+Michal Chrapek,1
+Damjan Djokovic,1
+Filippo Scaglia,1
+Gabriel,1
+Andrea Petagna,1
+Leonardo Morosini,1
+Guillermo Giacomazzi,1
+Mario Santana,1
+Cesar,1
+Armin Bacinovic,1
+Maxwell Acosty,1
+Aljaz Struna,1
+Matteo Ciofani,1
+Najib Ammari,1
+Nicol`o Quaggiotto,1
+Steve Beleck,1
+Claiton,1
+Daniel Bessa,1
+Andrea Barberis,1
+Gianluca Caprari,1
+Luca Bittante,1
+Riccardo Improta,1
+Marko Bakic,1
+Aniello Salzano,1
+Nicol`o Fazzi,1
+Federico Ricci,1
+Adam Masina,1
+Ruben Olivera,1
+Paolo Sammarco,1
+Stefano Botta,1
+Domenico Maietta,1
+Felice Piccolo,1
+Flavio Lazzari,1
+Riccardo Nardini,1
+Miguel de las Cuevas,1
+Matteo Bruscagin,1
+Pasquale Schiattarella,1
+Moussa Kone,1
+Marco Romizi,1
+Denis Tonucci,1
+Luca Castiglia,1
+Nikola Jakimovski,1
+Bartosz Salamon,1
+Thiago Cionek,1
+Francesco Luoni,1
+Pavel Vidanov,1
+Gaston Sauro,1
+Fabio Pisacane,1
+Federico Amenta,1
+Michele Pellizzer,1
+Lorenzo Staiti,1
+Andrea Arrighini,1
+Pasquale Fazio,1
+Fabrizio Paghera,1
+Abel Gigli,1
+Ignacio Lores,1
+Mathias Abero,1
+Amidu Salifu,1
+Luca Cecchini,1
+Lorenzo Gonnelli,1
+Federico Ceccherini,1
+Marco Pinato,1
+Jacopo Dezi,1
+Masahudu Alhassan,1
+Pol Garcia ,1
+Mariano Arini,1
+Brayan Perea,1
+Demiro Pozzebon,1
+Dario Canadjija,1
+Roberto Gagliardini,1
+Umberto Germano,1
+Ibrahima Mbaye,1
+Michele Russo,1
+Bruno Petkovic,1
+Jherson Vergara,1
+Gonzalo Escalante,1
+Giovanni Sbrissa,1
+Mattia Rossetti,1
+Alessio Sabbione,1
+Giulio Bizzotto,1
+Edu,9
+Leonardo,7
+Ki-Hun Yeom,6
+Dong-Gook Lee,4
+Do-Heon Kim,4
+Dong-Hyun Yang,4
+Adriano,4
+Ui-Jo Hwang,4
+Chong Tese,3
+Jong-Ho Lee,3
+Santos,3
+Chikashi Masuda,2
+Sang-Min Yang,2
+Kaio,2
+Server Djeparov,2
+Jong-Min Lee,2
+Sang-Ho Lee,2
+Shin-Wook Kim,2
+Ho-Nam Kim,2
+Weslley,2
+Seung-Dae Kim,2
+Chang-Min Lee,2
+Joon-Ho Son,2
+Jae-Sung Lee,2
+Stevica Ristic,1
+Chi-Woo Kim,1
+Chu-Young Park,1
+Ki-Jong Bae,1
+Everton Santos,1
+Mauricio Molina,1
+Leo Itaperuna,1
+Jin-Hyung Song,1
+Eun-Sun Kim,1
+Chang-Hyun Yoo,1
+Yong-Tae Cho,1
+Chang-Woo Rim,1
+Young-Sin Kim,1
+Mislav Orsic,1
+Song-Jin Cho,1
+Eninho,1
+Sang-Gi Min,1
+Hyun-Sung Kim,1
+Jae-Moung Lee,1
+Da-Hwon Jung,1
+Su-Il Kang,1
+Tiago Alves,1
+Kyo-Won Han,1
+Sun-Young Lim,1
+In-Sung Kim,1
+Se-Jong Ju,1
+Young-Kyu Ahn,1
+Yong-Ji Park,1
+Myung-Won Seo,1
+Do-Hyuk Kim,1
+Soo-Chul Cho,1
+Ricardo Lopes,1
+Yun-Ho Jang,1
+Sebastian Giovinco,22
+Kei Kamara,22
+Robbie Keane,20
+David Villa,18
+Bradley Wright-Phillips,17
+Cyle Larin,17
+Chris Wondolowski,16
+Fanendo Adi,16
+Obafemi Martins,15
+Jozy Altidore,13
+Ethan Finlay,12
+Dom Dwyer,12
+Will Bruin,11
+Didier Drogba,11
+Benny Feilhaber,10
+Clint Dempsey,10
+Lloyd Sam,10
+Krisztian Nemeth,10
+David Accam,10
+Chris Rolfe,10
+Charlie Davies,10
+Octavio Rivero,10
+Fabian Castillo,9
+Ignacio Piatti,9
+Mike Grella,9
+Kaka,9
+C.J. Sapong,9
+Javier Morales,8
+Sacha Kljestan,8
+Mauro Diaz,8
+Sebastien Le Toux,8
+Federico Higuain,8
+Ricardo Clark,8
+Dominic Oduro,8
+Lee Nguyen,7
+Kelyn Rowe,7
+Kennedy Igboananike,7
+Cristian Techera,7
+Kekuta Manneh,7
+Giles Barnes,7
+Juan Agudelo,7
+Sebastian Lletget,7
+Michael Barrios,7
+Alvaro Saborio,7
+Quincy Amarikwa,6
+Pedro Morales,6
+Patrick Mullins,6
+David Texeira,6
+Justin Meram,6
+Gyasi Zardes,6
+Diego Fagundez,6
+Jack McInerney,6
+Jeff Larentowicz,6
+Fabian Espindola,5
+Tony Tchani,5
+Darlington Nagbe,5
+Michael Bradley,5
+Thomas McNamara,5
+Jairo Arrieta,5
+Sebastian Jaime,5
+Blas Perez,5
+Fernando Aristeguieta,5
+Gilberto,5
+Tesho Akindele,5
+Kevin Doyle,5
+Chad Barrett,5
+Alan Gordon,5
+Vincent Nogueira,5
+Brad Davis,4
+Kwadwo Poku,4
+Andres Romero,4
+Vicente Sanchez,4
+Juninho,4
+Gabriel Torres,4
+Teal Bunbury,4
+Joao Plata,4
+Maximiliano Urruti,4
+Lamar Neagle,4
+Kevin Ellis,4
+Devon Sandoval,4
+Anatole Bertrand-Abang,4
+Harry Shipp,3
+Giovani dos Santos,3
+Dillon Powers,3
+Marco Pappa,3
+Shea Salinas,3
+Shaun Maloney,3
+Boniek Garcia,3
+Patrick Nyarko,3
+Frank Lampard,3
+Mehdi Ballouchy,3
+Felipe Martins,3
+Luke Mulholland,3
+Marco Delgado,3
+Pa-Modou Kah,3
+Paulo Nagamura,3
+Chris Pontius,3
+Cordell Cato,3
+Kellyn Acosta,3
+Darren Mattocks,3
+Conor Casey,3
+Jack Jewsbury,3
+Nat Borchers,3
+Mix Diskerud,3
+Perry Kitchen,3
+Dillon Serna,3
+Bryan Rochez,3
+Matias Perez Garcia,2
+Diego Valeri,2
+Steven Gerrard,2
+Robbie Findley,2
+Baggio Husidic,2
+Jose Villarreal,2
+Scott Caldwell,2
+Clarence Goodson,2
+Chris Tierney,2
+Graham Zusi,2
+Laurent Ciman,2
+Gaston Fernandez,2
+Atiba Harris,2
+Ned Grabavoy,2
+Razvan Cocis,2
+Sanna Nyassi,2
+Dilly Duka,2
+Justin Morrow,2
+Victor Ulloa,2
+Nick DeLeon,2
+Pedro Ribeiro,2
+Eric Ayuk,2
+Bobby Boswell,2
+Aurelien Collin,2
+Marcelo Sarvas,2
+Damien Perrinelle,2
+Adrian Winter,2
+Collen Warner,2
+Zach Pfeffer,2
+Olmes Garcia,2
+Kendall Waston,2
+Darwin Ceren,2
+Jason Johnson,2
+Ryan Hollingshead,2
+Leonel Miranda,2
+Fatai Alashe,2
+Robert Earnshaw,2
+Bobby Burling,2
+Anthony Wallace,2
+Raul Rodriguez,2
+Diego Chara,2
+Alex,2
+Ike Opara,2
+Conor Doyle,2
+Anibal Godoy,2
+Wandrille Lef`evre,2
+Steve Birnbaum,2
+Dominique Badji,2
+Cristian Maidana,1
+Dax McCarty,1
+Marco Donadel,1
+Rodney Wallace,1
+Lucas Melano,1
+Taylor Kemp,1
+Jonathan Osorio,1
+Stefan Ishizaki,1
+Luke Boden,1
+Jorge Flores,1
+Luke Moore,1
+Mauro Rosales,1
+Robbie Rogers,1
+Roger Espinoza,1
+Fabinho,1
+Juan Ramirez,1
+Shaun Wright-Phillips,1
+Benoit Cheyrou,1
+Tranquillo Barnetta,1
+Tyrone Mears,1
+Michel,1
+Juan Manuel Martinez,1
+Nathan Sturgis,1
+Brad Evans,1
+Andrew Jacobson,1
+Omar Gonzalez,1
+Andrew Wenger,1
+Cristian Higuita,1
+Matt Miazga,1
+Dairon Asprilla,1
+Kemar Lawrence,1
+Andreas Ivanschitz,1
+Jacob Peterson,1
+Marcel de Jong,1
+Jose Goncalves,1
+DaMarcus Beasley,1
+Damien Perquis,1
+Gonzalo Pineda,1
+Drew Moor,1
+Maurice Edu,1
+Kenny Mansally,1
+Jackson,1
+Eric Avila,1
+Lucas Pittinari,1
+Aaron Maund,1
+Luis Gil,1
+Jared Watts,1
+Gonzalo Veron,1
+Joevin Jones,1
+Jalil Anibaba,1
+Gershon Koffie,1
+Thomas,1
+Matt Hedges,1
+Adam Jahn,1
+Jordan Allen,1
+Chris Duvall,1
+Khiry  Shelton,1
+Rob Lovejoy,1
+Ignacio Maganto,1
+Nelson Valdez,1
+Adailton,1
+Ronald Zubar,1
+Kyle Beckerman,1
+Ty Harden,1
+Leonardo Gonzalez,1
+Herculez Gomez,1
+Andy Dorman,1
+James Riley,1
+Seb Hines,1
+Steven Vitoria,1
+Nick LaBrocca,1
+Maynor Figueroa,1
+Innocent,1
+Sean Franklin,1
+Jamison Olave,1
+Sam Cronin,1
+Nicolas Mezquida,1
+Javier Calle,1
+Eriq Zavaleta,1
+Cedrick,1
+Kwame Watson-Siriboe,1
+Matias Laba,1
+Donny Toia,1
+Ambroise Oyongo,1
+Johan Venegas,1
+Luis Silva,1
+Warren Creavalle,1
+Aaron Schoenfeld,1
+Kyle Bekker,1
+John Stertzer,1
+Kofi Opare,1
+Maxim Tissot,1
+Kianz Froese,1
+Bradford Jamieson IV,1
+Camilo Sanvezzo,12
+Mauro Boselli,12
+Dorlan Pabon,11
+Dario Benedetto,9
+Ariel Nahuelpan,9
+Oribe Peralta,8
+Pablo Velazquez,8
+Eduardo Herrera,8
+Emiliano Armenteros,6
+Javier Orozco,6
+Miguel Layun,6
+Andres Renteria,6
+Carlos Pena,5
+Ismael Sosa,5
+Alfredo Moreno,5
+Paulo da Silva,5
+Juninho,5
+Matias Alustiza,5
+Joffre Guerron,4
+Mariano Pavone,4
+Fidel Martinez,4
+Arturo Gonzalez,4
+Hirving Lozano,4
+Vicente Matias Vuoso,4
+Raul Jimenez,4
+Omar Bravo,4
+Edgar Gerardo Lugo,4
+Luis Miguel Noriega,4
+Daniel Villalva,4
+David Depetris,4
+Juan Arango,3
+Dante Lopez,3
+Edgar Benitez,3
+Wilberto Cosme,3
+Hernan Burbano,3
+Ronaldinho Gaucho,3
+Edy Brambila,3
+Miguel Sabah,3
+Luis Caballero,3
+William da Silva,3
+Enrique Esqueda,3
+Joao Rojas,3
+Cuauhtemoc Blanco,3
+Rodrigo Millar,3
+Jesus Zavala,3
+Carlos Guzman,3
+Bruno Pires,3
+Carlos Darwin Quintero,2
+Daniel Emmanuel Luduena,2
+Franco Arizala,2
+Fernando Arce,2
+Humberto Suazo,2
+Jose Maria Cardenas,2
+Luis Rodriguez,2
+Paul Aguilar,2
+Mauro Cejas,2
+Julio Nava,2
+Jhon Fredy Pajoy,2
+Christian Gimenez,2
+Dayro Moreno,2
+Damian Alvarez,2
+Emanuel Villa,2
+Pablo Aguilar,2
+Nestor Vidrio,2
+Osvaldo Martinez,2
+Carlos Izquierdoz,2
+Isaac Brizuela,2
+Angel Sepulveda,2
+Juan Pablo Rodriguez,2
+Yamilson Rivera,2
+Cristian Martinez,2
+Isaac Diaz,2
+Carlos Fierro,2
+Djaniny,2
+Martin Barragan,2
+Martin Alaniz,2
+Rubens Sambueza,1
+Lucas Lobos,1
+Elias Hernandez,1
+Michael Arroyo,1
+Carlos Morales,1
+Lucas Silva,1
+Maikon Leite,1
+Cesar Delgado,1
+Juan Carlos Medina,1
+Rogelio Chavez,1
+Mauro Formica,1
+David Cabrera,1
+Richard Ruiz,1
+Javier Cortes,1
+William Ferreira,1
+Guido Pizarro,1
+Aviles Hurtado,1
+Luis Lorona,1
+Dieter Villalpando,1
+Carlos Ochoa,1
+Herculez Gomez,1
+Andres Rios,1
+Hibert Ruiz,1
+Jair Pereira,1
+Francisco Acuna,1
+Marcos Caicedo,1
+Miguel Sansores,1
+Matias Britos,1
+Alonso Escoboza,1
+Giovani Hernandez,1
+Hector Reynoso,1
+Emilio Lopez,1
+Dario Veron,1
+Pablo Barrera,1
+Omar Arellano,1
+Diego de la Torre,1
+Edgar Andrade,1
+Julio Dominguez,1
+Horacio Cervantes,1
+Edgar Castillo,1
+Gerardo Flores,1
+Marcelo Alatorre,1
+Marc Crosas,1
+Jesus Duenas,1
+Marco Fabian,1
+Flavio Santos,1
+Enrique Perez,1
+Antonio Rios,1
+Duvier Riascos,1
+Erbin Trejo,1
+Luis Telles,1
+Luis Madrigal,1
+Dionicio Escalante,1
+Luis Mendoza,1
+Jorge Zarate,1
+Miguel Ponce,1
+Othoniel Arce,1
+Jose Vazquez,1
+Candido Ramirez,1
+Adrian Marin,1
+Luis Morales,1
+Erick Aguirre,1
+Jordan Silva,1
+Alexander Soderlund,22
+Adama Diomande,17
+Olivier Occean,15
+Ola Kamara,14
+Pal Andre Helland,13
+Trond Olsen,13
+Alexander Sorloth,13
+Leke James,13
+Mohamed Elyounoussi,12
+Iver Fossum,11
+Veton Berisha,11
+Fred Friday,11
+Marcus Pedersen,11
+Ernest Asante,10
+Erling Knudtzon,10
+Christian Gytkjaer,10
+Jon Dadi Bodvarsson,9
+Gustav Wikheim,9
+Matthias Vilhjalmsson,9
+Zdenek Ondrasek,9
+Fredrik Nordkvelle,9
+Tommy Hoiland,9
+Simon Diedhiou,9
+Bentley,8
+Suleiman Abdullahi,8
+Sander Svendsen,8
+Kristoffer Ajer,8
+Tobias Mikkelsen,8
+Luc Kassi,8
+Pal Alexander Kirkevold,8
+Ghayas Zahid,7
+Daniel Fredheim Holm,7
+Magnus Andersen,7
+Moryke Fofana,7
+Deshorn Brown,7
+Jean Alassane Mendy,6
+Mos,6
+Yann-Erik de Lanlay,6
+Bojan Zajic,6
+Espen Borufsen,6
+Christian Grindheim,5
+Samuel Adegbenro,5
+Andre Danielsen,5
+Erik Mjelde,5
+Martin Wiig,5
+Pape Pate Diouf,5
+Ole Jorgen Halvorsen,5
+Aron Elis Thrandarson,5
+Rhett Bernstein,5
+Espen Ruud,4
+Fredrik Midtsjo,4
+Lars Christopher Vilsvik,4
+Oyvind Storflor,4
+Christian Gauseth,4
+Bismark Adjei-Boateng,4
+Jone Samuelsen,4
+Badou Ndiaye,4
+Fitim Azemi,4
+Steffen Ernemann,4
+Anders Konradsen,4
+Cole Grossman,4
+Zymer Bytyqi,4
+Erik Midtgarden,4
+Sanel Kapidzic,4
+Morten Sundli,4
+Morten Konradsen,4
+Marvin Ogunjimi,4
+Peter Orry Larsen,4
+Kjell Rune Sellin,4
+Marco Tagbajumi,4
+Elias Mar Omarsson,4
+Mike Jensen,3
+Yassine El Ghanassy,3
+Per Egil Flo,3
+Henrik Furebotn,3
+Rasmus Lindkvist,3
+Gjermund Asen,3
+Cheikhou Dieng,3
+Mikael Ingebrigtsen,3
+Espen Hoff,3
+Peter Kovacs,3
+Thomas Sorum,3
+Andreas Nordvik,3
+Rolf Daniel Vikstol,3
+Malaury Martin,3
+Ville Jalasto,3
+Patrick Mortensen,3
+Michael Barrantes,3
+Remi Johansen,3
+Kristoffer Tokstad,3
+Kent-Are Antonsen,3
+Runar Espejord,3
+Stian Aasmundsen,3
+Jorgen Kolstad,3
+Vegard Skjerve,3
+Kamal Issah,3
+Brede Moe,3
+Liam Henderson,3
+Martin Linnes,2
+Ole Selnaes,2
+Mattias Mostrom,2
+Jo Nymo Matland,2
+Geir Ludvig Fevang,2
+Michael Haukas,2
+Rafik Zekhnini,2
+Muhamed Keita,2
+Danny Cruz,2
+Flamur Kastrati,2
+Arni Vilhjalmsson,2
+Kristoffer Normann Hansen,2
+Fredrik Jensen,2
+Johan Andersson,2
+Johan Bjordal,2
+Alexander Gabrielsen,2
+Joona Toivio,2
+Sakari Mattila,2
+Jorgen Skjelvik,2
+Carl Bjork,2
+Niklas Gunnarsson,2
+Herman Stengel,2
+Melker Hallberg,2
+Simen Kind Mikalsen,2
+Kachi,2
+Frode Johnsen,2
+Magne Hoseth,2
+Kjetil Waehler,2
+Amin Askar,2
+Enar Jaager,2
+Vidar Nisja,2
+Ole Hansen,2
+Tor Arne Andreassen,2
+Magnus Olsen,2
+Bassel Jradi,2
+Tomas Malec,2
+Mads Gundersen,2
+Tokmac Chol Nguen,2
+Pau Morer,2
+Lars-Jorgen Salvesen,2
+Anders Trondsen,1
+Daniel Bamberg,1
+Joachim Olsen,1
+Holmar Orn Eyjolfsson,1
+Etzaz Hussain,1
+Mikael Dorsin,1
+Steinthor Freyr Thorsteinsson,1
+Akeem Latifu,1
+Zarek Valentin,1
+Henrik Bjordal,1
+Birger Meling,1
+Frode Kippe,1
+Daniel Braaten,1
+Ulrik Arneberg,1
+Harmeet Singh,1
+Florent Hanin,1
+Giorgi Gorozia,1
+Marius Lundemo,1
+Kristoffer Haugen,1
+Eirik Hestad,1
+Jonas Johansen,1
+Victor Demba Bindia,1
+Havard Storbaek,1
+Mads Hansen,1
+Kristoffer Haraldseid,1
+Morten Moldskred,1
+Riku Riski,1
+Barry Maguire,1
+Mohammed Abdellaoue,1
+Martin Jensen,1
+Vegard Forren,1
+Thomas Lehne Olsen,1
+Alexander Stolas,1
+Mads Stokkelien,1
+Mushaga Bakenga,1
+Mohammed Abu,1
+Erik Tonne,1
+Ulrik Saltnes,1
+Amahl Pellegrino,1
+Nicolai Naess,1
+Andreas Hollingen,1
+Agnaldo,1
+Fredrik Krogstad,1
+Morten Berre,1
+Indridi Sigurdsson,1
+Hakon Opdal,1
+Lars-Kristian Eriksen,1
+Alexander Mathisen,1
+Steffen Hagen,1
+Mounir Hamoud,1
+Magne Simonsen,1
+Joackim Jorgensen,1
+Alagie Sosseh,1
+Marcus Hansson,1
+Dominic Chatto,1
+Joakim Vage Nilsen,1
+Craig Henderson,1
+Bjorn Daniel Sverrisson,1
+Gudmundur Kristjansson,1
+Liridon Kalludra,1
+Fredrik Berge,1
+Ruben Gabrielsen,1
+Alexander Groven,1
+Martin Bjornbak,1
+Simon Larsen,1
+Erik Hurtado,1
+Tim Andre Nilsen,1
+Daniel Aase,1
+Kamil Wilczek,20
+Flavio Paixao,18
+Pawel Brozek,15
+Patryk Tuszynski,15
+Mateusz Piatkowski,14
+Grzegorz Kuswik,14
+Kasper Hamalainen,13
+Orlando Sa,13
+Lukasz Zwolinski,12
+Fedor Cernych,11
+Deniss Rakels,11
+Marcin Robak,11
+Arkadiusz Piech,11
+Robert Pich,10
+Antonio Colak,10
+Semir Stilic,9
+Szymon Pawlowski,9
+Marcin Budzinski,9
+Damian Chmiel,9
+Jacek Kielb,9
+Filip Starzynski,8
+Maciej Iwanski,8
+Maciej Gajos,8
+Josip Barisic,8
+Stojan Vranjes,8
+Mateusz Zachara,8
+Alvarinho,8
+Sebastian Mila,7
+Olivier Kapo,7
+Luis Carlos,7
+Miroslav Covilo,7
+Darko Jevtic,7
+Adam Fraczczak,6
+Maciej Makuszewski,6
+Grzegorz Bonin,6
+Roman Gergel,6
+Michal Kucharczyk,6
+Piotr Wisniewski,6
+Marco Paixao,6
+Wilde-Donald Guerrier,6
+Lukasz Madej,5
+Robert Jez,5
+Rafal Kosznik,5
+Bartosz Szeliga,5
+Konstantin Vassiljev,5
+Michal Zyro,5
+Rafal Boguski,5
+Przemyslaw Trytko,5
+Zaur Sadaev,5
+Lukasz Burliga,5
+Ondrej Duda,5
+Miroslav Radovic,5
+Shpetim Hasani,5
+Bartosz Slusarski,5
+Mariusz Magiera,5
+Dialiba,5
+Kevin Friesenbichler,5
+Kamil Sylwestrzak,5
+Jakub Rzezniczak,5
+Takuya Murayama,5
+Kamil Drygas,4
+Roland Gigolaev,4
+Gerard Badia,4
+Robert Demjan,4
+Miroslav Bozok,4
+Mica,4
+Maciej Korzym,4
+Ivica Vrdoljak,4
+Erik Jendrisek,4
+Bartosz Spiaczka,4
+Dawid Kownacki,4
+Marek Sokolowski,4
+Taras Romanchuk,4
+Ruben Jurado,4
+Jakub Swierczok,4
+Nika Dzalamidze,3
+Rafal Murawski,3
+Mateusz Machaj,3
+Barry Douglas,3
+Gergo Lovrencsics,3
+Tomasz Jodlowiec,3
+Patrik Mraz,3
+Maciej Jankowski,3
+Tomasz Kedziora,3
+Lukasz Gargula,3
+Tomasz Nowak,3
+Jakub Kosecki,3
+Wagner,3
+Michal Efir,3
+Dariusz Formella,3
+Przemyslaw Frankowski,3
+Dariusz Kolodziej,3
+Piotr Grzelczak,3
+Vojo Ubiparip,3
+Paulus Arajuuri,3
+Rafael Porcellis,3
+Eduards Visnakovs,3
+Jakub Kowalski,3
+Radek Dejmek,3
+Dossa Junior,3
+Lukasz Teodorczyk,3
+Hebert,3
+Michal Mak,2
+Marek Saganowski,2
+Dariusz Zjawinski,2
+Krzysztof Ostrowski,2
+Maciej Sadlok,2
+Adam Mojta,2
+Jan Pawlowski,2
+Mariusz Stepinski,2
+Lukasz Mierzejewski,2
+Karol Linetty,2
+Veljko Nikitovic,2
+Tomasz Podgorski,2
+Pavol Stano,2
+Mateusz Cetnarski,2
+Piotr Malarczyk,2
+Lukasz Wronski,2
+Bartosz Kapustka,2
+Piotr Celeban,2
+Bartlomiej Konieczny,2
+Maciej Dabrowski,2
+Maksymilian Rogalski,2
+Muhamed Keita,2
+Wojciech Luczak,2
+Lukasz Tyminski,2
+Adrian Basta,2
+Andre Micael,2
+Szymon Skrzypczak,2
+Pawel Moskwik,2
+Jorge Kadu,2
+Bartosz Iwan,2
+Piotr Polczak,2
+Tomasz Gorkiewicz,2
+Blazej Augustyn,2
+Michal Pazdan,2
+Pavel Komolov,2
+Oleksandr Shevelyukhin,2
+Marcin Kaminski,2
+Michal Maslowski,2
+Adam Ryczkowski,2
+Tomasz Brzyski,1
+Marek Zienczuk,1
+Karol Mackiewicz,1
+Bruno Nazario,1
+Lukasz Hanzel,1
+Helio Pinto,1
+Emmanuel Sarki,1
+Vlastimir Jovanovic,1
+Bartlomiej Babiarz,1
+Pawel Golanski,1
+Kamil Waclawczyk,1
+Piotr Malinowski,1
+Dani Quintana,1
+Peter Grajciar,1
+Lukas Droppa,1
+Damian Dabrowski,1
+Deleu,1
+Igors Tarasovs,1
+Daniel Dziwniel,1
+Guilherme,1
+Kornel Osyra,1
+Jakub Wojcicki,1
+Dominik Kun,1
+Martin Konczkowski,1
+Karol Swiderski,1
+Sebastian Olszar,1
+Hernani,1
+Rafal Grodzicki,1
+Adam Marciniak,1
+Erik Grendel,1
+Damian Zbozien,1
+Nikola Lekovic,1
+Leandro,1
+Filip Modelski,1
+Jean Barrientos,1
+Sylwester Patejuk,1
+Mateusz Mak,1
+Wojciech Golla,1
+Gerson,1
+Andreja Prokic,1
+Pawel Zielinski,1
+Arkadiusz Glowacki,1
+Lukasz Surma,1
+Csaba Horvath,1
+Bernardo Vasconcelos,1
+Hubert Wolakiewicz,1
+Mateusz Zytko,1
+Sebastian Szalachowski,1
+Piotr Petasz,1
+Dawid Nowak,1
+Krzysztof Chrapek,1
+Piotr Stawarczyk,1
+Cornel Predescu,1
+Adam Danch,1
+Inaki Astiz,1
+Kamil Pozniak,1
+Kyrylo Petrov,1
+Jan Polak,1
+Igor Lewczuk,1
+Anton Sloboda,1
+Maciej Malkowski,1
+Pawel Baranowski,1
+Lukas Bielak,1
+Filipp Rudik,1
+Ivan Maevskiy,1
+Mateusz Matras,1
+Konrad Nowak,1
+Idrissa Cisse,1
+Michal Helik,1
+Jackson Martinez,21
+Jonas,20
+Lima,19
+Marco Matias,17
+Islam Slimani,12
+Ahmed Hassan,12
+Andre Andre,11
+Fredy Montero,11
+Bruno Moreira,10
+Eder,10
+Toto Salvio,9
+Simmy,9
+Moussa Maazou,9
+Talisca,9
+Ze Luis,8
+Kleber,8
+Adrien Silva,8
+Deyverson,8
+Guedes,8
+Ricardo Valente,8
+Cristian Tello,7
+Felipe Pardo,7
+Nani,7
+Yacine Brahimi,7
+Oliver Torres,7
+Moussa Marega,7
+Lucas Joao,6
+Ricardo Quaresma,6
+Andre Simoes,6
+Hernani,6
+Rabiola,6
+Danilo,6
+Carlos Mane,6
+Roberto,6
+Ruben Micael,6
+Ze Manuel,6
+Joao Schmidt,6
+Rui Pedro,6
+Pele,6
+Hyun-Jun Suk,6
+Andre Carrillo,5
+Toze,5
+Maxi Pereira,5
+Diego Lopes,5
+Bernard Mensah,5
+Miguel Rosa,5
+Urreta,5
+Joao Mario,5
+Yonathan Del Valle,5
+Pedro Santos,5
+Mario Rondon,5
+Junya Tanaka,5
+Paraiba,5
+Jonatan Alvez,5
+Kuca,5
+Gerso,5
+Nico Gaitan,4
+Tomane,4
+Ukra,4
+Tiago Rodrigues,4
+Joao Pedro,4
+Edgar Costa,4
+Vincent Aboubakar,4
+Seba,4
+Joao Vilela,4
+Salvador Agra,4
+Eliseu,4
+Bruno Gallo,4
+Michael Uchebo,4
+Leo Bonatini,4
+Brito,4
+Luisao,4
+Zequinha,4
+Paolo Hurtado,4
+Fransergio,4
+Rafael Lopes,4
+Ruben Fernandes,4
+Joao Martins,4
+Jardel,4
+Hector Herrera,3
+Ola John,3
+Arsenio,3
+Iuri Medeiros,3
+Pedro Moreira,3
+Casemiro,3
+Cicero,3
+Alex,3
+Aderlan,3
+Hector Quinones,3
+Pedro Tiba,3
+David Simao,3
+Idris Mandiang,3
+Danilo Pereira,3
+Vitor Gomes,3
+Marinho,3
+Aderlan Santos,3
+Pizzi,2
+Rafa Silva,2
+Emidio Rafael,2
+Renan Bressan,2
+Juan Quintero,2
+Miguel Pedro,2
+Fabio Sturgeon,2
+Luis Aurelio,2
+Diogo Jota,2
+Andre Fontes,2
+Fabio Nunes,2
+Dyego Sousa,2
+Danilo,2
+Rui Fonte,2
+Evaldo,2
+Ivanildo,2
+Pintassilgo,2
+Tarantini,2
+Sergio Oliveira,2
+Josue Sa,2
+Tiago Caeiro,2
+Bruno Miguel,2
+Bouba,2
+Rui Sampaio,2
+Ruben Ribeiro,2
+Ramon Cardozo,2
+Marcos Paulo,2
+Theo Weeks,2
+Rodrigo Battaglia,2
+Patrick Bauer,2
+Tiquinho Soares,2
+Bruno Martins Indi,2
+Tobias Figueiredo,2
+Nildo Petrolina,2
+Raul Silva,2
+Mineiro,2
+Anderson Carvalho,2
+Agustin Vuletich,2
+Carlos Santos,2
+Dimitrios Pelkas,2
+Antonio Xavier,2
+Ebinho,2
+Jefferson,1
+Paulo Tavares,1
+Joao Diogo,1
+Alex Sandro,1
+Leozinho,1
+Helder Lopes,1
+Saleh Gomaa,1
+Enzo Perez,1
+Tengarrinha,1
+Alex,1
+William Carvalho,1
+Joao Afonso,1
+Fernandinho,1
+Carlos Martins,1
+Schumacher,1
+Fredy,1
+Marvin Zeegelaar,1
+Vitor Bruno,1
+Abel Camara,1
+Jean Michael Seri,1
+Jonathan Silva,1
+Derley,1
+Alex Soares,1
+Tiago Silva,1
+Danielson,1
+Marek Cech,1
+Javier Balboa,1
+Nuno Coelho,1
+Diogo Cunha,1
+Evandro,1
+Tiago Pinto,1
+Elizio,1
+Caetano,1
+Wagner,1
+Zainadine Junior,1
+Esmael Goncalves,1
+Ruben Neves,1
+Leandro Souza,1
+Jucie Lupeta,1
+Emmanuel Boateng,1
+Markus Berger,1
+Manuel Jose,1
+Moreno,1
+Cadu,1
+Ricardo,1
+Diogo Valente,1
+Joao Real,1
+Ferreira,1
+Ljubomir Fejsa,1
+Yazalde,1
+Andre Pinto,1
+Diogo Amado,1
+Rodrigo Dantas,1
+Rodrigo Galo,1
+Bolivia,1
+Braga,1
+Ricardo Dias,1
+Sami,1
+Kanu,1
+Andre Claro,1
+Giovani,1
+Joao Pedro,1
+Kayembe,1
+Vasco Rocha,1
+Diego Galo,1
+Paulo Oliveira,1
+Ruben Pinto,1
+Ewerton,1
+Rambe,1
+Frederico Venancio,1
+Rafael Amorim,1
+Eber Bessa,1
+Marcelo,1
+Capela,1
+Vitor Goncalves,1
+Willyan,1
+Paulinho,1
+Ulysse Diallo,1
+Hugo Basto,1
+Otavio,1
+Edgar Abreu,1
+Peks,1
+Davi Mbala,1
+Ali Ghazal,1
+Ricardo Gomes,1
+Pedro Nuno,1
+Philipe Sampaio,1
+Hulk,15
+Roman Eremenko,13
+Quincy Promes,13
+Jose Salomon Rondon,13
+Bibras Natcho,12
+Igor Portnyagin,11
+Ahmed Musa,10
+Kevin Kuranyi,10
+Aleksey Ionov,9
+Mauricio Pereyra,9
+Aleksandr Kokorin,8
+Fedor Smolov,8
+Artem Dzyuba,8
+Balazs Dzsudzsak,7
+Ari,7
+Marcinho,7
+Gokdeniz Karadeniz,7
+Zoran Tosic,7
+Wanderson,7
+Seydou Doumbia,7
+Manuel Fernandes,7
+Joaozinho,6
+Magomed Ozdoev,6
+Aleksandr Erokhin,6
+Alan Dzagoev,5
+Maksim Kanunnikov,5
+Roman Shirokov,5
+Georgi Peev,5
+Maksim Grigorjev,5
+Ibrahima Balde,5
+Ailton,5
+Mathieu Valbuena,4
+Aleksandr Samedov,4
+Ivelin Popov,4
+Igor Smolnikov,4
+Mauricio,4
+Vladislav Ignatjev,4
+Oleg Shatov,4
+Ricardo Laborde,4
+Oumar Niasse,4
+Igor Lebedenko,4
+Pavel Mamaev,4
+Aleksandr Bukharov,4
+Haris Handzic,4
+Axel Witsel,4
+Aleksandr Prudnikov,4
+Anton Putsila,4
+Sekou Oliseh,4
+Dmitri Poloz,4
+Vitali Djakov,4
+Sardar Azmoun,4
+Christopher Samba,4
+Dame NDoye,4
+Sergey Tkachev,4
+Ablaye Mbengue,4
+Danny,3
+Maciej Rybus,3
+Vladimir Khozin,3
+Jose Manuel Jurado,3
+Carlos Eduardo,3
+Gigel Bucur,3
+Aleksandr Kolomeytsev,3
+Roman Pavlyuchenko,3
+Vladimir Bystrov,3
+Dalibor Stevanovic,3
+Alan Kasaev,3
+Artur Maloyan,3
+Gerson Acevedo,3
+Sergey Kuznetsov,3
+Igor Kireev,3
+Hugo Vieira,3
+Aleksandr Kerzhakov,3
+Kirill Kombarov,3
+Marko Lomic,3
+Ruslan Mukhametshin,3
+Aleksey Pugin,3
+Javi Garcia,3
+Marcin Komorowski,3
+Douglas,3
+Vyacheslav Krotov,3
+Branko Jovicic,3
+Carlos Strandberg,3
+Oleg Vlasov,2
+Vitali Kaleshin,2
+Yura Movsisyan,2
+Domenico Criscito,2
+Janusz Gol,2
+Georgi Milanov,2
+Kim Kallstrom,2
+Diniyar Bilyaletdinov,2
+Edgar Manucharyan,2
+Pontus Wernbloom,2
+Dmitri Kombarov,2
+Danilo,2
+Rizvan Utsiev,2
+Pablo Fontanello,2
+Aleksandr Kutjin,2
+Lorenzo Ebecilio,2
+Ivan Paurevic,2
+Evgeni Lutsenko,2
+Denis Glushakov,2
+Arnor Smarason,2
+Vladimir Dyadyun,2
+Evgeni Osipov,2
+Dmitri Stotskiy,2
+Diego,2
+Hugo Almeida,2
+Dmitri A. Smirnov,2
+Dmitri Torbinski,2
+Spartak Gogniev,2
+Pavel Alikin,2
+Vedran Corluka,2
+Denis Tumasyan,2
+Mitchell Donald,2
+William Vainqueur,2
+Petar Skuletic,2
+Viktor Vasin,2
+Odil Akhmedov,2
+Maksim Semakin,2
+Aleksandr Zotov,2
+Vladimir Rykov,2
+Romulo,2
+Timofey Kalachev,1
+Oleg Ivanov,1
+Elmir Nabiullin,1
+Guelor Kanga,1
+Kostyantyn Yaroshenko,1
+Nikolay Safronidi,1
+Artur Yusupov,1
+Chisamba Lungu,1
+Vasili Berezutski,1
+Aleksandr Salugin,1
+Ezequiel Garay,1
+Blagoy Georgiev,1
+Aleksandr Sapeta,1
+Solomon Kvirkvelia,1
+Aleksandr Ryazantsev,1
+Marat Izmailov,1
+Joao Carlos,1
+Danilo,1
+David Dzakhov,1
+Reziuan Mirzov,1
+Alexandru Gatcan,1
+Serdar Tasci,1
+Anri Khagush,1
+Anton Sosnin,1
+Juan Insaurralde,1
+Felicio Brown Forbes,1
+Ibrahima Niasse,1
+Aslan Dudiev,1
+Sergey Petrov,1
+Kirill Panchenko,1
+Fegor Ogude,1
+Roman Zobnin,1
+Mladen Kascelan,1
+Andrey Arshavin,1
+Vladimir Korytko,1
+Igor Shevchenko,1
+Stanislav Manolev,1
+Kirill Nababkin,1
+Yannick Djalo,1
+Christian Noboa,1
+Milan Perendija,1
+Ragnar Sigurdsson,1
+Jeremy Bokila,1
+Sergey Maslov,1
+Lucas Barrios,1
+Toni Sunjic,1
+Tomas Hubocan,1
+Igor Picusceac,1
+Semen Fomin,1
+Ivan Ershov,1
+Aleksandr Katsalapov,1
+Bogdan Butko,1
+Andrey Semenov,1
+Dmitri Aydov,1
+Lorenzo Melgarejo,1
+Soslan Takazov,1
+Bastos,1
+Vitinho,1
+Aleksey Miranchuk,1
+Rinat Timokhin,1
+Sergey Serchenkov,1
+Adam Rooney,18
+Nadir Ciftci,14
+Leigh Griffiths,14
+Greg Stewart,13
+Anthony Andreu,12
+John Sutton,12
+Ali Crawford,11
+Liam Boyce,10
+Billy McKay,10
+Gary Mackay-Steven,9
+Kris Commons,9
+Stefan Johansen,9
+Tope Obadeyi,9
+Michael OHalloran,9
+Brian Graham,9
+Kris Doolan,9
+Josh Magennis,8
+John Guidetti,8
+Mickael Antoine-Curier,8
+David Clarkson,8
+Marley Watkins,7
+Stuart Armstrong,7
+Anthony Stokes,7
+Kenny McLean,7
+David Goodwillie,6
+Lionel Ainsworth,6
+Michael Gardyne,6
+Chris Erskine,6
+Peter Pawlett,6
+Aaron Doran,6
+Niall McGinn,5
+Greg Tansey,5
+Lee Erwin,5
+Scott Brown,5
+Stephen ODonnell,5
+Ryan Stevenson,5
+Scott McDonald,5
+Craig Curran,5
+Jason Scotland,5
+Jason Denayer,5
+Edward Ofere,5
+Aleksey Eremenko Jr.,4
+Gary Harkins,4
+Virgil van Dijk,4
+Stephen Mallan,4
+Ryan Christie,4
+Craig Slater,4
+Jaroslaw Fojut,4
+Robbie Muirhead,4
+Steven Thompson,4
+Charlie Telfer,4
+Jonny Hayes,3
+Steven Lawless,3
+Jim McAlister,3
+Raffaele De Vita,3
+Stuart Bannigan,3
+Gary Fraser,3
+Nick Ross,3
+Gary Irvine,3
+Shaleum Logan,3
+James Forrest,3
+Lyle Taylor,3
+Jake Jervis,3
+Nir Bitton,3
+Sean Kelly,3
+Conrad Balatoni,3
+Henrik Ojamaa,3
+Stefan Scepovic,3
+Manuel Pascali,3
+Ash Taylor,3
+Josh Meekings,3
+Adam Drury,3
+Darian Mackinnon,3
+Paul Quinn,3
+Martin Canning,3
+Steven Anderson,3
+Murray Davidson,3
+Ryan Jack,3
+Graeme Shinnie,2
+Kallum Higginbotham,2
+Dougie Imrie,2
+Andy Considine,2
+Martin Woods,2
+Daniel Redmond,2
+Graham Carey,2
+Paul Paton,2
+Mario Bilate,2
+John Rankin,2
+Steve MacLean,2
+Luka Tankulic,2
+Nathan Eccleston,2
+Callum McGregor,2
+Jason Naismith,2
+Tony Dingwall,2
+Jackson Irvine,2
+Christie Elliot,2
+Danny Williams,2
+Sammy Clingan,2
+Mark Reynolds,2
+Danny Swanson,2
+Ryan Dow,2
+Yoann Arquin,2
+Mark Connolly,2
+James Craigen,2
+Gary Warren,2
+Greg Kiltie,2
+Blair Spittal,2
+James McPake,2
+Mikael Lustig,2
+Frederic Frans,2
+Iain Vigurs,2
+Jo Inge Berget,2
+Callum Ball,2
+Cammy Smith,2
+Darren Maatsen,2
+Lee Ashcroft,2
+Adam Matthews,1
+Aidan Connolly,1
+Emilio Izaguirre,1
+James McFadden,1
+Jeroen Tesselaar,1
+Jamie Reckord,1
+Alex Harris,1
+Jim Goodwin,1
+Lee Miller,1
+Chris Millar,1
+Abdul Osman,1
+James Dayton,1
+Chris Kane,1
+Chris Johnston,1
+Conor Grant,1
+Jesus Garcia Tena,1
+Stephen Pearson,1
+Jamie Hamill,1
+Dave MacKay,1
+Simon Lappin,1
+Keith Watson,1
+Rocco Quinn,1
+Paul McGowan,1
+Sean Dillon,1
+Thomas Konrad,1
+Gregg Wylde,1
+Calum Butcher,1
+James Vincent,1
+Nigel Hasselbaink,1
+Paul McGinn,1
+Fraser Kerr,1
+Marcus Fraser,1
+Kieran Sadlier,1
+Craig Wighton,1
+Peter MacDonald,1
+Paul Heffernan,1
+Simon Ramsden,1
+Iain Davidson,1
+Stephen McGinn,1
+Jordan McMillan,1
+Ryan McGowan,1
+Callum Morris,1
+Danny Seaborne,1
+Henri Anier,1
+Nicky Low,1
+Louis Laing,1
+Darryl Westlake,1
+Lucas De Lima Tagliapietra,1
+Liam Henderson,1
+Greg Docherty,1
+David Syme,1
+Moeketsi Sekola,14
+Lerato Lamola,13
+Puleng Tlolane,11
+Cuthbert Malajila,10
+Kermit Erasmus,10
+Ndumiso Mabena,8
+Lehlohonolo Majoro,8
+Teko Modise,7
+Geoffrey Massa,7
+Khama Billiat,7
+Siyabonga Nomvethe,7
+Bernard Parker,7
+George Lebese,7
+Eleazar Rodgers,7
+Jeremy Brockie,7
+Atusaye Nyondo,7
+Mandla Masango,7
+Thabo Mnyamane,7
+Tendai Ndoro,7
+Thuso Phala,6
+Oupa Manyisa,6
+Lerato Chabangu,6
+Collins Mbesuma,6
+Dove Wome,6
+Bongi Ntuli,6
+Mohammed Anas,6
+Goodman Dlamini,6
+Tashreeq Morris,6
+Reneilwe Letsholonyane,5
+Aubrey Ngoma,5
+Bradley Grobler,5
+Camaldine Abraw,5
+Thabiso Nkoana,5
+Rendani Ndou,5
+Clayton Daniels (Jagers),5
+David Zulu,5
+Siphiwe Tshabalala,4
+Kingston Nkhatha,4
+Felix Obada,4
+Essau Kanyenda,4
+Cole Alexander,4
+Eddie Ngalo,4
+Sthembiso Ngcobo,4
+Bongani Ndulula,4
+Mogakolodi Ngele,4
+Gabadinho Mhango,4
+Henrico Botes,4
+Terrence Mandaza,4
+Sibusiso Vilakazi,4
+Mbulelo Mabizela,4
+Robert Ngambi,4
+Menzi Masuku,4
+Alfred Ndengane,4
+Bornwell Mwape,4
+Mohau Mokate,4
+Anthony Laffor,3
+Mpho Makola,3
+Sifiso Myeni,3
+Jabulani Maluleke,3
+Kurt Lentjies,3
+Franklin Cale,3
+Sameehg Doutie,3
+George Akpabio,3
+Mondli Cele +,3
+Erwin Isaacs,3
+Deolin Mekoa,3
+Nathan Paulse,3
+Granwald Scott,3
+Vuyisile Wana,3
+Alje Schut,3
+Thulani Hlatshwayo,3
+Lebogang Manyama,3
+Denver Mukamba,3
+Boban Bogere,3
+Danny Venter,2
+Musa Nyatama,2
+Mark van Heerden,2
+Dino Ndlovu,2
+Sipho Jembula,2
+Daine Klate,2
+Abia Nale,2
+Andile Mbenyane,2
+Mpho Mvelase,2
+Siyabonga Sangweni,2
+Themba Zwane,2
+Henrik Somaeb,2
+Thapelo Morena,2
+Christopher Katongo,2
+Tefu Mashamaite,2
+Lennox Bacela,2
+Larry Cohen,2
+Sadat Ouro-Akoriko,2
+Jacky Motshegwa,2
+Getaneh Kebede,2
+Thobani Mncwango,2
+Tshepo Molala,2
+Maliele Vincent Pule,2
+Kees Kwakman,2
+Edward Manqele,2
+Joel Mogorosi,2
+Katlego Mashego,2
+Calvin Kadi,2
+Thamsanqa Sangweni,2
+Mzikayise Mashaba,2
+Robert Sankara,2
+Issa Sarr,2
+Rodney Ramagalela,2
+Matthew Rusike,2
+Lantshene Phalane,2
+Lehlohonolo Nonyane,2
+Kwanda Mngonyama,2
+Tshepo Liphoko,2
+Abdul Basit Adam,2
+Mhlengi Cele,2
+Tshepo Tema,2
+Riyaad Norodien,2
+Onyekachi Okonkwo,1
+Bantu Mzwakali,1
+Hlompho Kekana,1
+Ramahlwe Mphahlele,1
+Cecil Lolo +,1
+Thabo Matlaba,1
+Dumisani Zuma,1
+Domingues,1
+Nhlanhla Vilakazi,1
+Ayanda Dlamini,1
+Willard Katsande,1
+Khumbulani Banda,1
+William Twala,1
+Thokozani Sekotlong,1
+Keagan Dolly,1
+Phumlani Ntshangase,1
+Ben Motshwari,1
+Vuyo Mere,1
+Mame Niang,1
+Luvhengo Mungomeni,1
+Paulus Masehe,1
+Thanduyise Khuboni,1
+Lucky Baloyi,1
+Thato Mokeke,1
+Travis Graham,1
+Mahlatsi Makudubela,1
+Kudakwashe Mahachi,1
+Milton Ncube,1
+Roggert Nyundu,1
+Mbuyiselo  Thethani,1
+Paseka  Sekese,1
+Dennis Masina,1
+Siyabonga Nkosi,1
+Bevan Fransman,1
+Nazeer Allie,1
+Mabhuti Khenyeza,1
+Ronald Ketjijere,1
+Rudolf Bester,1
+Fikru Teferra Lemessa,1
+Faty Papy,1
+Siphelele Mthembu,1
+Rudi Isaacs,1
+Letladi Madubanya,1
+Ashraf Hendricks,1
+Siboniso Gumede,1
+Vladimir Mandic,1
+Thapelo Tshilo,1
+Tebogo Monyai,1
+Eric Mathoho,1
+Roger da Costa,1
+Buhle Mkhwanazi,1
+Tiyani  Mabunda,1
+Rhulani Manzini,1
+Edwin Gyimah,1
+Toriq Losper,1
+Partson Jaure,1
+Thabo Rakhale,1
+Vuyisile Ntombayithethi,1
+Luyolo Nomandela,1
+Mxolisi Ntshingila,1
+Gift Sithole,1
+Mohamed Awal,1
+Vuyani Ntanga,1
+Thabo Qalinge,1
+Kwabena Adusei,1
+Ugonna Uzochukwu,1
+Erick Chipeta,1
+Noah Sadaoui,1
+Makhehlene Makhaula,1
+Sheldon Van Wyk,1
+Cristiano Ronaldo,48
+Lionel Messi,43
+Neymar,22
+Antoine Griezmann,22
+Carlos Bacca,20
+Aritz Aduriz,18
+Alberto Bueno,17
+Luis Suarez,16
+Karim Benzema,15
+Sergio Garcia,14
+Jonathas,14
+Nolito,13
+James Rodriguez,13
+Gareth Bale,13
+Mario Mandzukic,12
+Luciano Vietto,12
+Cristhian Stuani,12
+Dani Parejo,11
+Paco Alcacer,11
+Joaquin Larrivey,11
+David Barral,11
+Carlos Vela,9
+Mikel Arruabarrena,9
+Felipe Caicedo,9
+Tomer Hemed,8
+Kevin Gameiro,8
+Victor Casadesus,8
+Youssef El Arabi,8
+Juanmi,8
+Chicharito,7
+Pablo Piatti,7
+Gerard Moreno,7
+Santi Mina,7
+Imanol Agirretxe,7
+Vicente Iborra,7
+Leo Baptistao,7
+Alvaro Vazquez,7
+Nabil Ghilas,7
+Sofiane Feghouli,6
+Vitolo,6
+Nordin Amrabat,6
+Pedro,6
+Lucas,6
+Ikechukwu Uche,6
+Nicolas Otamendi,6
+Ivan Rakitic,5
+Gael Kakuta,5
+Tiago,5
+Fabian Orellana,5
+Alvaro Negredo,5
+Raul Garcia,5
+Kalu Uche,5
+Gerard Pique,5
+Federico Piovaccari,5
+Mikel San Jose,5
+Manucho,5
+Florin Andone,5
+Samuel,5
+Javi Guerra,5
+David Lomban,5
+Isco,4
+Denis Cheryshev,4
+Aleix Vidal,4
+Xabi Prieto,4
+Sergio Canales,4
+Federico Cartabia,4
+Chory Castro,4
+Moi Gomez,4
+Thievy Bifouma,4
+Verza,4
+Victor Rodriguez,4
+Saul Niguez,4
+Toche,4
+Sergio Ramos,4
+Karim Yoda,4
+Oriol Riera,4
+Shkodran Mustafi,4
+Edgar Mendez,4
+Andre Gomes,4
+Robert Ibanez,4
+Stephane Mbia,4
+Sergi Darder,4
+Jhon Cordoba,4
+Thomas,4
+Saul Berjon,3
+Lucas Vazquez,3
+Jose Antonio Reyes,3
+Rodrigo,3
+Ever Banega,3
+Edu Albacar,3
+Victor Sanchez,3
+Mario Gaspar,3
+Ivan Cavaleiro,3
+Charles,3
+Adrian Embarba,3
+Roque Santa Cruz,3
+Benat Etxebarria,3
+Mikel Rico,3
+Diego Godin,3
+Fernando Torres,3
+Fernando Soriano,3
+Miranda,3
+Manu del Moral,3
+Javi Fuego,3
+Fran Rico,3
+Jese,3
+Ander Capa,3
+Jose Luis Morales,3
+Mateo Musacchio,3
+Diego Castro,3
+Diego Mainz,3
+Celso Borges,3
+Mario Pasalic,3
+Koke,2
+Xavi,2
+Toni Kroos,2
+Marcelo,2
+Pablo Sarabia,2
+Pedro Leon,2
+Arda Turan,2
+Denis Suarez,2
+Coke,2
+Eneko Boveda,2
+Pepe,2
+Mehdi Lacen,2
+Ignacio Camacho,2
+Ruben Rochina,2
+Raul Albentosa,2
+Sergio Escudero,2
+Isaac Cuenca,2
+Fredy Hinestroza,2
+Angel Lafita,2
+Bruno Soriano,2
+Grzegorz Krychowiak,2
+Jonathan dos Santos,2
+Iago Aspas,2
+Alfred Finnbogason,2
+Pablo Hernandez,2
+Luis Alberto,2
+Inigo Martinez,2
+Jose Rodriguez,2
+Garry Rodrigues,2
+Victor Camarasa,2
+Jeremy Mathieu,2
+Alberto Lopo,2
+Haris Medunjanin,2
+Miku,2
+David Zurutuza,2
+Xabier Etxeita,2
+Ander Iturraspe,2
+Raul Baena,2
+Michel,2
+Javier Espinosa,2
+Raul Navas,2
+Jonathan Zongo,2
+Sandro Ramirez,2
+Markel Susaeta,1
+Ruben Pardo,1
+Gerard Deulofeu,1
+Jose Luis Gaya,1
+Michael Krohn-Dehli,1
+Alvaro Arbeloa,1
+Antonio Barragan,1
+Faycal Fajr,1
+Samu Castillejo,1
+Roberto Trashorras,1
+Luka Modric,1
+Sammir,1
+Jordi Alba,1
+Javi Lara,1
+Diogo Figueiras,1
+Rodrigo de Paul,1
+Andreas Ivanschitz,1
+Giovani dos Santos,1
+Piti,1
+Borja Garcia,1
+Oscar de Marcos,1
+Marc Bartra,1
+Recio,1
+Jose Gimenez,1
+Nabil El Zhar,1
+Pedro Mosquera,1
+Guilherme Siqueira,1
+Vitorino Antunes,1
+Emiliano Insua,1
+Iker Muniain,1
+Borja Viguera,1
+Sergio Busquets,1
+Alberto de la Bella,1
+Abraham,1
+Ibai Gomez,1
+Dani Garcia,1
+Raul Jimenez,1
+Ruben Garcia,1
+Helder Postiga,1
+Alexis,1
+Andoni Iraola,1
+Paco Montanes,1
+Nicolas Pareja,1
+Hector Moreno,1
+Simao,1
+Juanfran,1
+Abraham Gonzalez,1
+Baba,1
+Anaitz Arbilla,1
+Damian Suarez,1
+Luso,1
+Lucas Orban,1
+Allan Nyom,1
+Patrick Ekeng,1
+Carles Gil,1
+Rafinha,1
+Fidel,1
+Ager Aketxe,1
+Manu Trigueros,1
+Emiliano Velazquez,1
+Jozabed Sanchez,1
+Munir El Haddadi,1
+Inaki Williams,1
+Ricardo Horta,1
+Theo Bongonda,1
+Isaac Success,1
+Borja Fernandez,1
+Carlos Gurpegi,1
+Duda,1
+Juan Rodriguez,1
+Diego Colotto,1
+Gustavo Cabral,1
+Xisco,1
+Mario Suarez,1
+Daniel Carrico,1
+Augusto Fernandez,1
+Jean-Sylvain Babin,1
+Gorka Elustondo,1
+Markel Bergara,1
+Mauro dos Santos,1
+Nacho Fernandez,1
+Jorge Morcillo,1
+Jaume Costa,1
+Michel,1
+Antonio Amaya,1
+Juan Dominguez,1
+Timothee Kolodziejczak,1
+Rafael Martins,1
+Hugo Mallo,1
+Luis Farina,1
+Alex Lopez,1
+Joel Campbell,1
+Pablo Hervias,1
+Diogo Salomao,1
+Alvaro Gonzalez,1
+Aritz Elustondo,1
+Cristian Herrera,1
+Ruben Castro,32
+Sergio Araujo,23
+Borja Baston,22
+David Rodriguez,20
+Jorge Molina,19
+Urko Vera,17
+Oscar Gonzalez,16
+Fran Sandaza,16
+Sergi Enrich,16
+Yuri,16
+Julio Alvarez,12
+Felipe Sanchon,11
+Jean Marie Dongou,11
+Nino,11
+Diego Ifran,11
+Manu Barreiro,11
+Chuli,11
+Miguel Angel Guerrero,11
+Acoran Barrera,10
+Juan Jose Collantes,10
+Ruben Cruz,10
+Jaime Mata,10
+Nauzet Aleman,9
+Pedro Martin,9
+Sergio Leon,9
+Carlos Castro,9
+Xisco,9
+Toti,8
+Eldin Hadzic,8
+Manuel Arana,8
+Sandro Ramirez,8
+Javi Eraso,8
+Jony,7
+Momo,7
+Johan Mojica,7
+Pedro,7
+Willian Jose,7
+Pablo Perez,7
+Pablo Caballero,7
+Mamadou Kone,7
+Jaime Romero,7
+Borja Lazaro,7
+Marco Asensio,6
+Pedro Rios,6
+Juli,6
+Keko,6
+Jonathan Pereira,6
+Vincenzo Rennella,6
+Jonathan Viera,6
+Maximiliano Perez,6
+Portu,6
+Cesar Diaz,6
+Anibal Zurdo,6
+Roger,6
+Andy,6
+Marko Scepovic,6
+Mariano Sanz,6
+Juan Camara,6
+Chumbi,6
+Alex Granell,5
+Iriome Gonzalez,5
+Suso Santana,5
+Ruben Sobrino,5
+Joselu,5
+Dani Ceballos,5
+David Concha,5
+Isma Lopez,5
+Joan Roman,5
+Vitolo,5
+David Timor,5
+Antonio Nunez,5
+Jesus Berrocal,5
+Jesus Imaz,5
+Luis Fernandez,5
+Javad Nekounam,5
+Juanjo,5
+Zakarya Bergdich,5
+Jorge Diaz,5
+Pablo Infante,4
+Vicente Perez,4
+Oscar Plano,4
+Alvaro Garcia,4
+Samuel Delgado,4
+Mayor,4
+Alejandro Grimaldo,4
+Kiko,4
+Quique,4
+Angel Montoro,4
+Fernando Velasco,4
+Munir El Haddadi,4
+Miguel de las Cuevas,4
+Braian Rodriguez,4
+Alfredo Ortuno,4
+Hernan Menosse,4
+Alen Halilovic,4
+Caye Quintana,4
+Raul Tamudo,4
+Ranko Despotovic,4
+Juanma,4
+Richy,4
+Pelayo,4
+Florian Lejeune,4
+Iago Diaz,4
+Adama Traore,3
+Roberto Torres,3
+Inaki Saenz,3
+Pitu,3
+David Querol,3
+Manuel Gato,3
+Bernardo Espinosa,3
+Juan Muniz,3
+Facundo Guichon,3
+Sergio Cidoncha,3
+David Lopez,3
+Guzman Casaseca,3
+Hernan Perez,3
+Roque Mesa,3
+Jesus Vazquez,3
+Jeffren,3
+Ion Velez,3
+Juanpe,3
+Toni,3
+Patric,3
+Fofo,3
+Raoul Loe,3
+Vicente Gomez,3
+Mamadou Sylla,3
+Lolo,3
+Manuel Lanzarote,3
+Aythami Artiles,3
+Hector Verdes,3
+Martin Mantovani,3
+Borja Granero,3
+Sergio Alvarez,3
+Hernan,3
+Gerard Gumbau ,3
+David Aganzo,3
+Cesar Caneda,3
+Jorge Pulido,3
+Mickael Gaffoor,3
+Alvaro Garcia,3
+Diego Aguirre,2
+Alex Garcia,2
+Fran Carnicer,2
+David Simon,2
+Natalio,2
+Cristian Garcia,2
+Alvaro Rubio,2
+Igor Martinez,2
+Javi Alamo,2
+Alvaro Anton,2
+Miguel Palanca,2
+Jose Antonio Rios,2
+Nacho Cases,2
+Aday,2
+Sergio Postigo,2
+Fausto,2
+Antonio Martinez,2
+Angel Lopez,2
+Javier Flano,2
+Antonio Hidalgo,2
+Oscar Diaz,2
+Victor Diaz,2
+Xavi Torres,2
+Carlos Carmona,2
+Aitor Sanz,2
+Javi Soria,2
+Manu,2
+Pau Cendros,2
+Nagore,2
+David Junc`a,2
+Kenan Kodro,2
+Asdrubal Padron,2
+Carlos Aranda,2
+Thierry Moutinho,2
+Francisco Regalon,2
+Eloi Amagat,2
+David Miguelez,2
+Raul Garcia,2
+Javi Hervas,2
+Juanto Ortuno,2
+Kasim Nuhu,2
+Antonio Dominguez,2
+David Garcia,2
+Tulio de Melo,2
+Juanma,2
+Alberto Aguilar,2
+Miguel Flano,2
+Pedro Alcala,2
+Vullnet Basha,2
+Nikola Vujadinovic,2
+Ruper,2
+Jonas Ramalho,2
+Aridane,2
+Carlos Ruiz,2
+Alvaro Pena,2
+Enric Pi,2
+Abdon Prats,2
+Bruno Gonzalez,2
+Albert Dorca,1
+Francisco Molinero,1
+Carlos Pita,1
+Foued Kadir,1
+Michael Pereira,1
+Juan Carlos,1
+Ruben Pena,1
+Mikel Merino,1
+Oier,1
+Gorka Kijera,1
+Hugo Fraile,1
+Alfred NDiaye,1
+Cristo Martin,1
+Inigo Ruiz de Galarreta,1
+Fernandez,1
+Bobley Anderson,1
+Sergio Llamas,1
+Ruben Gonzalez,1
+Jandro,1
+Jiri Jarosik,1
+Marc Bertran,1
+Emmanuel Culio,1
+Jonathan Ruiz,1
+Victor Laguardia,1
+Tito,1
+Alvaro Cejudo,1
+Javier Matilla,1
+Iker Guarrotxena,1
+Javi Ros,1
+Gerrit Stoeten,1
+Eloy Gila,1
+Manuel Molina,1
+Pedro Bigas,1
+Adan Gurdiel,1
+Jesus Vallejo,1
+Pena,1
+Jordi Lopez,1
+Josep Lluis Marti,1
+Marquitos,1
+Marc Valiente,1
+Joao Victor,1
+Jesus Rueda,1
+Sergio Prendes,1
+Juanjo,1
+Ernesto Galan,1
+Inigo Eguaras,1
+Miguel Nunez,1
+Rafa Garcia,1
+Pablo Hervias,1
+Julen Castaneda,1
+Arturo Rodriguez,1
+Miguel Cifuentes,1
+Pape Maly Diamanka,1
+Asier Barahona,1
+Alberto Martin,1
+Ruben Mesa,1
+Victor Garcia,1
+Dani Ndi,1
+Agus,1
+Sergio Tejera,1
+Carlos Bellvis,1
+Manuel Pavon,1
+Alberto Lora,1
+Cristian Bustos,1
+Javi Cantero,1
+Alex Ortiz,1
+Ruyman,1
+Daniel Toribio,1
+Fernando Seoane,1
+Gerard Bordas,1
+Migue,1
+Marcelo Silva,1
+Manuel Onwu,1
+Alberto Perea,1
+Cicinho,1
+Ulises Davila,1
+Sotan Tanabe,1
+Lucas Dominguez,1
+Benja,1
+Israel Puerto,1
+Gonzalo,1
+Alex Vallejo,1
+Filip Markovic,1
+Alex Barrera,1
+Djene,1
+Quique Rivero,1
+Aimar Moratalla,1
+Carlos Hernandez,1
+Carles Mas,1
+Diego Rico,1
+Brandon Llamas,1
+Wilfrid Kaptoum,1
+Sergi Palencia,1
+Hector Figueroa,1
+Cristo Gonzalez,1
+Emir Kujovic,21
+Henok Goitom,18
+Robin Simovic,12
+Nyasha Mushekwi,12
+Johan Oremo,12
+Marcus Antonsson,12
+Viktor Claesson,11
+Markus Rosenberg,11
+Paulinho,11
+Arber Zeneli,10
+Christoffer Nyman,10
+Sam Johnson,10
+Soren Rieks,10
+Viktor Prodell,10
+Martin Broberg,10
+Jo Inge Berget,9
+Pa Amat Dibba,8
+Mohamed Bangura,8
+Hakeem Araba,8
+Arnor Ingvi Traustason,7
+Magnus Wolff Eikrem,7
+Johan Bertilsson,7
+Sebastian Andersson,7
+Marcus Rohden,7
+Daniel Gustavsson,7
+Simon Hedlund,6
+Dioh Williams,6
+Johan Blomberg,6
+Jakob Ankersen,6
+Daniel Berntsen,6
+Alexander Jeremejeff,6
+John Owoeri,6
+Stefan Rodevag,6
+Lasse Vibe,6
+Erik Israelsson,6
+Gustaf Nilsson,6
+Alhaji Kamara,6
+Mikael Boman,6
+Nikola Djurdjic,5
+Emil Salomonsson,5
+Fredrik Torsteinbo,5
+Per Frick,5
+Fredrik Brustad,5
+Gustav Engvall,5
+Samuel Gustafson,5
+Nahir Besara,5
+Arnor Smarason,5
+Nabil Bahoui,5
+Alexander Fransson,5
+Rene Makondele,5
+Tobias Eriksson,5
+Nasiru Mohammed,4
+Kerim Mrabti,4
+James Keene,4
+Runar Mar Sigurjonsson,4
+Kennedy,4
+Johan Eklund,4
+Victor Skold,4
+Karl Holmberg,4
+Jesper Arvidsson,4
+Vladimir Rodic,4
+Simon Skrabb,4
+Matthew Rusike,4
+Junes Barny,4
+Emmanuel Boateng,4
+Astrit Ajdarevic,3
+Kristian Bergstrom,3
+Jonas Lantto,3
+David Elm,3
+Jordan Larsson,3
+Martin Ericsson,3
+Simon Lundevall,3
+Linus Hallenius,3
+Darijan Bojanic,3
+Nils-Eric Johansson,3
+Jere Uronen,3
+Mads Albaek,3
+Mauricio Albornoz,3
+Johannes Vall,3
+Linus Wahlqvist,3
+Viktor Elm,3
+David Svensson,3
+Par Ericsson,3
+Omar Colley,3
+Pawel Cibicki,3
+Carl Wede,2
+Robbin Sellin,2
+Nikola Tkalcic,2
+Haitam Aleesami,2
+Oscar Lewicki,2
+Alex Pereira,2
+Godsway Donyoh,2
+Anders Svensson,2
+Daniel Sjolund,2
+Anton Wede,2
+Lalawele Atakora,2
+Papa Diouf,2
+Rade Prica,2
+Christoffer Andersson,2
+Andreas Johansson,2
+Johan Persson,2
+Kevin Walker,2
+Sebastian Eriksson,2
+Mats Solheim,2
+Enoch Kofi Adu,2
+Ahmed Yasin,2
+Adam Chennoufi,2
+Jakob Orlov,2
+Romario Pereira Sipiao,2
+Mans Soderqvist,2
+Simon Gustafson,2
+Dickson Etuhu,2
+Birkir Mar Saevarsson,2
+Alexander Jakobsen,2
+Lasse Nilsson,2
+Erik Johansson,2
+Simon Helg,2
+Michiel Hemmen,2
+Agon Mehmeti,2
+Daniel Nordmark,2
+Tor Oyvind Hovda,2
+Emil Bergstrom,2
+Kwame Karikari,2
+Ilir Berisha,2
+Joakim Nilsson,2
+Filip Sachpekidis,2
+Joel Andersson,2
+Felipe Carvalho,2
+Jonathan Ring,1
+Marcus Pode,1
+Yoshimar Yotun,1
+Ismael Silva Lima,1
+Stefan Ishizaki,1
+Gunnar Heidar Thorvaldsson,1
+Robert Ahman-Persson,1
+Sebastian Rajalakso,1
+Riku Riski,1
+Nordin Gerzic,1
+Lars Gerson,1
+Adam Eriksson,1
+Adam Lundqvist,1
+Mattias Bjarsmyr,1
+Shpetim Hasani,1
+Mattias Lindstrom,1
+King Gyan,1
+Christoffer Carlsson,1
+Dardan Rexhepi,1
+Simon Kroon,1
+Jesper Karlstrom,1
+Erdal Rakip,1
+Jos Hooiveld,1
+Peter Larsson,1
+Rawez Lawan,1
+Gustav Svensson,1
+Jasmin Sudic,1
+Anders Baath,1
+Tom Pettersson,1
+Victor Palsson,1
+David Fallman,1
+Eidur Aron Sigurbjornsson,1
+Thomas Mikkelsen,1
+Dan Keat,1
+Niklas Gunnarsson,1
+Emil Krafth,1
+Seon-Min Moon,1
+Dennis Olsson,1
+Noah Sonko Sundberg,1
+Jan Gunnar Solli,1
+Patrik Haginge,1
+Kari Arnason,1
+Stefan Alander,1
+Kristoffer Fagercrantz,1
+Daniel Sliper,1
+Rasmus Bengtsson,1
+Andreas Dahlen,1
+Henning Hauger,1
+Mohammed Abubakari,1
+Thomas Rogne,1
+Kamal Mustafa,1
+Robin Nilsson,1
+Antonio Rojas,1
+Erik Moberg,1
+Johan Svahn,1
+Robert Lundstrom,1
+Alexander Henningsson,1
+Jon Gudni Fjoluson,1
+Lars Saetra,1
+Mario Jelavic,1
+Ammar Ahmed,1
+Leo Englund,1
+Carl Johansson,1
+Tshutshu Tshakasua,1
+Per Karlsson,1
+Sauli Vaisanen,1
+Filip Dagerstal,1
+Egzon Binaku,1
+Shkelzen Gashi,22
+Marco Schneuwly,17
+Guillaume Hoarau,17
+Moussa Konate,16
+Munas Dabbur,13
+Marco Streller,12
+Berat Sadik,12
+Dario Lezcano,12
+Caio,11
+Breel Embolo,10
+Renato Steffen,9
+Franck Etoundi,9
+Goran Karanovic,9
+Yannis Tafer,8
+Yassine Chikhaoui,8
+Yoric Ravet,8
+Matias Delgado,8
+Amine Chermiti,8
+Dzengis Cavusevic,8
+Remo Freuler,7
+Davide Call`a,7
+Roberto Rodriguez,7
+Pascal Schurpf,7
+Jakob Jantscher,6
+Christian Schneuwly,6
+Raphael Nuzzolo,6
+Davide Chiumiento,6
+Daniel Follonier,6
+Carlitos,5
+Luca Zuffi,5
+Markus Neumayr,5
+Alexander Gerndt,5
+Marco Mathys,5
+Luca Radice,5
+Michael Lang,5
+Albert Bunjaku,5
+Yuya Kubo,5
+Dante Senger,5
+Pa Modou,4
+Milan Gajic,4
+Avi Rikan,4
+Franz Burgmeier,4
+Ovidiu Herea,4
+Milan Vilotic,4
+Gianluca Frontino,4
+Alexander Gonzalez,4
+Fulvio Sulmoni,4
+Nelson Ferreira,3
+Derlis Gonzalez,3
+Stephan Andrist,3
+Geoffrey Treand,3
+Manuel Sutter,3
+Marco Schonbachler,3
+Anatole Ngamukol,3
+Petar Sliskovic,3
+Daniele Russo,3
+Yoichiro Kakitani,3
+Armando Sadiku,3
+Vilmos Vanczak,3
+Tomislav Puljic,3
+Michael Frey,3
+Leonardo Bertone,3
+Dario Vidosic,2
+Steven Lang,2
+Amir Abrashi,2
+Stephane Besle,2
+Andreas Wittwer,2
+Samuel Afum,2
+Mohamed Elneny,2
+Alain Nef,2
+Marco Aratore,2
+Marco Rojas,2
+Francisco Rodriguez,2
+Thomas Reinmann,2
+Krisztian Vadocz,2
+Moreno Costanzo,2
+Gonzalo Zarate,2
+Dimitris Christofi,2
+Sandro Wieser,2
+Gaetan Karlen,2
+Dusan Djuric,2
+Juan Pablo Garat,2
+Andrija Kaludjerovic,2
+Igor Nganga,2
+Michael Perrier,2
+Ridge Mobulu,2
+Ivan Kecojevic,2
+Michael Siegfried,2
+Berat Djimsiti,2
+Kahraba,2
+Sven Luscher,1
+Fabian Frei,1
+Adrian Winter,1
+Dejan Janjatovic,1
+Michael Dingsdag,1
+Nassim Ben Khalifa,1
+Fabian Schar,1
+Walter Samuel,1
+Reto Ziegler,1
+Veroljub Salatic,1
+Claudio Lustenberger,1
+Daniel Sikorski,1
+Dennis Hediger,1
+Burim Kukeli,1
+Taulant Xhaka,1
+Nicolas Hasler,1
+Ahmed Hamoudi,1
+Kwang-Ryong Pak,1
+Edimilson Fernandes,1
+Enrico Schirinzi,1
+Oliver Bozanic,1
+Frank Feltscher,1
+Danijel Aleksic,1
+Giovanni Sio,1
+Francois Affolter,1
+Sekou Sanogo,1
+Nico Elvedi,1
+Alain Rochat,1
+Alain Schultz,1
+Florian Stahel,1
+Marek Suchy,1
+Philipp Muntwiler,1
+Simone Grippo,1
+Edgars Gauracs,1
+Thierry Doubai,1
+Ramon Cecchini,1
+Mario Gavranovic,1
+Marcelo Diaz,1
+Asmir Kajevic,1
+Sally Sarr,1
+Naser Aliji,1
+Shani Tarashaj,1
+Albian Ajeti,1
+Gregory Wuthrich,1
+Birama Ndoye,1
+Daniel Lasser,1
+Fernandao,22
+Demba Ba,18
+Oscar Cardozo,17
+Burak Yilmaz,16
+Moussa Sow,14
+Oscar Scarione,13
+Cedric Bakambu,13
+Aatif Chahechouhe,13
+Volkan Sen,12
+Theofanis Gekas,12
+Leonard Kweuke,12
+Umut Bulut,11
+Semih Senturk,11
+Welliton,10
+Muhammet Demir,10
+Wesley Sneijder,10
+Edinho,10
+Abdou Traore,10
+Mehmet Ekici,9
+Ryan Babel,9
+Deniz Kadah,9
+Omer Sismanoglu,9
+Bogdan Stancu,9
+Sercan Yildirim,8
+Rogelio Funes Mori,8
+Olcay Sahan,8
+Dirk Kuyt,8
+Pierre Webo,8
+Edin Visca,8
+Sinan Kaloglu,8
+Jacques Zoua,8
+Josue,7
+Ozer Hurmaci,7
+Ermin Zec,7
+Adem Buyuk,7
+Carl Medjani,7
+Hasan Kabze,7
+Bilal Kisa,6
+Burhan Eser,6
+Prejuce Nakoulma,6
+Doka Madureira,6
+Ronald Vargas,6
+Batuhan Karadeniz,6
+John Chibuike,6
+Emre Belozoglu,6
+Dimitar Rangelov,6
+Sefa Yilmaz,6
+Tunay Torun,5
+Jose Sosa,5
+Ricardo Vaz Te,5
+Irfan Kahveci,5
+Oktay Delibalta,5
+Gokhan Unal,5
+Gabriel Torje,5
+Ogulcan Caglayan,5
+Andre Castro,5
+Mervan Celik,5
+Cenk Tosun,5
+Chico,5
+Selcuk Inan,4
+Moestafa El Kabir,4
+Marcio Mossoro,4
+Yasin Oztekin,4
+Gokhan Tore,4
+Sercan Kaya,4
+Yusuf Erdogan,4
+Joseph Akpala,4
+Emmanuel Emenike,4
+Sanharib Malki,4
+Ryan Donk,4
+Emre Colak,4
+Mahmut Tekdemir,4
+Nemanja Tomic,4
+Samuel Holmen,4
+Aurelien Chedjou,4
+Mustafa Pektemek,4
+Musa Cagiran,4
+Marko Futacs,4
+Jeremy Perbet,4
+Alexandru Epureanu,4
+Ante Kulusic,4
+Milan Mitrovic,4
+Mehmet Batdal,4
+Erdem Sen,4
+Ahmet Ilhan Ozek,4
+Caner Erkin,3
+Ozan Tufan,3
+Diego,3
+Fernando Belluschi,3
+Wederson,3
+Valentin Viola,3
+Alper Potuk,3
+Domi Kumbela,3
+Servet Cetin,3
+Guray Vural,3
+John Utaka,3
+Sezer Ozturk,3
+Bjorn Vleminckx,3
+Erkan Zengin,3
+Renato Civelli,3
+Bruno Mezenga,3
+Isaac Promise,3
+Royston Drenthe,3
+Mehmet Akyuz,3
+Cenk Ahmet Alkilic,3
+Kerim Frei,3
+Berat Tosun,3
+Mehdi Taouil,3
+Goran Causic,3
+Eren Albayrak,2
+Anil Karaer,2
+Oguzhan Ozyakup,2
+Erdem Ozgenc,2
+Mugdat Celik,2
+Berkan Emir,2
+Ludovic Obraniak,2
+Raul Meireles,2
+Atiba Hutchinson,2
+Guido Kocer,2
+Mehmet Topal,2
+Onur Ayik,2
+Furkan Ozcal,2
+Omer Ali Sahiner,2
+Erkan Kas,2
+Aleksandr Hleb,2
+Eren Derdiyok,2
+Djalma,2
+Ramon Motta,2
+Guy-Michel Landel,2
+Kaan Kanak,2
+Raheem Lawal,2
+Mustafa Durak,2
+Abdul Khalili,2
+Ugur Ciftci,2
+Egemen Korkmaz,2
+Custodio,2
+Ibrahim Akin,2
+Hurriyet Gucer,2
+Filip Holosko,2
+Tita,2
+Manuel da Costa,2
+Ilhan Eker,2
+Sezgin Coskun,2
+Burak Calik,2
+Essaid Belkalem,2
+Necati Ates,2
+Deniz Yilmaz,2
+Kyle Lafferty,2
+Umit Korkmaz,2
+Ahmet Aras,2
+Emre Gural,2
+Halil Colak,2
+Radosav Petrovic,2
+John Boye,2
+Loret Sadiku,2
+Demba Camara,2
+Cicinho,1
+Murat Yildirim,1
+Ibrahim Sissoko,1
+Ricardo Pedriel,1
+Olcan Adin,1
+Guven Varol,1
+Ali Camdali,1
+Tabare Viudez,1
+Bruma,1
+Lomana LuaLua,1
+Alanzinho,1
+Mehmet Guven,1
+Saidi Ntibazonkiza,1
+Ugur Inceman,1
+Kader Mangane,1
+Yalcin Ayhan,1
+Felipe Melo,1
+Serdar Aziz,1
+Murat Duruer,1
+Giray Kacar,1
+Diego Angelo,1
+Toko,1
+Mustapha Yatabare,1
+Musa Sinan Yilmazer,1
+Efe Ozarslan,1
+Veysel Sari,1
+Samba Sow,1
+Kivanc Karakas,1
+Andac Guleryuz,1
+Serdar Gurler,1
+Orhan Gulle,1
+Fatih Candan,1
+Cenk Sahin,1
+Godfrey Oboabona,1
+Mehmet Tas,1
+Hamit Altintop,1
+Selcuk Sahin,1
+Bekir Irtegun,1
+Sedat Agcay,1
+Turgay Bahadir,1
+Ciprian Marica,1
+Mehmet Topuz,1
+Dusko Tosic,1
+Michal Kadlec,1
+Emre Gungor,1
+Hakan Balta,1
+Veli Kavlak,1
+Kadir Bekmezci,1
+Nuno Andre Coelho,1
+Ugur Demirok,1
+Mirkan Aydin,1
+Kadir Keles,1
+Douglao,1
+Ibrahim Ozturk,1
+Ismail Konuk,1
+Andre Santos,1
+Macauley Chrisantus,1
+Daniel Opare,1
+Murat Akca,1
+Ousmane Viera,1
+Aykut Ceviker,1
+Hakan Arslan,1
+Mustafa Akbas,1
+Erkut Senturk,1
+Berkay Dabanli,1
+Onur Bayramoglu,1
+Liviu Antal,1
+May Mahlangu,1
+Tomislav Glumac,1
+Artun Akcakin,1
+Ali Ozturk,1
+Selim Ay,1
+Caner Osmanpasa,1
+Yacouba Sylla,1
+Khalifa Jabbie,1
+Eray Ataseven,1
+Salih Dursun,1
+Enes Unal,1
+Alex Telles,1
+Cagri Bulbul,1
+Mehmet Secme,1
+Eric Bicfalvi,17
+Alex Teixeira,17
+Artem Kravets,15
+Andriy Yarmolenko,14
+Nikola Kalinic,12
+Oleksandr Gladky,11
+Luiz Adriano,9
+Djordje Lazic,9
+Zeljko Ljubenovic,8
+Oleksandr Kovpak,8
+Evgen Seleznev,8
+Cleiton Xavier,8
+Pylyp Budkivsky,8
+Evgen Konoplyanka,7
+Artem Gromov,7
+Sergiy Gryn,7
+Volodymyr Priyomov,6
+Jeremain Lens,5
+Bruno Gama,5
+Sergiy Myakushko,5
+Aleksandre Kobakhidze,5
+Sanjar Tursunov,5
+Lukasz Teodorczyk,5
+Junior Moraes,5
+Ruslan Platon,5
+Darijo Srna,4
+Douglas Costa,4
+Taison,4
+Andriy Totovytsky,4
+Jaja Coelho,4
+Marlos,4
+Maksym Feshchuk,4
+Anton Shynder,4
+Oleksiy Gai,4
+Mykola Morozyuk,4
+Dmytro Khomchenovsky,4
+Taras Stepanenko,4
+Kyrylo Doroshenko,4
+Sergiy Bolbat,4
+Dmytro Khlyobas,4
+Gregor Balazic,4
+Vyacheslav Churko,4
+Gegam Kadimyan,4
+Evgen Shakhov,3
+Andriy Bliznichenko,3
+Maksim Shatskikh,3
+Jaba Lipartia,3
+Igor Semenyna,3
+Oleg Gusev,3
+Dieumerci Mbokani,3
+Denys Dedechko,3
+Igor Khudobyak,3
+Sergiy Sydorchuk,3
+Oleksandr Kaplienko,3
+Vitali Lysytsky,3
+Ruslan Fomin,3
+Volodymyr Lysenko,3
+Sergiy Kryvtsov,3
+Sergiy Yavorsky,3
+Wellington Nem,3
+Ivica Zunic,3
+Andriy Pylyavsky,3
+Maksym Malyshev,3
+Youn`es Belhanda,2
+Redvan Memeshev,2
+Denys Kozhanov,2
+Konstantinos Makridis,2
+Oleksandr Karavaev,2
+Yaroslav Rakitsky,2
+David Caiado,2
+Domagoj Vida,2
+Vitali Balashov,2
+Roman Bezus,2
+Vladyslav Kulach,2
+Volodymyr Kostevych,2
+Sheriff Isa,2
+Moha,2
+Sergiy Nazarenko,2
+Yuri Shturko,2
+Michel Babatunde,2
+Valeri Luchkevych,2
+Maryan Shved,2
+Vyacheslav Checher,2
+Anatoli Didenko,2
+Matheus,2
+Vitali Kaverin,2
+Oleksandr Sytnik,2
+Anton Postupalenko,2
+Vitali Vernydub,2
+Oleksiy Dovgy,2
+Igor Plastun,2
+Igor Tyshchenko,2
+Florentin Matei,2
+Vitali Buyalsky,2
+Vadym Strashkevych,2
+Ruslan Malinovsky,1
+Denys Kulakov,1
+Volodymyr Gomenyuk,1
+Pavlo Ksenz,1
+Oleg Golodyuk,1
+Mykyta Kamenyuka,1
+Oleg Barannik,1
+Ahmed Januzi,1
+Gregory Nelson,1
+Roman Zozulya,1
+Vyacheslav Shevchuk,1
+Cristian Villagra,1
+Alex da Silva,1
+Miguel Veloso,1
+Dentinho,1
+Dmytro Lepa,1
+Vadym Sapai,1
+Sergiy Rybalka,1
+Oleg Mishchenko,1
+Ruslan Babenko,1
+Maksym Ig. Bily,1
+Vladyslav Kalitvintsev,1
+Andriy Tsurikov,1
+Artem Biesiedin,1
+Mykyta Tatarkov,1
+Ayila Yussuf,1
+Alexandru Tudose,1
+Mikhail Sivakov,1
+Vitorino Antunes,1
+Dmytro Grishko,1
+Vyacheslav Sharpar,1
+Artem Fedetsky,1
+Andriy Tkachuk,1
+Sergiy Siminin,1
+Sergiy Shevchuk,1
+Artur Karnoza,1
+Vitali Gavrysh,1
+Ivan Bobko,1
+Evgen Khacheridi,1
+Andriy Gitchenko,1
+Oleksandr Sklyar,1
+Dmytro Kozban,1
+Fernando,1
+Aldo Adorno,1
+Nurudeen Orelesi,1
+Valeri Gryshyn,1
+Vitalijs Jagodinskis,1
+Ruslan Zubkov,1
+Prince Segbefia,1
+Taras Puchkovsky,1
+Fred,1
+Vladyslav Gelzin,1
+Ivan Petryak,1
+Alessandro Celin,1
+Leo,1
+Mykyta Burda,1
+Taras Kacharaba,1
+Artem Shabanov,1
+Mykhaylo Sergiychuk,1
+Evgen Chumak,1
+Mariotto,1
+Mykola Shaparenko,1

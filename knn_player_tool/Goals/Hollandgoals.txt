@@ -1,0 +1,233 @@
+Memphis Depay,22
+Luuk de Jong,20
+Michiel Kramer,17
+Michael de Leeuw,17
+Mark Uth,15
+Tjaronn Chery,15
+Georginio Wijnaldum,14
+Adnane Tighadouini,14
+Hakim Ziyech,13
+Bertrand Traoré,13
+Tom van Weert,13
+Bartholomew Ogbeche,13
+Colin Kazim-Richards,11
+Steven Berghuis,11
+Sébastien Haller,11
+Luciano Slagveer,11
+Arkadiusz Milik,11
+Tomas Necid,11
+Stef Nijland,11
+Nemanja Gudelj,11
+Samuel Armenteros,11
+Marko Vejinović,10
+Bryan Linssen,10
+Jeff Stans,10
+Luc Castaignos,10
+Anwar El Ghazi,9
+Valeri Qazaishvili,9
+Jesús Corona,9
+Aron Jóhannsson,9
+Ruud Boymans,9
+Lasse Schöne,8
+Roland Alberg,8
+Jesper Drost,8
+Wout Weghorst,8
+Jens Toornstra,8
+Sam Larsson,8
+Zakaria Labyad,8
+Albert Rusnák,7
+Édouard Duplan,7
+Adam Maher,7
+Ben Sahar,7
+Lex Immers,7
+Markus Henriksen,7
+Elvis Manu,7
+Kolbeinn Sigthórsson,7
+Thomas Bruns,7
+Sander van de Streek,7
+Mitchell te Vrede,7
+Luciano Narsingh,6
+Davy Klaassen,6
+Abiola Dauda,6
+Jürgen Locadia,6
+Mustafa Saymak,6
+Yassine Ayoub,5
+Ali Messaoud,5
+Youness Mokhtar,5
+Ricardo Kishna,5
+Oussama Tannane,5
+Davy Pröpper,5
+Muamer Tankovic,5
+Robbie Haemhouts,5
+Erik Falkenburg,5
+Mike van Duinen,5
+Ben Rienstra,5
+Erik Bakker,5
+Renato Tapia,5
+Bruno Andrade,4
+Iliass Bel Hassani,4
+Adil Auassar,4
+Jean-Paul Boëtius,4
+Martijn Barto,4
+Robert Mühren,4
+Daley Sinkgraven,4
+Denni Avdic,4
+Mikhael Rosheuvel,4
+Maikel van der Werff,4
+Mats Seuntjens,4
+Joël Veltman,4
+Anass Achahbar,4
+Alex Schalk,4
+Ryan Thomas,3
+Rubio Rubin,3
+Denys Oliynyk,3
+Jeffrey Rijsdijk,3
+Simon Poulsen,3
+Andreas Bjelland,3
+Mart Lieder,3
+Robert Braber,3
+Eric Botteghin,3
+Kyle Ebecilio,3
+Christian Kum,3
+Michiel Hemmen,3
+Xander Houtkoop,3
+Gévero Markiet,3
+Jeffrey Bruma,3
+Jeffry Fortes,3
+Stipe Perica,3
+Willem Janssen,3
+Marnix Kolder,3
+Mathias Gehrt,3
+Viktor Fischer,3
+Simon Thern,3
+Bart Vriends,3
+Giovanni Korte,3
+Carlo de Reuver,3
+Jetro Willems,2
+Dabney dos Santos,2
+Jarchinio Antonia,2
+Joey van den Berg,2
+Jeffrey Sarpong,2
+Jordy Clasie,2
+Terell Ondaan,2
+Daryl van Mieghem,2
+Joris van Overeem,2
+Ninos Gouriye,2
+Daniël de Ridder,2
+Demy de Zeeuw,2
+Luigi Bruins,2
+Daan Bovenberg,2
+Lucas Andersen,2
+Jody Lukoki,2
+Henk Veerman,2
+Stijn Wuytens,2
+Florian Jozefzoon,2
+Thomas Lam,2
+Kristoffer Peterson,2
+Renato Ibarra,2
+Deniz Türüc,2
+Karim El Ahmadi,2
+Oleksandr Yakovenko,2
+Wesley Verhoek,2
+Nacer Barazite,2
+Wilson Eduardo,2
+Jeroen Veldmate,2
+Ryan Koolwijk,2
+Jules Reimerink,2
+Danny Hoesen,2
+Kelvin Leerdam,2
+Fernando Lewis,2
+Guus Hupperts,2
+Ricardo van Rhijn,2
+Mark Diemers,2
+Jaroslav Navrátil,2
+Sean Klaiber,2
+Everon Pisas,2
+Orlando Engelaar,2
+Jan-Arie van der Heijden,2
+Guyon Fernandez,2
+Nick Viergever,2
+Danny Verbeek,2
+Jerson Cabral,2
+Mike van der Hoorn,2
+Brahim Darri,2
+Sebastian Steblecki,2
+Kevin Vermeulen,2
+Wesley Hoedt,2
+Robin Gosens,2
+Bart van Hintum,1
+Kamohelo Mokotjo,1
+Jordan Botaka,1
+Rochdi Achenteh,1
+Jop van der Linden,1
+Etiënne Reijnen,1
+Jeffrey Gouweleeuw,1
+Mark-Jan Fledderus,1
+Ramon Zomer,1
+Guram Kashia,1
+Freek Heerkens,1
+Uros Matic,1
+Mark van der Maarel,1
+Mattias Johansson,1
+Dejan Meleg,1
+Sheraldo Becker,1
+Mimoun Mahi,1
+Frank van der Struijk,1
+Andrés Guardado,1
+Thomas Kristensen,1
+Nick van der Velden,1
+Rasmus Lindgren,1
+Bram van Polen,1
+Josimar Lima,1
+Sander Fischer,1
+Rick ten Voorde,1
+Charlton Vicento,1
+Santiago Arias,1
+Wallace,1
+Lesly de Sa,1
+Kingsley Boateng,1
+Kenny van der Weg,1
+Soufian Moro,1
+Danny Bakker,1
+Richairo Zivkovic,1
+Sven van Beek,1
+Anthony Biekman,1
+Jeff Hardeveld,1
+Bart Ramselaar,1
+Joost Broerse,1
+Gianni Zuiverloon,1
+Ruben Schaken,1
+Rasmus Bengtsson,1
+Rihairo Meulens,1
+Jukka Raitala,1
+Ricky van Haaren,1
+Glynor Plet,1
+Sjoerd Overgoor,1
+Dries Wuytens,1
+Lerin Duarte,1
+Thulani Serero,1
+Lorenzo Burnet,1
+Torgeir Börven,1
+Marten de Roon,1
+Nicolas Isimat-Mirin ,1
+Leon de Kogel,1
+Mawouna Amevor,1
+Erik Cummins,1
+Karim Rekik,1
+Sven Nieuwpoort,1
+Joey Pelupessy,1
+Yoëll van Nieff,1
+Uros Djurdjevic,1
+Khalid Karami,1
+Simon Tibbling,1
+Jorrit Hendrix,1
+Joshua Brenet,1
+Riechedly Bazoer,1
+Elson Hooi,1
+Gervane Kastaneer,1
+Bilal Ould-Chikh,1
+Derrick Luckassen,1
+Joachim Andersen,1
+Shadrach Eghan,1
+Gyrano Kerk,1
+Rodney Antwi,1

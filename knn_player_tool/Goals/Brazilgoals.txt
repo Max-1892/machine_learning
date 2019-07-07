@@ -1,0 +1,294 @@
+Ricardo Oliveira,20
+Vágner Love,14
+Jádson,13
+Lucas Pratto,13
+André,13
+Henrique Almeida,12
+Willian,11
+Vitinho,11
+Alexandre Pato,10
+Dudu,10
+Gabriel,10
+Luan,10
+André Lima,10
+Erik,10
+Diego Souza,9
+Walter,9
+Fred,9
+Thiago Ribeiro,9
+Nenê,9
+Bruno Rangel,9
+Luís Fabiano,8
+Bruno Henrique,7
+Biro Biro,7
+Jesús Dátolo,7
+Clayton,7
+Rafael Marques,7
+Alan Patrick,7
+Luan,7
+Michel Bastos,7
+Giuliano,6
+Geuvânio,6
+Kayke,6
+Kempes,6
+Valdívia,6
+Jonathan Cristaldo,6
+Dudú,6
+Fred,6
+Leandro Pereira,6
+Giovanni Augusto,5
+Elias,5
+Renato Augusto,5
+Marcelinho Paraíba,5
+Douglas,5
+Felipe Menezes,5
+Malcom,5
+Renato Cajá,5
+Marcos Júnior,5
+Gustavo Scarpa,5
+Anderson Lopes,5
+Pedro Rocha ,5
+Bobô,5
+Borges,5
+Élber,5
+Túlio de Melo,5
+Emerson,5
+Lucas Barrios,5
+Léo Gamalho,5
+Ewandro,5
+Matheus Ferraz,5
+Luciano,5
+Lucas Lima,4
+Nikão,4
+Marcos Guilherme,4
+Lisandro López,4
+Apodi,4
+Felipe Azevedo,4
+Éverton,4
+Maikon Leite,4
+Leandro Damião,4
+Gabriel Jesus,4
+Alan Kardec,4
+Jean,4
+Vitor Hugo,4
+Gabriel,4
+Giorgian De Arrascaeta,4
+Rodrigo,4
+Duvier Riascos,4
+Rogério,4
+Jemerson,4
+Everton,4
+Thiago,4
+Patric,3
+Marlone,3
+Robinho,3
+Vinicius,3
+Paolo Guerrero,3
+Alecsandro,3
+Marquinhos Gabriel,3
+Alisson,3
+Régis,3
+Rômulo,3
+Júan,3
+Marquinhos,3
+Camilo,3
+Ananias,3
+Diego Oliveira,3
+Charles,3
+Cícero,3
+Ederson,3
+Lucca,3
+Hernani,3
+Marcos Vinicius,3
+Yuri Mamute,3
+Ángel Romero,3
+Carlos,3
+Rogério Ceni,3
+Carlos Alberto,3
+Nilmar,3
+Zé Eduardo,3
+Ernando,3
+Leonardo Silva,3
+Alexandro,3
+Fernando Bob,3
+Marcão,3
+Neto,3
+Jackson,3
+Cleberson,3
+Paulinho,3
+Rafael Silva,3
+Evandro,3
+Ganso,2
+Zé Roberto,2
+Marcos Rocha,2
+Carlinhos,2
+Marcelo Oliveira,2
+Uendel,2
+Héctor Canteros,2
+Negueba,2
+Ricardo Centurión,2
+Wellington Paulista,2
+Lucas,2
+Willians,2
+Rafael Galhardo,2
+Marquinhos,2
+Edigar Junio,2
+Rafhael Lucas,2
+Vinícius Araújo,2
+Sidcley,2
+Carlos,2
+Eduardo,2
+Maicosuel,2
+Nílton,2
+Renato Chaves,2
+Victor Ramos,2
+Gil,2
+Paulão,2
+Rafael Longuine,2
+Edú Dracena,2
+Robinho,2
+David Braz,2
+Júlio César,2
+Réver,2
+Souza,2
+Émerson,2
+Bruno Aguiar,2
+Werley,2
+Rodriguinho,2
+Édson,2
+Tiago Alves,2
+Eduardo Sasha,2
+Hernane,2
+Hugo,2
+Rafael Donato,2
+Douglas Coutinho,2
+Thiago Maia,2
+Bruno Mota,2
+Egídio,1
+Victor Ferraz,1
+Yago,1
+Cléber Santana,1
+Renan Oliveira,1
+Marquinhos,1
+Renê,1
+Gerson,1
+Andrezinho,1
+Rafael Bastos,1
+Néstor Camacho,1
+Rithely,1
+Felipe,1
+Rodrigo,1
+Joelinton,1
+Alex,1
+Ceará,1
+Marcos Aurélio,1
+Wesley,1
+Rafael Moura,1
+Pará,1
+Osvaldo,1
+Manoel,1
+Marcelo  Cirino,1
+Roberto,1
+Thiago Mendes,1
+Thiago Galhardo,1
+Leandro Silva,1
+Samuel Xavier,1
+Ricardinho,1
+Liniker,1
+Willian Popp,1
+Vitor,1
+Kléber,1
+David,1
+Gustavo,1
+Gum,1
+Maicón,1
+Kadu,1
+Fabrício,1
+Wallace,1
+Ytalo,1
+Ruy,1
+Fernandinho,1
+Ralf,1
+Everton Silva,1
+Neto Berola,1
+Gil,1
+Maxi Rodríguez,1
+Luiz Antônio,1
+Nilson,1
+Frickson Erazo,1
+Leandro,1
+Gabriel,1
+Marquinhos,1
+Wílder Guisao,1
+Jhon Cley,1
+Fernando Viana,1
+Danilo,1
+Bruno Henrique,1
+Rodrigo,1
+Lucas Gomes,1
+Marciel,1
+Leandrão,1
+Fábio Santos,1
+Wendel,1
+Jô,1
+Mariano Tripodi,1
+Wagner,1
+Bruno Pereirinha,1
+Thiego,1
+Breno,1
+Henrique,1
+Elicarlos,1
+Rhodolfo,1
+Cristian,1
+William,1
+Matías Rodríguez,1
+Tiago Luis,1
+Roger,1
+Marinho,1
+Bruno Silva,1
+Rafael Costa,1
+Braian Rodríguez,1
+Paulo Miranda,1
+Emanuel Biancucchi,1
+Christián Vilches,1
+Wellington Silva,1
+Wesley,1
+Felipe,1
+Luis Cáceres,1
+João Paulo,1
+João Vitor,1
+Roberto,1
+Elton,1
+Stiven Mendoza,1
+Paulo Roberto,1
+Ayrton,1
+Pablo,1
+Silvinho,1
+Ferrugem,1
+Rodrigo Caio,1
+Guti,1
+Rildo,1
+Ferron,1
+Bruno Alves,1
+Luiz Eduardo,1
+Joel,1
+Claudinei,1
+Antônio Carlos,1
+Fabinho,1
+Dória,1
+Bady,1
+Rafael Vaz,1
+Bressan,1
+Andrei Girotto,1
+Fabiano,1
+Paulinho,1
+Gabriel Xavier,1
+Gabriel Boschilia,1
+Robert,1
+Eduardo,1
+Mario Sérgio,1
+Neto,1
+Guilherme Arana,1
+Lucas,1
+Kadu,1
+Renan,1
