@@ -1,0 +1,125 @@
+# Reads in player names, positions, and ratings
+# into three different arrays with consistent indexing
+import sys
+import random
+import numpy as np
+import scipy.stats as stats
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.neighbors import KDTree
+from sklearn.neighbors import BallTree
+from sklearn.cross_validation import KFold
+from sklearn.neighbors import DistanceMetric
+
+def fractionalNorm(x1, x2):
+  return np.sum(pow((x1 - x2),.3333)**3)
+
+# Read in player names
+names = []
+with open("FinalResults_Names.txt") as nameFile:
+  for line in nameFile :
+    names.append(line.strip('\n'))
+
+# Read in player positions
+positions = []
+with open("FinalResults_Positions.txt") as posFile:
+  for line in posFile :
+    positions.append(line.strip('\n'))
+
+# Read in player ratings
+ratingsFile = open("FinalResults_Ratings.txt")
+ratings = np.loadtxt(ratingsFile, delimiter=",")
+
+# Read in player goal tallies
+goalsFile = open("FinalResults_Goals.txt")
+goals = np.loadtxt(goalsFile)
+
+np.set_printoptions(edgeitems=35)
+# Feature selection first!
+featurePool=range(0,35)
+chosenFeatures=[]
+basePerf = float("inf")
+while len(featurePool) > 0:
+  bestPerf = float("inf")
+  sseArray=[]
+  for feature in featurePool:
+    folds = KFold(12365, n_folds=4)
+    for train_index, test_index in folds:
+      featureSubset=ratings[:,[chosenFeatures+[feature]]].reshape(12365,len(chosenFeatures)+1)
+      tree = KDTree(featureSubset[train_index])
+      model = KNeighborsRegressor(algorithm="kd_tree")
+      model.fit(tree, goals[train_index])
+      prediction = model.predict(featureSubset[test_index])
+      sse = np.sum((prediction - goals[test_index])**2)
+      sseArray.append(sse)
+    mean = np.asarray(sseArray).mean()
+    if (mean < bestPerf): 
+      bestPerf = mean
+      featurePool.remove(feature)
+      chosenFeatures.append(feature)
+  if (bestPerf < basePerf):
+    basePerf = bestPerf
+  else:
+    break
+
+# Distance tests, 10-fold cross validation
+#euclideanSseArray = []
+#manhattanSseArray = []
+#fractionalSseArray = []
+#l2AveRatio = 0
+#l1AveRatio = 0
+#fractionalAveRatio = 0
+#folds = KFold(12365, n_folds=10)
+#for train_index, test_index in folds:
+#  # Create search data structures
+#  l2Tree = KDTree(ratings[train_index])
+#  l1Tree = KDTree(ratings[train_index], metric='manhattan')
+#  fractionalTree = BallTree(ratings[train_index], metric=fractionalNorm)
+#
+#  # Create k-NN Regressor
+#  l2Model = KNeighborsRegressor(algorithm="kd_tree") 
+#  l1Model = KNeighborsRegressor(algorithm="kd_tree") 
+#  fractionalModel = KNeighborsRegressor(algorithm="ball_tree")
+#
+#  # Fit models
+#  l2Model.fit(l2Tree, goals[train_index])
+#  l1Model.fit(l1Tree, goals[train_index])
+#  fractionalModel.fit(fractionalTree, goals[train_index])
+#
+#  # Predict on test set
+#  l2Pred = l2Model.predict(ratings[test_index])
+#  l1Pred = l1Model.predict(ratings[test_index])
+#  fractionalPred = fractionalModel.predict(ratings[test_index])
+#
+#  # Get nearest neighbors
+#  l2Neigh = l2Model.kneighbors(ratings[test_index], len(test_index))
+#  l1Neigh = l1Model.kneighbors(ratings[test_index], len(test_index))
+#  fractionalNeigh = fractionalModel.kneighbors(ratings[test_index], len(test_index))
+#
+#  # Calculate ratio of ave. furthest point / ave. closest point
+#  l2AveRatio += (l2Neigh[0].mean(axis=0)[len(test_index) - 1] / l2Neigh[0].mean(axis=0)[0])
+#  l1AveRatio += (l1Neigh[0].mean(axis=0)[len(test_index) - 1] / l1Neigh[0].mean(axis=0)[0])
+#  fractionalAveRatio += \
+#    (fractionalNeigh[0].mean(axis=0)[len(test_index) - 1] / fractionalNeigh[0].mean(axis=0)[0])
+#
+#  # Calculate sum squared error
+#  l2Sse = np.sum(((l2Pred - goals[test_index]) ** 2))
+#  l1Sse = np.sum(((l1Pred - goals[test_index]) ** 2))
+#  fractionalSse = np.sum(((fractionalPred - goals[test_index]) ** 2))
+#
+#  # Add to array
+#  euclideanSseArray.append(l2Sse)
+#  manhattanSseArray.append(l1Sse)
+#  fractionalSseArray.append(fractionalSse)
+#
+#sys.stdout.write('The Euclidean MSE = %s\n' %  np.asarray(euclideanSseArray).mean())
+#sys.stdout.write('The Manhattan MSE = %s\n' % np.asarray(manhattanSseArray).mean())
+#sys.stdout.write('The fractional MSE = %s\n' % np.asarray(fractionalSseArray).mean())
+#
+#fValue, pValue = stats.f_oneway(euclideanSseArray, manhattanSseArray, fractionalSseArray)
+#sys.stdout.write('f value = %s\n' % fValue)
+#sys.stdout.write('p value = %s\n' % pValue)
+#
+#sys.stdout.write('Euclidean ratio: %f\n' % (l2AveRatio / 10))
+#sys.stdout.write('Manhanttan ratio: %f\n' % (l1AveRatio / 10))
+#sys.stdout.write('Fractional ratio: %f\n' % (fractionalAveRatio / 10))
+
